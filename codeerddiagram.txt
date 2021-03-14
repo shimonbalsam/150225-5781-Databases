@@ -1,0 +1,40 @@
+CREATE TABLE area
+(
+  areaID INT NOT NULL,
+  areaName VARCHAR(20),
+  PRIMARY KEY (areaID)
+);
+
+CREATE TABLE city
+(
+  cityName VARCHAR(20) NOT NULL,
+  areaID INT NOT NULL,
+  PRIMARY KEY (cityName),
+  FOREIGN KEY (areaID) REFERENCES area(areaID)
+);
+
+CREATE TABLE client
+(
+  clientID INT NOT NULL,
+  clientName VARCHAR(20),
+  phoneNr VARCHAR(10),
+  Address VARCHAR(25),
+  cityName VARCHAR(20) NOT NULL,
+  PRIMARY KEY (clientID),
+  FOREIGN KEY (cityName) REFERENCES city(cityName)
+);
+
+CREATE TABLE agent
+(
+  agentID INT NOT NULL,
+  agentName VARCHAR(20),
+  rating INT,
+  HireYear INT,
+  bossID INT,
+  salary FLOAT,
+  areaID INT NOT NULL,
+  clientID INT NOT NULL,
+  PRIMARY KEY (agentID),
+  FOREIGN KEY (areaID) REFERENCES area(areaID),
+  FOREIGN KEY (clientID) REFERENCES client(clientID)
+);
