@@ -1,0 +1,42 @@
+CREATE TABLE commander
+(
+  commander_name VARCHAR(30) NOT NULL,
+  commander_id INT NOT NULL,
+  classification NUMERIC(5) NOT NULL,
+  command VARCHAR(30),
+  rank VARCHAR(20) NOT NULL,
+  number_of_soldiers INT NOT NULL,
+  role VARCHAR(30) NOT NULL,
+  PRIMARY KEY (commander_id)
+);
+
+CREATE TABLE base
+(
+  base_id INT NOT NULL,
+  base_name VARCHAR(20) NOT NULL,
+  location VARCHAR(20) NOT NULL,
+  budget INT NOT NULL,
+  classification NUMERIC(5) NOT NULL,
+  domain CHAR NOT NULL,
+  commander_id INT NOT NULL,
+  PRIMARY KEY (base_id),
+  FOREIGN KEY (commander_id) REFERENCES commander(commander_id)
+);
+
+CREATE TABLE unit
+(
+  activy_area VARCHAR(20) NOT NULL,
+  unit_name VARCHAR(20) NOT NULL,
+  unit_id INT NOT NULL,
+  classification NUMERIC(5) NOT NULL,
+  combat_level VARCHAR(20) NOT NULL,
+  demand NUMERIC(10) NOT NULL,
+  search_type VARCHAR(20) NOT NULL,
+  force VARCHAR(40) NOT NULL,
+  number_of_soldiers INT NOT NULL,
+  commander_id INT NOT NULL,
+  base_id INT NOT NULL,
+  PRIMARY KEY (unit_id),
+  FOREIGN KEY (commander_id) REFERENCES commander(commander_id),
+  FOREIGN KEY (base_id) REFERENCES base(base_id)
+);
