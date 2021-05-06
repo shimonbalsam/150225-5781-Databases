@@ -17,7 +17,7 @@ CREATE TABLE base
   location VARCHAR(50) NOT NULL,
   budget INT NOT NULL,
   classification NUMERIC(5) NOT NULL,
-  domain CHAR NOT NULL,
+  domain VARCHAR(20) NOT NULL,
   commander_id INT NOT NULL,
   PRIMARY KEY (base_id),
   FOREIGN KEY (commander_id) REFERENCES commander(commander_id)
