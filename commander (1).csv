@@ -1,0 +1,1001 @@
+commander_id,commander_name,classification,command,rank,number_of_soldiers,role
+5001,Alfy Pietsma,1,Home Front,rav seren,22785,commander of pluga
+5002,Ware Ferguson,4,Northern,aluf mishne,22079,commander of chativa
+5003,Jerrie Gebbie,1,Southern,aluf,79509,commander of gdud
+5004,Marlo Michelet,2,Home Front,seren,74962,commander of pluga
+5005,Guillaume Kahler,1,Southern,sgan aluf,51498,commander of gdud
+5006,Hoyt Mair,4,Home Front,aluf mishne,10018,commander of chativa
+5007,Denver Verrick,1,Southern,sgan aluf,92244,commander of gdud
+5008,Ronnie Velti,3,Northern,aluf mishne,84052,commander of chativa
+5009,Josefina Yeulet,3,Home Front,sgan aluf,62705,commander of gdud
+5010,Ulysses Metzke,4,Northern,tat aluf,20664,commander of ugda
+5011,Bale Morrant,5,Southern,tat aluf,73785,commander of ugda
+5012,Joana Humbert,3,Northern,aluf,6329,commander of gdud
+5013,Kacey Foggarty,1,Northern,tat aluf,54104,commander of ugda
+5014,Adrienne Dumphrey,4,Central,seren,26079,commander of pluga
+5015,Nanni Corston,3,Northern,tat aluf,32127,commander of ugda
+5016,Cecilia Cursey,4,Home Front,seren,44696,commander of pluga
+5017,Rhys O' Hanvey,3,Northern,sgan aluf,4464,commander of pluga
+5018,Babb Whissell,2,Southern,aluf,2652,commander of pluga
+5019,Blisse Wilfling,5,Central,tat aluf,33431,commander of ugda
+5020,Danielle Pabst,3,Southern,sgan aluf,71363,commander of pluga
+5021,Westbrooke Ralston,1,Central,aluf mishne,57150,commander of chativa
+5022,Charlton Perago,1,Northern,aluf mishne,28170,commander of chativa
+5023,Agnola Horlick,3,Southern,sgan aluf,20950,commander of pluga
+5024,Lib Fynes,3,Southern,tat aluf,84252,commander of ugda
+5025,Dugald Dyter,2,Central,seren,63460,commander of pluga
+5026,Delcina Angeau,1,Central,aluf,81535,commander of gdud
+5027,Floria Izakoff,5,Home Front,seren,80194,commander of pluga
+5028,Tabitha Master,1,Southern,tat aluf,1470,commander of ugda
+5029,Robinetta Reinhard,4,Southern,seren,55829,commander of pluga
+5030,Maddie Dockrell,4,Southern,seren,38018,commander of pluga
+5031,Sam Spino,4,Northern,sgan aluf,27002,commander of gdud
+5032,Ogden Byron,3,Northern,seren,1107,commander of pluga
+5033,Merrilee Grove,4,Northern,rav seren,84550,commander of pluga
+5034,Aron Espie,1,Central,aluf mishne,26942,commander of chativa
+5035,Rodolfo Janovsky,2,Central,seren,55115,commander of pluga
+5036,Karlan Overlow,4,Central,aluf,71703,commander of command
+5037,Cathleen MacUchadair,4,Southern,aluf mishne,47589,commander of chativa
+5038,Hirsch O'Flaherty,3,Southern,rav seren,6081,commander of pluga
+5039,Raffaello Milillo,5,Home Front,aluf,87581,commander of pluga
+5040,Maryrose Dallicott,4,Central,tat aluf,11615,commander of ugda
+5041,Reggis Vidgeon,3,Home Front,sgan aluf,34612,commander of pluga
+5042,Kennith Bernardotti,5,Northern,sgan aluf,39393,commander of pluga
+5043,Rube Habens,3,Home Front,tat aluf,1989,commander of ugda
+5044,Tierney Grugerr,2,Northern,tat aluf,24803,commander of ugda
+5045,Sven Bernardeschi,4,Home Front,rav seren,9150,commander of pluga
+5046,Borden Dopson,4,Central,seren,91915,commander of pluga
+5047,Carolina Follacaro,1,Central,sgan aluf,77430,commander of pluga
+5048,Omero Pattington,2,Southern,seren,65914,commander of pluga
+5049,Osbert M'cowis,4,Southern,aluf,52456,commander of pluga
+5050,Sheree Goldhawk,3,Northern,rav seren,93001,commander of pluga
+5051,Eleanore Bremmell,4,Southern,tat aluf,17805,commander of ugda
+5052,Reinaldo Manske,3,Central,aluf,23298,commander of command
+5053,Amara Wilflinger,2,Central,aluf,6245,commander of gdud
+5054,Drusie Chapell,1,Central,aluf mishne,41556,commander of chativa
+5055,Hale Prichard,1,Central,aluf,78483,commander of pluga
+5056,Cyril Balden,4,Northern,rav seren,5170,commander of pluga
+5057,Micheline Burkman,2,Home Front,seren,30762,commander of pluga
+5058,Amelia Fever,2,Southern,rav seren,15780,commander of pluga
+5059,Dolley Flohard,5,Northern,tat aluf,37151,commander of ugda
+5060,Iago Rearie,1,Southern,aluf mishne,21452,commander of chativa
+5061,Sybille Delph,1,Southern,aluf,75826,commander of gdud
+5062,Orazio Clamp,3,Northern,aluf,11716,commander of pluga
+5063,Marylou Prantoni,5,Home Front,seren,74598,commander of pluga
+5064,Inesita Pooly,4,Northern,aluf mishne,11294,commander of chativa
+5065,Danyelle Pizzie,4,Southern,seren,5038,commander of pluga
+5066,Ax Fust,1,Southern,seren,37174,commander of pluga
+5067,Betsey Audley,4,Home Front,tat aluf,3047,commander of ugda
+5068,Alwin Burel,3,Home Front,seren,30230,commander of pluga
+5069,Ibby Reijmers,5,Southern,sgan aluf,62662,commander of pluga
+5070,Theda Gott,1,Northern,sgan aluf,95182,commander of gdud
+5071,Corrie Danslow,4,Southern,sgan aluf,50684,commander of pluga
+5072,Amalea Nevinson,1,Northern,sgan aluf,52107,commander of pluga
+5073,Dollie Leslie,2,Northern,tat aluf,98124,commander of ugda
+5074,Gamaliel Dubarry,2,Central,aluf,16752,commander of pluga
+5075,Huberto Grimmert,3,Southern,rav seren,80124,commander of pluga
+5076,Grove Duchart,5,Home Front,tat aluf,79249,commander of ugda
+5077,Nissy Po,2,Northern,aluf mishne,89031,commander of chativa
+5078,Edik Bartusek,3,Northern,rav seren,1707,commander of pluga
+5079,Albert Barthel,2,Southern,aluf mishne,72517,commander of chativa
+5080,Vanni Di Francesco,4,Northern,tat aluf,51405,commander of ugda
+5081,Wilbert Trusslove,2,Northern,aluf,5813,commander of gdud
+5082,Ros Fost,2,Home Front,seren,52129,commander of pluga
+5083,Luciana Hanwright,3,Central,tat aluf,45929,commander of ugda
+5084,Zed Papa,5,Southern,seren,77487,commander of pluga
+5085,Terri Preddle,4,Home Front,aluf,87700,commander of pluga
+5086,Tudor Rupke,3,Southern,aluf mishne,31426,commander of chativa
+5087,Thain Peacop,1,Southern,rav seren,65419,commander of pluga
+5088,Alexa Eaken,1,Central,rav seren,48652,commander of pluga
+5089,Samantha Comi,2,Northern,sgan aluf,44766,commander of pluga
+5090,Aime Kalkofer,4,Home Front,aluf,79410,commander of gdud
+5091,Erroll Jury,5,Northern,aluf mishne,52312,commander of chativa
+5092,Palmer Carstairs,5,Home Front,sgan aluf,66233,commander of pluga
+5093,Floria Fortesquieu,5,Southern,aluf mishne,25652,commander of chativa
+5094,Cassie Beetlestone,2,Northern,sgan aluf,43468,commander of gdud
+5095,Jermain Baumler,3,Northern,tat aluf,93513,commander of ugda
+5096,Carrie Cockshut,4,Southern,sgan aluf,45065,commander of gdud
+5097,Zsa zsa McLaren,5,Northern,aluf,59846,commander of pluga
+5098,Adey Tilford,2,Southern,sgan aluf,93623,commander of gdud
+5099,Ernst Schwerin,4,Central,aluf,91461,commander of pluga
+5100,Aile Hakking,3,Northern,rav seren,70778,commander of pluga
+5101,Joceline Argont,3,Central,aluf mishne,53737,commander of chativa
+5102,Alanah Karleman,1,Central,tat aluf,87117,commander of ugda
+5103,Damara Zavattiero,5,Home Front,seren,18788,commander of pluga
+5104,Lucienne Drezzer,4,Southern,seren,98623,commander of pluga
+5105,Alessandra Gearty,5,Home Front,sgan aluf,20929,commander of gdud
+5106,Foster Bampforth,2,Home Front,seren,74032,commander of pluga
+5107,Dulcine Filipson,2,Home Front,tat aluf,14535,commander of ugda
+5108,Shea Dowthwaite,1,Northern,aluf,64455,commander of pluga
+5109,Sherlock Pavek,5,Central,aluf mishne,24197,commander of chativa
+5110,Stesha Dobbie,5,Southern,aluf mishne,30122,commander of chativa
+5111,Caye Sawden,5,Central,aluf mishne,59562,commander of chativa
+5112,Rodi Tinston,3,Northern,tat aluf,43539,commander of ugda
+5113,Tedie Frosch,2,Southern,aluf mishne,48387,commander of chativa
+5114,Blondelle McGriffin,1,Southern,aluf mishne,80558,commander of chativa
+5115,Charlotte Edgcombe,2,Home Front,tat aluf,34035,commander of ugda
+5116,Eileen Giraudo,5,Home Front,sgan aluf,96432,commander of gdud
+5117,Joya Trillow,3,Home Front,aluf,76253,commander of pluga
+5118,Ursuline Colafate,4,Home Front,sgan aluf,24082,commander of gdud
+5119,Ronnie Enevoldsen,3,Central,seren,34605,commander of pluga
+5120,Demott Stainburn,1,Northern,aluf,19508,commander of command
+5121,Rebbecca Kroll,3,Northern,aluf mishne,30450,commander of chativa
+5122,Alonso Hagart,3,Central,rav seren,14395,commander of pluga
+5123,Hobie Clinch,5,Southern,aluf,27836,commander of command
+5124,Ruperto Speke,1,Home Front,rav seren,70236,commander of pluga
+5125,Kissie Georger,3,Southern,rav seren,71296,commander of pluga
+5126,Rosemaria Marham,4,Southern,aluf,78893,commander of gdud
+5127,Saree Greene,3,Central,tat aluf,89756,commander of ugda
+5128,Danya Kenryd,3,Northern,seren,59915,commander of pluga
+5129,Erin De Lorenzo,3,Home Front,sgan aluf,33921,commander of gdud
+5130,Rochell Gossart,5,Northern,tat aluf,39341,commander of ugda
+5131,Oswald Gracey,1,Home Front,tat aluf,62583,commander of ugda
+5132,Newton Cardenosa,3,Northern,sgan aluf,42669,commander of gdud
+5133,Shoshanna Bloomfield,4,Southern,aluf,57027,commander of pluga
+5134,Else Curless,5,Southern,seren,20308,commander of pluga
+5135,Northrop Boylin,5,Home Front,tat aluf,19169,commander of ugda
+5136,Dimitry Boichat,2,Southern,aluf,75315,commander of command
+5137,Wendy Antognelli,1,Northern,aluf,53810,commander of gdud
+5138,Reider Spillett,1,Northern,sgan aluf,90902,commander of gdud
+5139,Hugh Peery,1,Southern,rav seren,56588,commander of pluga
+5140,Izak Punchard,2,Central,sgan aluf,38937,commander of pluga
+5141,Thayne Dedmam,1,Central,aluf,7262,commander of gdud
+5142,Amie Annice,5,Home Front,rav seren,36453,commander of pluga
+5143,Giselle Bosley,5,Northern,aluf mishne,96470,commander of chativa
+5144,Emlynn Ambler,1,Southern,aluf,79873,commander of gdud
+5145,Glyn Monahan,4,Home Front,aluf mishne,41225,commander of chativa
+5146,Ilyssa Tixier,5,Southern,tat aluf,76351,commander of ugda
+5147,Alina Gianettini,3,Southern,seren,34690,commander of pluga
+5148,Aprilette Zincke,5,Central,seren,34201,commander of pluga
+5149,Umeko Padson,3,Northern,tat aluf,41876,commander of ugda
+5150,Osmond Cashell,2,Southern,seren,78027,commander of pluga
+5151,Filmer Grayshan,1,Northern,aluf,99383,commander of gdud
+5152,Norby Prinnett,1,Northern,seren,10442,commander of pluga
+5153,Marget Mackness,5,Central,aluf,67664,commander of gdud
+5154,Sanders Ryott,3,Southern,tat aluf,50224,commander of ugda
+5155,Marcel Fulks,5,Southern,tat aluf,71344,commander of ugda
+5156,Petr Marien,3,Southern,sgan aluf,57825,commander of pluga
+5157,Connor Tomaschke,5,Northern,rav seren,81899,commander of pluga
+5158,Herrick Epton,3,Central,aluf mishne,54996,commander of chativa
+5159,Norene Krzysztof,3,Home Front,aluf mishne,86129,commander of chativa
+5160,Ravid Derobert,5,Northern,tat aluf,2179,commander of ugda
+5161,Fanya Balke,5,Northern,tat aluf,44043,commander of ugda
+5162,Trix Rodwell,1,Home Front,sgan aluf,70420,commander of gdud
+5163,Tam Solomonides,4,Central,sgan aluf,83948,commander of pluga
+5164,Scot Rawsthorne,1,Southern,aluf,14010,commander of pluga
+5165,Aeriela Heintzsch,5,Central,sgan aluf,96812,commander of pluga
+5166,Zenia Bromet,3,Southern,seren,22643,commander of pluga
+5167,Hephzibah Meynell,1,Southern,aluf mishne,43093,commander of chativa
+5168,Natalee Keetch,4,Southern,aluf mishne,44611,commander of chativa
+5169,Bale Smithson,3,Central,sgan aluf,63020,commander of gdud
+5170,Tatum Marguerite,1,Central,seren,69896,commander of pluga
+5171,Olenolin Bettison,1,Northern,seren,85305,commander of pluga
+5172,Finlay Brinicombe,4,Southern,rav seren,82467,commander of pluga
+5173,Bealle Ashforth,3,Central,aluf,39500,commander of pluga
+5174,Gina Johananov,5,Home Front,aluf,52811,commander of gdud
+5175,Manuel Flawith,4,Northern,seren,17110,commander of pluga
+5176,Bryon Shinton,2,Northern,sgan aluf,42969,commander of pluga
+5177,Zollie Pizzey,1,Southern,sgan aluf,84355,commander of pluga
+5178,Rhea Larmett,5,Central,seren,47737,commander of pluga
+5179,Layton Kenwright,4,Home Front,aluf,14954,commander of command
+5180,Lodovico Molyneaux,1,Northern,rav seren,33345,commander of pluga
+5181,Webb Middleton,3,Central,aluf,47266,commander of gdud
+5182,Perle Lippard,5,Northern,rav seren,79462,commander of pluga
+5183,Windham Ewart,5,Central,aluf mishne,67847,commander of chativa
+5184,Cyrill Reary,1,Home Front,rav seren,29303,commander of pluga
+5185,Nata Hanington,3,Central,rav seren,20087,commander of pluga
+5186,Lucien McKmurrie,1,Central,aluf,97964,commander of pluga
+5187,Connie Ridpath,4,Northern,aluf,12228,commander of command
+5188,Lavinie Sisey,4,Northern,tat aluf,2625,commander of ugda
+5189,Nobie Becraft,1,Home Front,seren,40342,commander of pluga
+5190,Janos Ions,4,Northern,sgan aluf,54345,commander of gdud
+5191,Niki Leaton,1,Home Front,rav seren,41999,commander of pluga
+5192,Austina Gillibrand,2,Home Front,aluf,40872,commander of gdud
+5193,Dane Shreeves,2,Home Front,aluf mishne,85738,commander of chativa
+5194,Lynne Penelli,2,Southern,rav seren,58127,commander of pluga
+5195,Shelagh Rieme,1,Southern,aluf,41604,commander of pluga
+5196,Brockie Entwisle,2,Northern,tat aluf,59409,commander of ugda
+5197,Sibylle Corneille,1,Central,seren,10740,commander of pluga
+5198,Cornela Gillham,2,Northern,aluf mishne,12654,commander of chativa
+5199,Wilbur Chotty,2,Central,rav seren,91979,commander of pluga
+5200,Valle Hawk,1,Southern,seren,79672,commander of pluga
+5201,Judie Bust,2,Northern,sgan aluf,91057,commander of gdud
+5202,Joey Buxsey,4,Home Front,seren,62636,commander of pluga
+5203,Steward Johnston,4,Home Front,aluf,6281,commander of pluga
+5204,Eugenius Sill,1,Home Front,tat aluf,13238,commander of ugda
+5205,Nicol Tippings,4,Northern,rav seren,5397,commander of pluga
+5206,Patric Lambal,4,Southern,sgan aluf,47853,commander of pluga
+5207,Mersey Gorey,5,Southern,tat aluf,68885,commander of ugda
+5208,Vivie Swinbourne,4,Central,tat aluf,56432,commander of ugda
+5209,Bennie McBrearty,3,Home Front,aluf mishne,50202,commander of chativa
+5210,Dael Daelman,5,Home Front,sgan aluf,30144,commander of gdud
+5211,Emili Okie,2,Southern,sgan aluf,99052,commander of gdud
+5212,Paquito O'Loughnan,4,Home Front,seren,49073,commander of pluga
+5213,Dwayne Hassen,3,Home Front,tat aluf,32331,commander of ugda
+5214,Urson Wynes,1,Central,tat aluf,33998,commander of ugda
+5215,Christan Challace,2,Northern,seren,21080,commander of pluga
+5216,Maddy Cutler,5,Central,rav seren,13969,commander of pluga
+5217,Mora Lorman,3,Central,tat aluf,68454,commander of ugda
+5218,Sayers Eagell,2,Central,sgan aluf,88221,commander of gdud
+5219,Roze Juanes,3,Home Front,seren,74811,commander of pluga
+5220,Martelle Laxton,1,Southern,seren,72614,commander of pluga
+5221,Sheilakathryn Chidzoy,3,Northern,sgan aluf,54981,commander of pluga
+5222,Octavia Nitti,2,Southern,seren,8392,commander of pluga
+5223,Kala Mallen,5,Central,seren,65950,commander of pluga
+5224,Wiley Cordon,2,Southern,aluf,66326,commander of command
+5225,Cairistiona Lapthorn,3,Northern,rav seren,22397,commander of pluga
+5226,Raffarty Corcoran,1,Northern,aluf,29207,commander of pluga
+5227,Dinny Bodemeaid,5,Home Front,aluf mishne,48821,commander of chativa
+5228,Carrissa Portis,1,Northern,aluf mishne,27477,commander of chativa
+5229,Vasilis Ansty,2,Southern,rav seren,33416,commander of pluga
+5230,Merwyn Benwell,3,Central,sgan aluf,10938,commander of pluga
+5231,Gavan Vaggers,4,Northern,rav seren,74165,commander of pluga
+5232,Mikey Freemantle,1,Southern,rav seren,42962,commander of pluga
+5233,Ryann Hrinchenko,5,Northern,aluf mishne,94241,commander of chativa
+5234,Iris Teulier,1,Central,seren,52959,commander of pluga
+5235,Ricki Kas,2,Home Front,sgan aluf,36575,commander of pluga
+5236,Trueman Rawlins,4,Southern,sgan aluf,78551,commander of gdud
+5237,Lira Roelofsen,5,Central,aluf mishne,17704,commander of chativa
+5238,Terri-jo Braune,1,Northern,rav seren,82738,commander of pluga
+5239,Chantal Murkin,2,Home Front,seren,17760,commander of pluga
+5240,Kaitlin Aguilar,1,Home Front,aluf,12190,commander of command
+5241,Pearl Wilber,5,Northern,rav seren,28679,commander of pluga
+5242,Merwyn Enevoldsen,2,Northern,aluf mishne,73551,commander of chativa
+5243,Natala Unsworth,4,Central,aluf,46115,commander of gdud
+5244,Brad Wiburn,5,Southern,tat aluf,15045,commander of ugda
+5245,Tracey Cirlos,5,Northern,aluf,28873,commander of gdud
+5246,Erik Clunan,3,Southern,sgan aluf,30733,commander of pluga
+5247,Elisabeth Gammel,1,Home Front,sgan aluf,79736,commander of gdud
+5248,Merilee Denisyev,1,Southern,tat aluf,48850,commander of ugda
+5249,Ingemar Brazer,5,Southern,tat aluf,22639,commander of ugda
+5250,Danyette Spinnace,2,Northern,sgan aluf,21198,commander of gdud
+5251,West Bridgen,2,Central,sgan aluf,16652,commander of pluga
+5252,Gabriela Blaisdale,3,Southern,aluf,46099,commander of pluga
+5253,Rutger Hamnet,5,Home Front,rav seren,81185,commander of pluga
+5254,Dallas Weller,2,Southern,rav seren,36737,commander of pluga
+5255,Alisha Webland,2,Central,aluf,24709,commander of gdud
+5256,Udell Blinckhorne,1,Central,tat aluf,14802,commander of ugda
+5257,Lazar Broose,5,Southern,aluf,27171,commander of gdud
+5258,Arly Shevell,1,Southern,aluf,68272,commander of gdud
+5259,Lucine Witheridge,1,Central,tat aluf,84077,commander of ugda
+5260,Brita Bladen,2,Northern,tat aluf,89882,commander of ugda
+5261,Townsend Goudard,2,Home Front,sgan aluf,48732,commander of pluga
+5262,Cletis Kalb,5,Southern,tat aluf,8207,commander of ugda
+5263,Avis Antoniazzi,1,Northern,sgan aluf,79271,commander of gdud
+5264,Horace Treweke,5,Northern,tat aluf,42973,commander of ugda
+5265,Moses Snuggs,2,Central,aluf,60638,commander of pluga
+5266,Selig Victor,3,Home Front,tat aluf,87464,commander of ugda
+5267,Wallie Phipard-Shears,2,Southern,sgan aluf,16847,commander of pluga
+5268,Joann Lusty,3,Southern,rav seren,44362,commander of pluga
+5269,Willy Ranby,4,Central,aluf,81932,commander of gdud
+5270,Phillip Nelson,3,Southern,sgan aluf,38587,commander of pluga
+5271,Rice Deneve,1,Home Front,seren,34907,commander of pluga
+5272,Connie Shortell,3,Home Front,tat aluf,23722,commander of ugda
+5273,Minny Baughn,4,Home Front,tat aluf,94317,commander of ugda
+5274,Hazel Rodenhurst,5,Central,rav seren,21845,commander of pluga
+5275,Lemmy Barthelmes,3,Southern,seren,95850,commander of pluga
+5276,Dulcia Shevlin,3,Home Front,sgan aluf,97864,commander of pluga
+5277,Marla Roelvink,4,Southern,seren,31307,commander of pluga
+5278,Dorelia Brehaut,4,Southern,aluf,79315,commander of command
+5279,Barry Geindre,3,Home Front,seren,61172,commander of pluga
+5280,Bibi Jodlkowski,2,Southern,aluf,95114,commander of gdud
+5281,Cori Gallego,3,Home Front,tat aluf,66575,commander of ugda
+5282,Rodie Shegog,1,Home Front,aluf mishne,2514,commander of chativa
+5283,Feliza Donald,5,Home Front,aluf mishne,50319,commander of chativa
+5284,Stevena Lyddon,3,Northern,rav seren,14033,commander of pluga
+5285,Harrison Pummery,3,Northern,aluf mishne,43808,commander of chativa
+5286,Ardra Lamyman,1,Northern,sgan aluf,9213,commander of gdud
+5287,Allister Grigg,1,Southern,tat aluf,83764,commander of ugda
+5288,Emmalynne Welsh,4,Central,aluf mishne,72939,commander of chativa
+5289,Felike Late,5,Home Front,aluf mishne,22648,commander of chativa
+5290,Amaleta Yesinov,4,Central,aluf,78256,commander of command
+5291,Teodorico Bechley,1,Southern,sgan aluf,9379,commander of gdud
+5292,Joyous Cargon,2,Central,seren,68551,commander of pluga
+5293,Killian Burrage,3,Central,rav seren,28863,commander of pluga
+5294,Etan Janos,5,Southern,rav seren,78264,commander of pluga
+5295,Maudie Bartolomeoni,3,Northern,tat aluf,16541,commander of ugda
+5296,Pierrette Hubeaux,2,Southern,aluf mishne,45672,commander of chativa
+5297,Ewell Antusch,2,Central,sgan aluf,68591,commander of gdud
+5298,Kerri Hampshaw,1,Central,sgan aluf,84940,commander of gdud
+5299,Caresse Mountfort,4,Northern,rav seren,77350,commander of pluga
+5300,Pegeen Lilleyman,4,Southern,aluf mishne,26958,commander of chativa
+5301,Angele Aulton,3,Southern,aluf mishne,5253,commander of chativa
+5302,Bertrando Welchman,5,Northern,sgan aluf,51915,commander of gdud
+5303,Yancey Grestye,4,Home Front,aluf mishne,28989,commander of chativa
+5304,Lizette Riatt,3,Northern,sgan aluf,29985,commander of gdud
+5305,Sarah Rocco,3,Home Front,sgan aluf,15550,commander of pluga
+5306,Mariska Carroll,2,Home Front,tat aluf,47658,commander of ugda
+5307,Lenci de Merida,1,Central,sgan aluf,18271,commander of pluga
+5308,Udell Anderson,2,Southern,rav seren,60346,commander of pluga
+5309,Halsey Gerraty,1,Northern,aluf mishne,94197,commander of chativa
+5310,Wash Dallyn,5,Southern,aluf mishne,27476,commander of chativa
+5311,Etti Drysdall,1,Central,rav seren,55676,commander of pluga
+5312,Jackie Cardoso,2,Home Front,sgan aluf,52523,commander of gdud
+5313,Rodrigo Shorland,2,Southern,seren,42935,commander of pluga
+5314,Dari Sterndale,1,Central,sgan aluf,84926,commander of gdud
+5315,Clayson Larraway,1,Home Front,aluf mishne,93055,commander of chativa
+5316,Mehetabel De Freyne,1,Central,sgan aluf,1165,commander of pluga
+5317,Rad McCuthais,5,Central,sgan aluf,28206,commander of pluga
+5318,Elden Loos,4,Home Front,sgan aluf,36171,commander of pluga
+5319,Tandy Snoxall,2,Home Front,seren,48960,commander of pluga
+5320,Aubrey Pellew,2,Southern,aluf mishne,7292,commander of chativa
+5321,Sadye Cowdery,3,Central,rav seren,10043,commander of pluga
+5322,Aurelia Heads,1,Central,seren,98215,commander of pluga
+5323,Ibrahim Koene,3,Northern,rav seren,10581,commander of pluga
+5324,Shalom Hryncewicz,2,Home Front,tat aluf,94237,commander of ugda
+5325,Worthy Toma,1,Northern,rav seren,88156,commander of pluga
+5326,Fleming Adamovicz,2,Northern,aluf,13594,commander of command
+5327,Bondie Patterson,4,Northern,rav seren,29696,commander of pluga
+5328,Eva Filmer,1,Home Front,aluf,5111,commander of gdud
+5329,Mollee Tavener,5,Northern,tat aluf,97663,commander of ugda
+5330,Wendy Cowherd,5,Northern,seren,98129,commander of pluga
+5331,Brenna Adolf,1,Southern,tat aluf,21911,commander of ugda
+5332,Eadie Machan,1,Home Front,seren,93207,commander of pluga
+5333,Wilhelmina Scolding,2,Central,sgan aluf,69288,commander of gdud
+5334,Gregoire Sealand,3,Home Front,rav seren,64185,commander of pluga
+5335,Helena Philcock,1,Home Front,aluf,71040,commander of pluga
+5336,Weston Beynon,3,Southern,tat aluf,65147,commander of ugda
+5337,Vivie Seiller,3,Northern,sgan aluf,14212,commander of pluga
+5338,Markos Conerding,4,Home Front,aluf,97781,commander of pluga
+5339,Loreen Cutajar,1,Southern,sgan aluf,35070,commander of pluga
+5340,Hobart Antonomoli,3,Home Front,seren,76905,commander of pluga
+5341,Dennet Wyne,5,Home Front,aluf mishne,52500,commander of chativa
+5342,Meredithe Furby,5,Northern,aluf mishne,77833,commander of chativa
+5343,Webster Benian,3,Home Front,tat aluf,48712,commander of ugda
+5344,Luce Scaplehorn,1,Home Front,seren,82402,commander of pluga
+5345,Cordula Iacopetti,5,Home Front,sgan aluf,26009,commander of gdud
+5346,Eulalie Nurdin,1,Southern,aluf mishne,24979,commander of chativa
+5347,Flore Moran,4,Northern,aluf,80509,commander of pluga
+5348,Wilie Chrestien,3,Central,aluf,80718,commander of gdud
+5349,Davon Skacel,2,Central,seren,69452,commander of pluga
+5350,Trixie McCritichie,5,Northern,aluf,4507,commander of pluga
+5351,Liam Trillow,4,Northern,aluf,12939,commander of gdud
+5352,Edeline Brecken,2,Southern,aluf mishne,95003,commander of chativa
+5353,Sacha Tansly,2,Central,tat aluf,92077,commander of ugda
+5354,Alfie Muddimer,2,Northern,rav seren,11207,commander of pluga
+5355,Mitchael Kershaw,2,Central,seren,83752,commander of pluga
+5356,Netti Measom,2,Home Front,aluf,78058,commander of pluga
+5357,Etti Ambrosoli,4,Northern,tat aluf,31073,commander of ugda
+5358,Shaylynn Coddington,3,Southern,rav seren,28150,commander of pluga
+5359,Eric Gooderick,4,Northern,seren,14345,commander of pluga
+5360,Alecia Shillingford,1,Northern,seren,12933,commander of pluga
+5361,Tulley Bodemeaid,1,Central,seren,57488,commander of pluga
+5362,Tadeas Cattroll,4,Southern,tat aluf,43692,commander of ugda
+5363,Phillipe Atwill,2,Northern,tat aluf,55185,commander of ugda
+5364,Lydon Conigsby,1,Northern,sgan aluf,8580,commander of gdud
+5365,Mercy Crissil,2,Northern,sgan aluf,33818,commander of gdud
+5366,Beaufort Robins,3,Northern,tat aluf,40851,commander of ugda
+5367,Jacquelynn Brumen,5,Central,tat aluf,74993,commander of ugda
+5368,Brewster Gray,4,Home Front,aluf mishne,66140,commander of chativa
+5369,Eulalie Pedrocchi,4,Southern,seren,21966,commander of pluga
+5370,Lizzie Collete,2,Northern,seren,79817,commander of pluga
+5371,Abbie McKeggie,4,Southern,tat aluf,5652,commander of ugda
+5372,Brien Holbury,2,Central,aluf mishne,26562,commander of chativa
+5373,Jaye MacCawley,5,Southern,tat aluf,80405,commander of ugda
+5374,Isidore McAnellye,3,Northern,tat aluf,25897,commander of ugda
+5375,Aloin Livingston,4,Northern,seren,28728,commander of pluga
+5376,Mathe MacGlory,1,Northern,seren,81202,commander of pluga
+5377,Hanni Kingcott,4,Southern,sgan aluf,30718,commander of pluga
+5378,Jane Middlewick,5,Central,rav seren,99948,commander of pluga
+5379,Harriette Basil,4,Southern,sgan aluf,26642,commander of pluga
+5380,Gothart Cadagan,2,Central,rav seren,16652,commander of pluga
+5381,Niko Hadfield,5,Northern,sgan aluf,55926,commander of gdud
+5382,Merrielle Chupin,3,Central,seren,70634,commander of pluga
+5383,Linnell Ruckman,3,Home Front,aluf mishne,61830,commander of chativa
+5384,Parke Karran,2,Home Front,tat aluf,98031,commander of ugda
+5385,Virgilio Nestor,1,Central,sgan aluf,43168,commander of gdud
+5386,Emilio Aglione,4,Central,aluf mishne,63546,commander of chativa
+5387,Cynthia Salterne,1,Home Front,sgan aluf,61200,commander of gdud
+5388,Nollie Bordiss,3,Central,tat aluf,48282,commander of ugda
+5389,Stacee Tousey,2,Southern,rav seren,58736,commander of pluga
+5390,Clive Briston,4,Northern,sgan aluf,78622,commander of gdud
+5391,Faye Macauley,4,Home Front,sgan aluf,12859,commander of pluga
+5392,Demetris Shirley,1,Northern,aluf mishne,82111,commander of chativa
+5393,Hester Frith,4,Home Front,rav seren,13262,commander of pluga
+5394,Tessi Malin,2,Southern,seren,96397,commander of pluga
+5395,Ferdie Pote,3,Central,sgan aluf,20041,commander of gdud
+5396,Bay Kasbye,5,Central,aluf,12782,commander of pluga
+5397,Virgie Eagle,4,Southern,aluf mishne,50443,commander of chativa
+5398,Freeman Keays,2,Southern,rav seren,6260,commander of pluga
+5399,Dyna Worthy,4,Southern,rav seren,6547,commander of pluga
+5400,Reube McKennan,5,Home Front,aluf mishne,34589,commander of chativa
+5401,Annmarie Kellick,3,Southern,aluf mishne,59844,commander of chativa
+5402,Adair Bauer,4,Home Front,sgan aluf,2357,commander of gdud
+5403,Gerianne Leathart,3,Home Front,sgan aluf,33917,commander of gdud
+5404,Trenton Ambrosini,3,Northern,sgan aluf,11781,commander of pluga
+5405,Even Handrek,4,Southern,aluf,61727,commander of pluga
+5406,Belle Dufore,5,Home Front,aluf,15712,commander of gdud
+5407,Rachel Dalliwatr,4,Northern,seren,22141,commander of pluga
+5408,Laverna Havvock,4,Home Front,sgan aluf,98458,commander of gdud
+5409,Merle Seally,1,Home Front,rav seren,1845,commander of pluga
+5410,Upton Corstorphine,3,Northern,aluf mishne,63729,commander of chativa
+5411,Stacy Mebius,3,Home Front,tat aluf,97613,commander of ugda
+5412,Arlina Burhill,5,Northern,sgan aluf,98875,commander of pluga
+5413,Llewellyn Yetman,2,Southern,rav seren,5674,commander of pluga
+5414,Jewell Crew,5,Southern,seren,71799,commander of pluga
+5415,Laraine Camilio,5,Home Front,rav seren,92086,commander of pluga
+5416,Willyt Berrey,4,Southern,sgan aluf,41391,commander of gdud
+5417,Todd Ghirigori,5,Home Front,tat aluf,62781,commander of ugda
+5418,Zia O'Doherty,3,Southern,aluf,1281,commander of command
+5419,Vilma Hessle,4,Southern,seren,84285,commander of pluga
+5420,Cate Pirnie,2,Southern,tat aluf,21965,commander of ugda
+5421,Winny Manlow,2,Northern,tat aluf,28362,commander of ugda
+5422,Paulo Redmille,5,Southern,seren,19495,commander of pluga
+5423,Lane Caiger,5,Northern,sgan aluf,34074,commander of gdud
+5424,Marina Filasov,5,Home Front,aluf mishne,51303,commander of chativa
+5425,Otha Giacomi,4,Central,sgan aluf,96977,commander of gdud
+5426,Desi Collop,3,Southern,sgan aluf,2092,commander of pluga
+5427,Blythe Greensmith,3,Central,sgan aluf,98825,commander of gdud
+5428,Armando McKniely,4,Home Front,aluf mishne,27876,commander of chativa
+5429,Kylie Dilawey,1,Southern,rav seren,21352,commander of pluga
+5430,Frederique McCooke,2,Home Front,aluf mishne,23007,commander of chativa
+5431,Godwin Grinham,4,Home Front,rav seren,82628,commander of pluga
+5432,Marvin Hursthouse,1,Northern,aluf mishne,53613,commander of chativa
+5433,Myrvyn Zannetti,5,Central,tat aluf,31430,commander of ugda
+5434,Beauregard Fleischer,5,Northern,sgan aluf,97777,commander of gdud
+5435,Iseabal Jumont,1,Northern,seren,37693,commander of pluga
+5436,Carla Huckabe,5,Northern,seren,69084,commander of pluga
+5437,Victoria McGlade,1,Central,aluf mishne,5254,commander of chativa
+5438,Leontyne Valentin,5,Central,seren,2897,commander of pluga
+5439,Niels MacPaike,2,Central,tat aluf,51348,commander of ugda
+5440,Billie Wimpenny,4,Southern,tat aluf,32320,commander of ugda
+5441,Gisella Shutte,1,Home Front,sgan aluf,50972,commander of gdud
+5442,Roseanne Dunbavin,3,Home Front,sgan aluf,15713,commander of gdud
+5443,Kory Siberry,3,Southern,seren,62776,commander of pluga
+5444,Hannis Stollsteimer,4,Central,aluf,73579,commander of command
+5445,Joshuah Birrel,2,Home Front,aluf,50157,commander of pluga
+5446,Mayor Spadeck,4,Northern,rav seren,50367,commander of pluga
+5447,Aloin Castle,3,Northern,aluf,70467,commander of command
+5448,Verge Effemy,5,Northern,aluf,43856,commander of command
+5449,Athene Caush,4,Home Front,seren,81846,commander of pluga
+5450,Jarret Wrates,3,Northern,seren,54163,commander of pluga
+5451,Noelle Burkett,3,Northern,aluf,88803,commander of gdud
+5452,Lowe Rawes,4,Southern,aluf,2530,commander of pluga
+5453,Morton Willerton,1,Home Front,rav seren,51816,commander of pluga
+5454,Waiter Buret,3,Home Front,rav seren,38943,commander of pluga
+5455,Paulita Avory,1,Central,aluf mishne,19084,commander of chativa
+5456,Julie Latchford,2,Northern,aluf mishne,97272,commander of chativa
+5457,Wallie Giacomozzo,1,Central,seren,28695,commander of pluga
+5458,Corabelle Ryles,5,Southern,tat aluf,64414,commander of ugda
+5459,Rahal Biesty,1,Central,seren,1397,commander of pluga
+5460,Janet Pistol,3,Southern,seren,36112,commander of pluga
+5461,Micky Fountaine,3,Southern,aluf,21834,commander of pluga
+5462,Morgan Verrills,1,Southern,sgan aluf,8096,commander of pluga
+5463,Venus McCroary,3,Southern,aluf mishne,16396,commander of chativa
+5464,Sarette Tune,2,Southern,rav seren,1337,commander of pluga
+5465,Lanni Riby,3,Home Front,seren,71924,commander of pluga
+5466,Cynthia Gait,3,Central,tat aluf,68711,commander of ugda
+5467,Marybeth Leaming,1,Southern,tat aluf,23711,commander of ugda
+5468,Chandal Sedgeman,3,Northern,aluf mishne,91880,commander of chativa
+5469,Selig Meco,2,Northern,tat aluf,87415,commander of ugda
+5470,Riane Keighly,4,Northern,rav seren,88196,commander of pluga
+5471,Sosanna Rothermel,1,Home Front,tat aluf,75754,commander of ugda
+5472,Ayn Vellacott,3,Home Front,tat aluf,59902,commander of ugda
+5473,Frederik Danelutti,2,Home Front,seren,78623,commander of pluga
+5474,Ailee Veld,2,Central,sgan aluf,10906,commander of pluga
+5475,Thelma Gors,3,Central,aluf,30735,commander of command
+5476,Camala Lethley,2,Southern,aluf,41904,commander of pluga
+5477,Eldridge Epperson,2,Central,seren,53428,commander of pluga
+5478,Frank Matyas,4,Northern,sgan aluf,17357,commander of gdud
+5479,Virgina Josselsohn,2,Northern,seren,47457,commander of pluga
+5480,Audrye Dawson,1,Northern,rav seren,42631,commander of pluga
+5481,Liz Cordero,1,Northern,seren,18790,commander of pluga
+5482,Karlyn Halliwell,4,Home Front,aluf mishne,64865,commander of chativa
+5483,Helen-elizabeth McGavigan,4,Northern,aluf mishne,61156,commander of chativa
+5484,Micheil Ratledge,1,Home Front,sgan aluf,39137,commander of gdud
+5485,Giovanni Cosgrive,1,Southern,sgan aluf,73875,commander of pluga
+5486,Arleta Bellord,2,Home Front,aluf mishne,11236,commander of chativa
+5487,Ransom Saladin,1,Home Front,rav seren,50727,commander of pluga
+5488,Gisele Anglim,2,Northern,rav seren,66054,commander of pluga
+5489,Felix Fattore,3,Home Front,seren,48906,commander of pluga
+5490,Lawton Hugonet,1,Northern,sgan aluf,21162,commander of pluga
+5491,Ronda Veljes,3,Northern,aluf,52393,commander of gdud
+5492,Pansie Le Pruvost,4,Central,aluf mishne,89480,commander of chativa
+5493,Manya Cagan,5,Central,tat aluf,7002,commander of ugda
+5494,Sonia Gascoyne,3,Southern,sgan aluf,99339,commander of pluga
+5495,Petra Uzzell,4,Southern,aluf,21175,commander of gdud
+5496,Menard Noor,3,Southern,aluf,89323,commander of command
+5497,Miner Aujean,1,Central,tat aluf,65753,commander of ugda
+5498,Ofelia Lossman,5,Central,seren,55100,commander of pluga
+5499,Annora O'Concannon,5,Northern,aluf,92069,commander of gdud
+5500,Gus Macon,2,Southern,rav seren,89778,commander of pluga
+5501,Mame Leonarde,1,Northern,sgan aluf,37255,commander of gdud
+5502,Lexine Growden,5,Home Front,seren,93716,commander of pluga
+5503,Mame Jeakins,1,Home Front,rav seren,37303,commander of pluga
+5504,Genovera Glasner,1,Home Front,aluf,98955,commander of command
+5505,Say Edgeley,4,Southern,rav seren,69584,commander of pluga
+5506,Gerrie McAnulty,1,Central,aluf,94368,commander of command
+5507,Shep Vane,3,Northern,sgan aluf,26382,commander of pluga
+5508,Moe de Merida,3,Central,sgan aluf,45657,commander of gdud
+5509,Niko Fergyson,2,Southern,sgan aluf,23149,commander of gdud
+5510,Hedwig Lafrentz,3,Southern,tat aluf,54731,commander of ugda
+5511,Sharline Gley,3,Home Front,aluf mishne,54980,commander of chativa
+5512,Levey Arangy,4,Home Front,aluf mishne,36484,commander of chativa
+5513,Shalna Hugin,1,Home Front,rav seren,52117,commander of pluga
+5514,Birk Pottes,1,Home Front,seren,70079,commander of pluga
+5515,Carlie Leverentz,4,Southern,rav seren,52925,commander of pluga
+5516,Alva Predohl,3,Northern,rav seren,42610,commander of pluga
+5517,Whitney Hazlegrove,4,Home Front,sgan aluf,39174,commander of pluga
+5518,Carol Charlton,1,Northern,seren,87905,commander of pluga
+5519,Alfie Meric,5,Southern,aluf mishne,83860,commander of chativa
+5520,Agathe Bufton,2,Northern,tat aluf,67896,commander of ugda
+5521,Cchaddie Giacomucci,5,Northern,aluf mishne,35102,commander of chativa
+5522,Barbra Saby,3,Southern,aluf,12769,commander of command
+5523,Rasla Vaisey,4,Northern,sgan aluf,76174,commander of pluga
+5524,Giulio Warlton,3,Central,sgan aluf,15309,commander of gdud
+5525,Emelda Roubay,4,Central,aluf,43514,commander of pluga
+5526,Florida Shillabeare,4,Northern,sgan aluf,80957,commander of gdud
+5527,Cull Witling,4,Southern,seren,51165,commander of pluga
+5528,Zsa zsa Farnan,1,Northern,tat aluf,37126,commander of ugda
+5529,Belita MacAlpyne,2,Home Front,tat aluf,34099,commander of ugda
+5530,Mahalia Strippling,4,Northern,tat aluf,64700,commander of ugda
+5531,Bengt De Biasio,3,Northern,sgan aluf,27374,commander of pluga
+5532,Fredericka Whordley,5,Central,seren,98024,commander of pluga
+5533,Wes Colwell,3,Home Front,aluf,4794,commander of command
+5534,Paule Patemore,2,Southern,aluf mishne,92174,commander of chativa
+5535,Elicia Flaune,1,Home Front,aluf mishne,21412,commander of chativa
+5536,Abba Glassford,1,Central,aluf mishne,28597,commander of chativa
+5537,Gabi Gillebride,5,Home Front,seren,28974,commander of pluga
+5538,Pete Bassindale,4,Home Front,seren,98425,commander of pluga
+5539,Terza Amsden,1,Northern,rav seren,16038,commander of pluga
+5540,Bennie Rous,4,Southern,rav seren,14243,commander of pluga
+5541,Aluino Blitzer,4,Central,aluf,9459,commander of command
+5542,Grissel Ferrulli,2,Northern,aluf,74707,commander of pluga
+5543,Kaylyn Sutty,4,Central,seren,14336,commander of pluga
+5544,Daryl Hamblen,2,Southern,aluf,87045,commander of pluga
+5545,Kimball Haskins,5,Southern,aluf,42700,commander of command
+5546,Bernie Chatto,4,Home Front,seren,42557,commander of pluga
+5547,Simeon Cromarty,1,Home Front,seren,24694,commander of pluga
+5548,Jarred Clear,1,Home Front,tat aluf,87014,commander of ugda
+5549,Esmeralda Karpe,2,Northern,aluf,10097,commander of gdud
+5550,Jacki Finlry,4,Northern,seren,61560,commander of pluga
+5551,Ron Arrol,3,Northern,tat aluf,74230,commander of ugda
+5552,Tonya Streader,3,Southern,tat aluf,32928,commander of ugda
+5553,Roxie Flag,2,Home Front,sgan aluf,50264,commander of pluga
+5554,Kelsi Groome,3,Home Front,seren,98018,commander of pluga
+5555,Blair Alliban,3,Southern,aluf,58838,commander of command
+5556,Kathi Bratton,5,Northern,sgan aluf,38317,commander of gdud
+5557,Englebert Otham,2,Home Front,aluf mishne,60686,commander of chativa
+5558,Alexandr Grainge,2,Home Front,seren,14824,commander of pluga
+5559,Clo Mott,4,Southern,rav seren,66898,commander of pluga
+5560,Annamarie Showen,5,Southern,rav seren,4786,commander of pluga
+5561,Cesaro Angrock,3,Southern,aluf,20016,commander of gdud
+5562,Morey Thunnercliffe,5,Central,rav seren,43871,commander of pluga
+5563,Aubine Marcum,5,Southern,rav seren,47702,commander of pluga
+5564,Olia Fowgies,4,Northern,seren,15390,commander of pluga
+5565,Samuele Vant,4,Home Front,seren,58861,commander of pluga
+5566,Gael Cutmere,1,Northern,seren,42854,commander of pluga
+5567,Nady Siviour,4,Central,aluf mishne,81020,commander of chativa
+5568,Gallard Dowe,4,Northern,rav seren,21244,commander of pluga
+5569,Kinny Batterham,4,Central,tat aluf,83141,commander of ugda
+5570,Dougie Hoyt,1,Central,seren,44390,commander of pluga
+5571,Megen D'Errico,4,Southern,seren,5201,commander of pluga
+5572,Jobi Colleran,4,Home Front,sgan aluf,4388,commander of pluga
+5573,Enrico Culter,5,Southern,seren,79894,commander of pluga
+5574,Alic Oriel,4,Home Front,aluf mishne,47772,commander of chativa
+5575,De Boome,5,Home Front,aluf,13506,commander of pluga
+5576,Ambrose Gilkes,1,Northern,aluf,67468,commander of pluga
+5577,Deena Mannock,1,Central,rav seren,38555,commander of pluga
+5578,Blayne Kennard,3,Central,sgan aluf,11740,commander of pluga
+5579,Rosabelle Blackston,1,Home Front,aluf mishne,89268,commander of chativa
+5580,Godiva Hillum,3,Home Front,aluf mishne,45419,commander of chativa
+5581,My Hoult,2,Home Front,aluf,69343,commander of gdud
+5582,Sander Godon,5,Central,sgan aluf,32746,commander of pluga
+5583,Olag Lundbeck,4,Home Front,tat aluf,61447,commander of ugda
+5584,Cherrita Dethloff,1,Home Front,aluf,76493,commander of pluga
+5585,April Shutte,5,Southern,seren,11318,commander of pluga
+5586,Boonie Blues,2,Northern,rav seren,98754,commander of pluga
+5587,Chuck Spittall,1,Northern,aluf mishne,88797,commander of chativa
+5588,Norrie Linnitt,1,Northern,tat aluf,56414,commander of ugda
+5589,Raeann Strongman,3,Southern,sgan aluf,82733,commander of pluga
+5590,Tarra Vaar,1,Northern,seren,33851,commander of pluga
+5591,Lilllie Balstone,1,Home Front,tat aluf,18399,commander of ugda
+5592,Barnabe Kedge,5,Southern,aluf mishne,95271,commander of chativa
+5593,Gillie Beadles,3,Central,aluf,48443,commander of pluga
+5594,Seline Aizikovitz,1,Northern,rav seren,6956,commander of pluga
+5595,Cherry Meachan,4,Southern,seren,91255,commander of pluga
+5596,Julissa Laviss,3,Home Front,rav seren,32000,commander of pluga
+5597,Meade Thrift,2,Northern,sgan aluf,87427,commander of gdud
+5598,Arri Beak,5,Home Front,seren,94640,commander of pluga
+5599,Jaimie Oiller,3,Southern,seren,55251,commander of pluga
+5600,Wilfred Behrend,1,Southern,tat aluf,44048,commander of ugda
+5601,Whitney Daen,2,Southern,aluf mishne,20364,commander of chativa
+5602,Lavina Bennallck,2,Southern,aluf,98170,commander of pluga
+5603,Hammad Doughton,5,Central,aluf,23975,commander of command
+5604,Rem Miko,2,Central,sgan aluf,13940,commander of gdud
+5605,Kleon Royall,2,Northern,seren,33081,commander of pluga
+5606,Rollie Brandreth,4,Southern,aluf mishne,48362,commander of chativa
+5607,Felice Giacobazzi,3,Central,sgan aluf,31140,commander of pluga
+5608,Tessa Olivier,3,Central,sgan aluf,87002,commander of pluga
+5609,Leoline Daouze,1,Central,rav seren,66920,commander of pluga
+5610,Joycelin Banger,5,Central,sgan aluf,20118,commander of pluga
+5611,Purcell Boyda,2,Northern,tat aluf,19358,commander of ugda
+5612,Madel Croxton,5,Central,sgan aluf,93033,commander of pluga
+5613,Urbain Pulham,4,Central,seren,44492,commander of pluga
+5614,Farrand Mellanby,5,Northern,seren,48983,commander of pluga
+5615,Kathleen Edmead,5,Home Front,tat aluf,11997,commander of ugda
+5616,Chery Galvin,1,Home Front,sgan aluf,87657,commander of gdud
+5617,Karlene Vreiberg,1,Central,sgan aluf,6916,commander of gdud
+5618,Rustin Larcher,3,Home Front,tat aluf,33569,commander of ugda
+5619,Marja Longhirst,2,Central,rav seren,68066,commander of pluga
+5620,Adrianna Potell,3,Central,sgan aluf,98856,commander of pluga
+5621,Lucho Cosford,2,Northern,aluf mishne,63086,commander of chativa
+5622,Tabina Deekes,4,Home Front,rav seren,39008,commander of pluga
+5623,Dona Moggle,5,Northern,aluf,93619,commander of gdud
+5624,Micaela Pfiffer,5,Central,rav seren,67500,commander of pluga
+5625,Hamlen Haxell,1,Home Front,seren,8862,commander of pluga
+5626,Innis MacDermid,1,Northern,aluf,65829,commander of command
+5627,Rainer Andreichik,4,Central,aluf,48765,commander of pluga
+5628,Wenona Povey,5,Central,rav seren,72814,commander of pluga
+5629,Charmian Boylan,3,Home Front,aluf,51395,commander of command
+5630,Ethelbert Winterbotham,3,Northern,aluf,96759,commander of command
+5631,Lisha Vel,4,Central,aluf,16109,commander of gdud
+5632,Amery Kilbride,1,Central,tat aluf,83246,commander of ugda
+5633,Cosette Eschelle,1,Southern,aluf,81690,commander of command
+5634,Ruperta Polglase,3,Southern,aluf mishne,17509,commander of chativa
+5635,Oliy Cundey,1,Northern,rav seren,36507,commander of pluga
+5636,Addie Pentony,4,Northern,rav seren,68079,commander of pluga
+5637,Silvano Roke,4,Home Front,aluf mishne,86535,commander of chativa
+5638,Mohammed Stormouth,2,Home Front,aluf,92128,commander of gdud
+5639,Kristofer Renard,2,Home Front,tat aluf,60671,commander of ugda
+5640,Wainwright Kopta,1,Southern,tat aluf,7787,commander of ugda
+5641,Darcy Hampson,2,Northern,seren,87437,commander of pluga
+5642,Claribel Disbury,4,Central,rav seren,98298,commander of pluga
+5643,Blondelle Slack,3,Southern,sgan aluf,43991,commander of pluga
+5644,Nanette Smelley,4,Home Front,aluf,58272,commander of command
+5645,Meir Dosedale,2,Northern,sgan aluf,15641,commander of gdud
+5646,Andras Creus,4,Central,aluf,50011,commander of gdud
+5647,Duke Fedoronko,5,Home Front,aluf mishne,8452,commander of chativa
+5648,Caesar Lynthal,2,Southern,aluf mishne,55388,commander of chativa
+5649,Ann Broadberrie,2,Central,tat aluf,55089,commander of ugda
+5650,Tulley Bricksey,3,Northern,rav seren,36952,commander of pluga
+5651,Heddi Sissens,1,Northern,rav seren,34246,commander of pluga
+5652,Rebekkah Altoft,4,Northern,aluf mishne,83958,commander of chativa
+5653,Jessy Ferrandez,3,Northern,seren,7271,commander of pluga
+5654,Simmonds Luety,3,Southern,sgan aluf,22449,commander of pluga
+5655,Franny Daal,1,Central,seren,52243,commander of pluga
+5656,Rachelle Wellwood,1,Northern,seren,36429,commander of pluga
+5657,Helen Cosham,1,Home Front,rav seren,23885,commander of pluga
+5658,Mercie Melsom,1,Central,rav seren,50904,commander of pluga
+5659,Magda Gaize,5,Southern,rav seren,83200,commander of pluga
+5660,Sileas Tattershaw,2,Southern,aluf,48097,commander of gdud
+5661,Kayla Gerry,2,Home Front,rav seren,30284,commander of pluga
+5662,Maia Kilbane,2,Northern,rav seren,44863,commander of pluga
+5663,Sly Trump,1,Southern,aluf,91382,commander of command
+5664,Cathie Brown,2,Central,tat aluf,23357,commander of ugda
+5665,Viva Ballentime,5,Home Front,sgan aluf,69820,commander of gdud
+5666,Marabel Odo,4,Southern,aluf mishne,54086,commander of chativa
+5667,Athena Londesborough,5,Northern,aluf,74975,commander of gdud
+5668,Geraldine Haskur,2,Southern,seren,58283,commander of pluga
+5669,Davina Jacquemet,2,Northern,rav seren,15935,commander of pluga
+5670,Valerie Enochsson,2,Northern,rav seren,61973,commander of pluga
+5671,Brewster Trehearne,4,Central,sgan aluf,24270,commander of pluga
+5672,Clio Iacobucci,4,Southern,rav seren,42587,commander of pluga
+5673,Corena Wake,3,Southern,tat aluf,99198,commander of ugda
+5674,Ansley Bispham,5,Southern,aluf,97963,commander of gdud
+5675,Reed Ferrulli,5,Northern,tat aluf,25741,commander of ugda
+5676,Flore Humpherson,3,Central,sgan aluf,46343,commander of gdud
+5677,Thorpe Stimson,2,Home Front,tat aluf,69614,commander of ugda
+5678,Ulick Greenman,3,Northern,sgan aluf,22322,commander of gdud
+5679,Niven Vondrak,4,Central,seren,72020,commander of pluga
+5680,Correna Gemson,1,Northern,tat aluf,64390,commander of ugda
+5681,Myles Leedes,1,Northern,aluf mishne,37068,commander of chativa
+5682,Anthe Rathborne,1,Northern,aluf,35180,commander of gdud
+5683,Delphine Beringer,5,Northern,sgan aluf,25829,commander of gdud
+5684,Kamila McRoberts,3,Northern,aluf,19959,commander of pluga
+5685,Roger Symes,3,Central,rav seren,4432,commander of pluga
+5686,Maynard Rodda,3,Home Front,sgan aluf,2563,commander of gdud
+5687,Malia Betts,4,Southern,sgan aluf,29318,commander of gdud
+5688,Daile Janaszewski,2,Northern,aluf mishne,54017,commander of chativa
+5689,Gordy Winson,3,Home Front,sgan aluf,14036,commander of gdud
+5690,Babbette Honatsch,4,Northern,aluf,47062,commander of gdud
+5691,Filide Worrill,1,Northern,aluf,98935,commander of command
+5692,Mirna Reasce,4,Central,rav seren,22727,commander of pluga
+5693,Ulrica Ivanov,5,Central,aluf,73159,commander of gdud
+5694,Katleen Behrend,5,Home Front,sgan aluf,35463,commander of pluga
+5695,Agatha Lorens,1,Northern,seren,14919,commander of pluga
+5696,Marlie Towson,1,Home Front,aluf mishne,58576,commander of chativa
+5697,Dyanna Penwell,2,Central,seren,94332,commander of pluga
+5698,Karl Pervew,4,Northern,aluf mishne,57536,commander of chativa
+5699,Veronike Abbatini,5,Southern,sgan aluf,81871,commander of pluga
+5700,Isabella Mulderrig,5,Northern,aluf,23323,commander of gdud
+5701,Muffin Pinson,3,Home Front,aluf,31331,commander of pluga
+5702,Ripley Abyss,5,Southern,tat aluf,68745,commander of ugda
+5703,Wallis Emer,5,Southern,sgan aluf,33240,commander of gdud
+5704,Ignace Robertazzi,2,Central,aluf,36965,commander of pluga
+5705,Bart Akitt,1,Home Front,tat aluf,37412,commander of ugda
+5706,Luci Goozee,5,Northern,sgan aluf,58107,commander of pluga
+5707,Reba Dron,5,Central,sgan aluf,92735,commander of gdud
+5708,Brit Atling,1,Northern,tat aluf,1095,commander of ugda
+5709,Lizzy Zelland,4,Central,tat aluf,49857,commander of ugda
+5710,Marshall Brede,4,Northern,seren,21511,commander of pluga
+5711,Hewie Havik,3,Home Front,seren,50275,commander of pluga
+5712,Marcelo Sandiland,1,Southern,sgan aluf,43029,commander of pluga
+5713,Rosabelle O'Lunny,2,Central,sgan aluf,38599,commander of gdud
+5714,Violetta Folca,4,Northern,seren,23988,commander of pluga
+5715,Agretha Millgate,1,Southern,tat aluf,73762,commander of ugda
+5716,Rorie Wotherspoon,1,Northern,rav seren,89416,commander of pluga
+5717,Krispin Mullally,3,Northern,aluf,24765,commander of pluga
+5718,Kerby Weatherell,3,Southern,seren,48567,commander of pluga
+5719,Lonny Touson,1,Southern,sgan aluf,41846,commander of pluga
+5720,Carter Emanuele,4,Northern,aluf mishne,27116,commander of chativa
+5721,Frasquito Warburton,2,Central,rav seren,23423,commander of pluga
+5722,Lloyd Kalberer,4,Northern,aluf mishne,66450,commander of chativa
+5723,Nev Link,5,Northern,tat aluf,23622,commander of ugda
+5724,Mersey Kohlert,1,Central,sgan aluf,94615,commander of pluga
+5725,Aldis Dallimore,2,Southern,rav seren,12809,commander of pluga
+5726,Anson Esposi,2,Southern,rav seren,46693,commander of pluga
+5727,Petr Whatmough,5,Central,sgan aluf,44421,commander of pluga
+5728,Latrena Balfre,4,Central,aluf,20241,commander of command
+5729,Blake Beausang,5,Southern,sgan aluf,49515,commander of gdud
+5730,Lilla Roads,1,Home Front,aluf mishne,26996,commander of chativa
+5731,Mirabella Ruthen,3,Central,aluf mishne,42930,commander of chativa
+5732,Ferdinand Dicey,4,Southern,sgan aluf,82327,commander of pluga
+5733,Ilaire Sebring,1,Southern,rav seren,69367,commander of pluga
+5734,Lorinda Cash,3,Southern,sgan aluf,45348,commander of pluga
+5735,Bertha Kubelka,5,Home Front,aluf,89612,commander of pluga
+5736,Hildegaard Brockie,3,Home Front,aluf,22831,commander of command
+5737,Ginger Pipping,1,Home Front,aluf,1430,commander of gdud
+5738,Bobbette Chastaing,2,Home Front,aluf mishne,14269,commander of chativa
+5739,Kellie Zimmermanns,2,Northern,aluf mishne,68665,commander of chativa
+5740,Thaddeus Roscrigg,4,Home Front,seren,33373,commander of pluga
+5741,Dennison De Bruyn,2,Home Front,seren,38448,commander of pluga
+5742,Daphne Carayol,5,Southern,rav seren,45216,commander of pluga
+5743,Somerset Cahalan,4,Southern,aluf,80970,commander of gdud
+5744,Derrik Castledine,3,Central,sgan aluf,80084,commander of gdud
+5745,Tonnie Quinlan,2,Home Front,rav seren,51370,commander of pluga
+5746,Pembroke Ryves,1,Central,seren,88470,commander of pluga
+5747,Cointon Oswald,2,Southern,sgan aluf,60324,commander of gdud
+5748,Melisande Bantick,4,Northern,seren,99485,commander of pluga
+5749,Heinrick McNelly,1,Central,tat aluf,27175,commander of ugda
+5750,Pauline Brudenell,2,Northern,seren,53358,commander of pluga
+5751,Riannon Hambright,5,Home Front,aluf mishne,17909,commander of chativa
+5752,Lara Pleasaunce,2,Central,tat aluf,6809,commander of ugda
+5753,Suzanna Skarr,1,Southern,tat aluf,78124,commander of ugda
+5754,Ewen Antoons,5,Home Front,aluf,9255,commander of command
+5755,Kane Pask,4,Home Front,aluf,36423,commander of pluga
+5756,Bron Dunseith,4,Southern,rav seren,18211,commander of pluga
+5757,Christoph Joerning,4,Southern,rav seren,76068,commander of pluga
+5758,Vanna Brankley,4,Southern,seren,52508,commander of pluga
+5759,Devin Burns,5,Home Front,rav seren,61473,commander of pluga
+5760,Piper Halwill,4,Southern,aluf mishne,19113,commander of chativa
+5761,Nels Prosh,5,Central,sgan aluf,46692,commander of pluga
+5762,Judith Stockton,2,Central,aluf mishne,83278,commander of chativa
+5763,Connie Janout,2,Southern,seren,76468,commander of pluga
+5764,Stesha Kops,4,Southern,seren,21913,commander of pluga
+5765,Lodovico Parton,1,Southern,tat aluf,28098,commander of ugda
+5766,Lindy Baden,1,Southern,aluf,21173,commander of command
+5767,Drona Toland,1,Home Front,rav seren,87970,commander of pluga
+5768,Vincenz O'Neill,1,Central,aluf,52758,commander of gdud
+5769,Ham Dewis,5,Central,aluf mishne,3490,commander of chativa
+5770,Levin Jaqueme,3,Home Front,tat aluf,80245,commander of ugda
+5771,Susette Lorne,5,Home Front,rav seren,56039,commander of pluga
+5772,Anneliese Seakes,3,Southern,rav seren,90451,commander of pluga
+5773,Sumner Omand,2,Northern,rav seren,9556,commander of pluga
+5774,Ruthy Grewar,3,Central,aluf,54721,commander of command
+5775,Ailene Verny,1,Southern,sgan aluf,75182,commander of pluga
+5776,Seana Stillman,5,Central,tat aluf,7805,commander of ugda
+5777,Vonny Kornilyev,2,Northern,sgan aluf,19400,commander of gdud
+5778,Dix Chaves,4,Central,sgan aluf,3637,commander of gdud
+5779,Rachel Boate,2,Northern,sgan aluf,62364,commander of gdud
+5780,Arlinda Dudney,3,Home Front,rav seren,92169,commander of pluga
+5781,Letizia Phillpot,5,Southern,aluf mishne,13991,commander of chativa
+5782,Albertine Cominotti,3,Home Front,sgan aluf,39022,commander of pluga
+5783,Reece Cardwell,1,Northern,aluf mishne,65326,commander of chativa
+5784,Nichole Geyton,5,Home Front,seren,72175,commander of pluga
+5785,Woodman Lanyon,5,Home Front,sgan aluf,97350,commander of gdud
+5786,Mel Happer,5,Home Front,sgan aluf,50500,commander of pluga
+5787,Erma Schneidau,1,Northern,seren,58214,commander of pluga
+5788,Rosemary Sutcliffe,4,Southern,seren,29282,commander of pluga
+5789,Calvin Spikins,2,Northern,tat aluf,34431,commander of ugda
+5790,Kelcie Towriss,4,Home Front,rav seren,33289,commander of pluga
+5791,Sandra Tschierse,4,Home Front,rav seren,84133,commander of pluga
+5792,Debora Hanlin,1,Northern,seren,12575,commander of pluga
+5793,Alphard Bewsey,3,Home Front,aluf,37672,commander of command
+5794,Gwendolen Delicate,4,Home Front,rav seren,92542,commander of pluga
+5795,Ofella Prout,1,Southern,aluf,74459,commander of pluga
+5796,Dominik Haborn,5,Southern,seren,79507,commander of pluga
+5797,Ike Labroue,1,Northern,aluf,50803,commander of gdud
+5798,Pryce O' Dooley,1,Home Front,aluf,33192,commander of gdud
+5799,Agnola Hughill,5,Southern,tat aluf,15419,commander of ugda
+5800,Donalt Sommerville,3,Home Front,seren,35784,commander of pluga
+5801,Norene Foldes,3,Home Front,aluf,27695,commander of gdud
+5802,Benoite de Amaya,3,Home Front,tat aluf,39523,commander of ugda
+5803,Vernen Caddies,3,Northern,rav seren,29195,commander of pluga
+5804,Jacqueline Filinkov,4,Northern,seren,31842,commander of pluga
+5805,Janessa Blewis,1,Northern,seren,89006,commander of pluga
+5806,Ernesto Gummoe,2,Southern,seren,24728,commander of pluga
+5807,Jasper Sterley,4,Northern,rav seren,74150,commander of pluga
+5808,Sena Markham,2,Central,sgan aluf,65376,commander of pluga
+5809,Roddie Peyntue,5,Central,rav seren,16372,commander of pluga
+5810,Kalila O'Sherin,2,Southern,seren,44561,commander of pluga
+5811,Murdoch Sirmond,5,Southern,tat aluf,94104,commander of ugda
+5812,Arie Lissett,2,Home Front,sgan aluf,22249,commander of gdud
+5813,Sophey O' Shea,1,Home Front,tat aluf,90137,commander of ugda
+5814,Cristina Escalero,4,Northern,aluf mishne,31674,commander of chativa
+5815,Walsh Sneaker,4,Southern,seren,36844,commander of pluga
+5816,Adelina McGhee,2,Southern,seren,73041,commander of pluga
+5817,Foss Morecomb,5,Southern,tat aluf,4902,commander of ugda
+5818,Urson Schonfeld,1,Central,rav seren,44006,commander of pluga
+5819,Nerti Reed,3,Northern,aluf,62361,commander of gdud
+5820,Hubie Foster,1,Southern,aluf,73053,commander of command
+5821,Lorita Degue,2,Central,rav seren,26282,commander of pluga
+5822,Timotheus Ginnaly,2,Home Front,aluf mishne,81873,commander of chativa
+5823,Zaneta Leedal,5,Southern,rav seren,42015,commander of pluga
+5824,Diena Kirkebye,5,Southern,aluf mishne,26045,commander of chativa
+5825,Lonna Gorgler,5,Home Front,tat aluf,34633,commander of ugda
+5826,Edythe Fosse,4,Southern,aluf mishne,23939,commander of chativa
+5827,Josi Spir,4,Northern,sgan aluf,37566,commander of pluga
+5828,Dee Barson,5,Southern,seren,79721,commander of pluga
+5829,Ashlie Clibbery,5,Central,rav seren,16591,commander of pluga
+5830,Orsola Blackbrough,2,Central,sgan aluf,22249,commander of pluga
+5831,Irene McBeth,5,Southern,aluf,39031,commander of gdud
+5832,Pennie Spillard,4,Home Front,aluf mishne,51976,commander of chativa
+5833,Kort Scholefield,5,Southern,aluf,22896,commander of gdud
+5834,Lola Karoly,3,Home Front,aluf mishne,5300,commander of chativa
+5835,Shaun Oosthout de Vree,2,Home Front,rav seren,70485,commander of pluga
+5836,Bink Vigors,4,Home Front,sgan aluf,11357,commander of pluga
+5837,Ameline Tomasini,2,Southern,aluf mishne,68740,commander of chativa
+5838,Stirling Dodamead,4,Southern,tat aluf,49405,commander of ugda
+5839,Cele Szymczyk,5,Southern,seren,7319,commander of pluga
+5840,Caron Midlane,5,Home Front,sgan aluf,15856,commander of pluga
+5841,Travus Masseo,2,Southern,aluf,9413,commander of pluga
+5842,Camilla Davisson,2,Home Front,tat aluf,58192,commander of ugda
+5843,Suzie Chase,4,Southern,aluf,51611,commander of pluga
+5844,Obie Pepis,2,Home Front,rav seren,24791,commander of pluga
+5845,Carlin Semon,4,Southern,sgan aluf,42315,commander of gdud
+5846,Malina Dael,3,Northern,tat aluf,76625,commander of ugda
+5847,Jesse Kirsch,4,Home Front,sgan aluf,47699,commander of gdud
+5848,Gwen Bransden,5,Northern,rav seren,55403,commander of pluga
+5849,Gustavo Salmons,3,Home Front,aluf,97372,commander of command
+5850,Harlie Cavendish,2,Northern,aluf mishne,95432,commander of chativa
+5851,Floyd Redley,3,Southern,tat aluf,64678,commander of ugda
+5852,Catlin Hallahan,5,Home Front,rav seren,7095,commander of pluga
+5853,Noland Mitchiner,5,Southern,sgan aluf,27713,commander of pluga
+5854,Kiley Hardwich,1,Northern,seren,6908,commander of pluga
+5855,Kane Elsay,4,Southern,seren,41193,commander of pluga
+5856,Sutherlan Cammocke,4,Central,rav seren,90937,commander of pluga
+5857,Flora McClymond,5,Southern,seren,28611,commander of pluga
+5858,Fergus Gabitis,3,Southern,sgan aluf,72709,commander of pluga
+5859,Terrell Perrin,2,Southern,seren,9887,commander of pluga
+5860,Jeremiah Kinnie,4,Southern,tat aluf,22225,commander of ugda
+5861,Bartholomew Whitton,3,Northern,sgan aluf,75569,commander of pluga
+5862,Dorrie Gaudin,4,Home Front,aluf,19857,commander of pluga
+5863,Helen-elizabeth Pursglove,3,Southern,rav seren,52498,commander of pluga
+5864,Bambie Feragh,2,Central,aluf mishne,26087,commander of chativa
+5865,Andrey Tofanelli,2,Southern,tat aluf,92743,commander of ugda
+5866,Francois Walewicz,5,Central,aluf mishne,58297,commander of chativa
+5867,Tiffi Cluett,4,Southern,seren,94670,commander of pluga
+5868,Gardner Gowdridge,2,Northern,aluf,10123,commander of command
+5869,Salomon Mairs,2,Southern,rav seren,74914,commander of pluga
+5870,Bryana Markushkin,1,Central,aluf mishne,18852,commander of chativa
+5871,Giorgi Pettendrich,1,Northern,sgan aluf,84170,commander of pluga
+5872,Lorraine Pinniger,2,Home Front,rav seren,65134,commander of pluga
+5873,Cherin Winscom,5,Southern,sgan aluf,20059,commander of pluga
+5874,Julieta Parsall,2,Home Front,tat aluf,26362,commander of ugda
+5875,Minne Drover,1,Home Front,tat aluf,90109,commander of ugda
+5876,Jewell O'Mailey,5,Home Front,seren,70672,commander of pluga
+5877,Jeannine Patten,1,Home Front,aluf mishne,98128,commander of chativa
+5878,Mirabelle Pringell,4,Northern,rav seren,77414,commander of pluga
+5879,Paxton Benedito,5,Central,aluf,45956,commander of gdud
+5880,Lonna Worton,4,Central,rav seren,12495,commander of pluga
+5881,Jorrie Hartburn,2,Southern,sgan aluf,47524,commander of pluga
+5882,Sunny Cominetti,3,Northern,aluf,15924,commander of pluga
+5883,Renado Willox,3,Home Front,sgan aluf,3561,commander of pluga
+5884,Davide de Nore,5,Northern,aluf mishne,15446,commander of chativa
+5885,Francisco Bugg,5,Central,rav seren,26816,commander of pluga
+5886,Nobie Ryce,2,Home Front,tat aluf,46689,commander of ugda
+5887,Felicio McLauchlin,4,Central,seren,98447,commander of pluga
+5888,Carling Pindell,2,Southern,seren,19988,commander of pluga
+5889,Phebe Isard,1,Northern,sgan aluf,48132,commander of pluga
+5890,Roley Milne,4,Southern,seren,17857,commander of pluga
+5891,Terence Cuer,2,Southern,sgan aluf,14613,commander of gdud
+5892,Gerek Perigeaux,5,Northern,rav seren,82211,commander of pluga
+5893,Lara Vazquez,4,Central,seren,54319,commander of pluga
+5894,Normy Limpertz,3,Central,aluf,88235,commander of command
+5895,Ernaline Randles,3,Northern,tat aluf,29596,commander of ugda
+5896,Cariotta Papis,1,Home Front,sgan aluf,16371,commander of pluga
+5897,Ginni Wrigglesworth,4,Southern,rav seren,2318,commander of pluga
+5898,Alain Ratke,3,Home Front,seren,7629,commander of pluga
+5899,Daniella Bernt,1,Home Front,aluf,69373,commander of pluga
+5900,Dyan Jeste,5,Home Front,rav seren,69838,commander of pluga
+5901,Vassili Glentworth,5,Home Front,aluf,67097,commander of command
+5902,Karlik Whall,3,Home Front,sgan aluf,16668,commander of pluga
+5903,Sawyer MacQueen,3,Southern,aluf,9210,commander of gdud
+5904,Moses Traylen,1,Southern,rav seren,74898,commander of pluga
+5905,Gottfried Bussey,2,Northern,tat aluf,14938,commander of ugda
+5906,Gunther Mingasson,3,Home Front,aluf,79803,commander of command
+5907,Si Oakeby,4,Northern,sgan aluf,96094,commander of gdud
+5908,Basilio Batey,5,Northern,tat aluf,18683,commander of ugda
+5909,Nikaniki Loody,1,Southern,seren,13573,commander of pluga
+5910,Marcos Putnam,2,Central,seren,23013,commander of pluga
+5911,Hendrika Legion,2,Home Front,aluf,49317,commander of command
+5912,Karolina Dugood,5,Central,aluf,53089,commander of command
+5913,Chev MacGorman,3,Southern,rav seren,99440,commander of pluga
+5914,Caitrin Edgars,5,Central,sgan aluf,51855,commander of pluga
+5915,Pincas Edkins,3,Southern,aluf mishne,25463,commander of chativa
+5916,Dasie Powland,5,Central,rav seren,69284,commander of pluga
+5917,Torie Ollin,3,Southern,aluf,79347,commander of command
+5918,Mitchel Ruddick,4,Home Front,seren,70160,commander of pluga
+5919,Orel Wardhaugh,3,Northern,aluf mishne,65452,commander of chativa
+5920,Sheila Bras,5,Northern,sgan aluf,76367,commander of pluga
+5921,Missy Pengilly,3,Northern,aluf mishne,58948,commander of chativa
+5922,Iosep Blemen,1,Northern,tat aluf,14428,commander of ugda
+5923,Malia Trainor,5,Northern,aluf mishne,89867,commander of chativa
+5924,Mariska Hoopper,5,Home Front,tat aluf,28581,commander of ugda
+5925,Carlyn Lukovic,1,Northern,seren,56294,commander of pluga
+5926,Ingar Bambrough,3,Northern,aluf,86568,commander of pluga
+5927,Marco Ebanks,2,Southern,seren,60901,commander of pluga
+5928,Ange Risebrow,2,Central,seren,91555,commander of pluga
+5929,Jaquith Aslie,3,Southern,seren,95449,commander of pluga
+5930,Katti Woolford,5,Southern,seren,99946,commander of pluga
+5931,Marylee Cowser,2,Home Front,tat aluf,25920,commander of ugda
+5932,Doralynne Vowden,3,Central,rav seren,12927,commander of pluga
+5933,Gardener Domanski,3,Northern,sgan aluf,55483,commander of gdud
+5934,Sib Loyley,5,Central,aluf,71286,commander of pluga
+5935,Lidia Hamon,1,Northern,aluf mishne,42104,commander of chativa
+5936,Sansone Longmire,3,Southern,seren,50587,commander of pluga
+5937,Merrie Ney,4,Southern,aluf,42682,commander of pluga
+5938,Astrid Weinham,3,Southern,rav seren,85509,commander of pluga
+5939,Jamesy Beaty,3,Home Front,tat aluf,23624,commander of ugda
+5940,Ellwood Muffett,4,Southern,aluf mishne,17289,commander of chativa
+5941,Rosanna Cappel,3,Home Front,aluf,19635,commander of gdud
+5942,Janene Kemetz,4,Northern,tat aluf,1882,commander of ugda
+5943,Barnabas McClancy,4,Northern,sgan aluf,79973,commander of pluga
+5944,Marney Ginsie,4,Northern,seren,13027,commander of pluga
+5945,Darrell Issacson,1,Southern,rav seren,51954,commander of pluga
+5946,Jacinta Beare,1,Central,aluf mishne,97551,commander of chativa
+5947,Grethel Bernet,1,Central,tat aluf,77619,commander of ugda
+5948,Boycie Lopez,1,Southern,sgan aluf,86150,commander of pluga
+5949,Sigismundo Handaside,3,Southern,aluf mishne,19645,commander of chativa
+5950,Prue Salle,5,Home Front,tat aluf,14959,commander of ugda
+5951,Quintilla Amiable,2,Home Front,sgan aluf,45440,commander of pluga
+5952,Angelita Orme,4,Home Front,aluf,56732,commander of pluga
+5953,Hortensia Ellams,5,Central,aluf mishne,33448,commander of chativa
+5954,Grenville Samarth,3,Northern,tat aluf,96044,commander of ugda
+5955,Heath Paoletto,3,Central,rav seren,57282,commander of pluga
+5956,Iorgo Binney,1,Northern,rav seren,53477,commander of pluga
+5957,Colby Casiero,2,Northern,seren,32077,commander of pluga
+5958,Karl Rundall,2,Northern,aluf mishne,87555,commander of chativa
+5959,Hetti Lindenstrauss,1,Southern,seren,5982,commander of pluga
+5960,Yulma Chessor,5,Central,rav seren,96168,commander of pluga
+5961,Tyne Mycock,3,Home Front,seren,31237,commander of pluga
+5962,Damien Bullar,4,Central,rav seren,72056,commander of pluga
+5963,Manon Hustler,5,Southern,rav seren,60109,commander of pluga
+5964,Valentino Ransom,2,Home Front,aluf mishne,15582,commander of chativa
+5965,Denver Yearnes,3,Southern,seren,11178,commander of pluga
+5966,Nicola Cowsby,1,Northern,aluf,65467,commander of gdud
+5967,Delora Metrick,3,Home Front,aluf mishne,86075,commander of chativa
+5968,Malinde Lembke,4,Central,rav seren,15354,commander of pluga
+5969,Quentin Learned,4,Southern,aluf,38384,commander of command
+5970,Wald Okenfold,1,Central,aluf mishne,30367,commander of chativa
+5971,Dolly Kneaphsey,2,Southern,rav seren,4627,commander of pluga
+5972,Edd Berrill,4,Southern,aluf,35715,commander of pluga
+5973,Xenia Van der Brugge,1,Southern,sgan aluf,84130,commander of pluga
+5974,Jennica Gaggen,5,Southern,sgan aluf,97030,commander of gdud
+5975,Euell Alabastar,1,Northern,rav seren,94624,commander of pluga
+5976,Kin Kobpa,5,Central,seren,47564,commander of pluga
+5977,Brigid Else,5,Central,rav seren,89307,commander of pluga
+5978,Pooh Collyer,4,Home Front,tat aluf,20202,commander of ugda
+5979,Bert Olczak,3,Northern,tat aluf,20624,commander of ugda
+5980,Wilhelmine Mattiacci,2,Northern,rav seren,36250,commander of pluga
+5981,Ailis Hillburn,3,Home Front,rav seren,56422,commander of pluga
+5982,Victor Blaxeland,3,Home Front,aluf,79432,commander of pluga
+5983,Brit Hanington,3,Home Front,seren,74437,commander of pluga
+5984,Cacilie Bangham,2,Home Front,tat aluf,11898,commander of ugda
+5985,Ivan Greenstock,3,Central,rav seren,95515,commander of pluga
+5986,Candace Maass,1,Southern,aluf,86787,commander of pluga
+5987,Reid Rottcher,3,Southern,aluf,14021,commander of pluga
+5988,Galvin Tedstone,5,Southern,seren,72739,commander of pluga
+5989,Myrta Hansley,4,Central,seren,46064,commander of pluga
+5990,Ibby Trunby,1,Home Front,aluf,84409,commander of gdud
+5991,Washington Nassey,1,Central,tat aluf,3469,commander of ugda
+5992,Mathilda Peschka,5,Central,seren,58782,commander of pluga
+5993,Margaretha Brine,4,Home Front,tat aluf,65835,commander of ugda
+5994,Syman Torn,1,Home Front,seren,88856,commander of pluga
+5995,Staci Brien,1,Southern,seren,90820,commander of pluga
+5996,Agace Catherick,1,Northern,tat aluf,83528,commander of ugda
+5997,Anallise Ertelt,1,Home Front,rav seren,76158,commander of pluga
+5998,Korella Verdon,5,Central,seren,13102,commander of pluga
+5999,Jessi Wallach,5,Southern,rav seren,94894,commander of pluga
+6000,Dorothee Ware,1,Southern,aluf mishne,93246,commander of chativa

@@ -1,0 +1,1001 @@
+unit_id,activy_area,unit_name,classification,combat_level,demand,search_type,force,number_of_soldiers,commander_id,base_id
+97112,Lebanon,Realpoint,3,1,1,interview,Infantry,6400,6001,56
+97113,Iran,Aivee,2,4,4,combat fitness,Education,16200,6002,291
+97114,Lebanon,Jaxspan,2,2,10,cognitive test,Intelligence,2800,6003,43
+97115,Lebanon,Kimia,2,4,7,technical test,Education,1000,6004,158
+97116,Depth,Tagchat,5,5,10,cognitive test,Infantry,22400,6005,66
+97117,West Bank,Thoughtworks,2,5,3,cognitive test,Technology and Maintenance,2500,6006,77
+97118,Lebanon,Photobean,5,3,10,technical test,Artillery,24800,6007,394
+97119,Jordan,Blogspan,1,1,5,interview,Navy,8900,6008,184
+97120,West Bank,Realfire,1,3,5,cognitive test,Technology and Maintenance,3000,6009,92
+97121,West Bank,Quinu,2,2,8,interview,Military Police,22500,6010,70
+97122,West Bank,Aimbo,5,5,6,combat fitness,Education,300,6011,270
+97123,West Bank,Abata,1,4,9,combat fitness,Military Police,15000,6012,68
+97124,Jordan,Gigabox,2,1,7,interview,Infantry,4000,6013,327
+97125,Lebanon,Babblestorm,2,1,3,knowledge test,Intelligence,16800,6014,274
+97126,Lebanon,Browsetype,4,5,5,cognitive test,Armored,19200,6015,154
+97127,Iran,Mynte,2,3,10,technical test,Artillery,19400,6016,458
+97128,Depth,Gevee,5,5,6,knowledge test,Military Police,26600,6017,398
+97129,Syria,Skyba,5,3,2,knowledge test,C4I,19100,6018,301
+97130,Syria,Twimm,3,1,2,technical test,Logistics,3900,6019,487
+97131,Syria,Meembee,5,2,3,knowledge test,Artillery,3200,6020,22
+97132,Egypt,Jaxworks,1,4,2,cognitive test,Medical,17800,6021,135
+97133,West Bank,Edgewire,2,4,4,technical test,Artillery,7400,6022,358
+97134,Gaza,Topiczoom,5,5,10,knowledge test,Artillery,19100,6023,128
+97135,Iran,Jaxworks,3,2,1,interview,Infantry,22900,6024,158
+97136,Depth,Devshare,1,3,4,combat fitness,Air,7700,6025,331
+97137,West Bank,Browsecat,2,2,4,interview,Logistics,23500,6026,470
+97138,Egypt,Jaxbean,4,2,3,technical test,Education,28100,6027,187
+97139,West Bank,Kare,5,3,4,interview,Military Police,16200,6028,452
+97140,Depth,Ooba,4,2,5,cognitive test,Education,15900,6029,126
+97141,Egypt,Camido,5,5,9,cognitive test,Education,5600,6030,348
+97142,Depth,Zoombox,2,1,3,technical test,Air,21800,6031,71
+97143,Jordan,Reallinks,2,5,8,cognitive test,Infantry,26300,6032,330
+97144,West Bank,Tambee,2,5,6,knowledge test,Infantry,26100,6033,347
+97145,West Bank,Voolia,5,5,6,technical test,Education,21400,6034,266
+97146,Syria,Demivee,4,4,3,interview,Armored,3700,6035,363
+97147,Depth,Skimia,3,4,10,cognitive test,Infantry,27800,6036,69
+97148,Iran,Tagchat,1,1,3,knowledge test,Armored,11900,6037,469
+97149,Egypt,Yakitri,3,2,4,knowledge test,Artillery,5000,6038,433
+97150,Lebanon,Zoonoodle,2,3,8,technical test,Navy,10200,6039,437
+97151,Egypt,Aibox,4,2,4,cognitive test,C4I,18300,6040,488
+97152,Depth,Muxo,1,4,8,technical test,Technology and Maintenance,13600,6041,59
+97153,Egypt,Jabberstorm,5,1,6,cognitive test,Medical,13300,6042,149
+97154,Iran,Kayveo,4,4,6,interview,Logistics,18100,6043,12
+97155,Iran,Mymm,2,5,9,interview,Navy,29900,6044,319
+97156,West Bank,Snaptags,2,3,7,interview,Military Police,16100,6045,168
+97157,West Bank,Quatz,1,2,2,technical test,Armored,18900,6046,71
+97158,Depth,Kwinu,2,5,3,cognitive test,Intelligence,17900,6047,203
+97159,Depth,Kwimbee,2,5,2,cognitive test,Navy,18500,6048,454
+97160,Syria,Skipstorm,4,2,2,cognitive test,C4I,2100,6049,289
+97161,Gaza,Eare,2,3,6,combat fitness,Air,21400,6050,74
+97162,Iran,Buzzdog,5,1,3,cognitive test,Medical,28000,6051,425
+97163,Depth,Quinu,4,5,1,interview,Air,13200,6052,78
+97164,Iran,Voonyx,4,2,6,cognitive test,Medical,9800,6053,160
+97165,Gaza,Flipopia,3,3,8,cognitive test,Intelligence,4700,6054,55
+97166,Depth,Yodoo,1,5,10,combat fitness,Military Police,2700,6055,455
+97167,Syria,Brainverse,5,2,9,interview,Air,100,6056,166
+97168,Syria,Camido,5,3,7,combat fitness,Logistics,6300,6057,21
+97169,Iran,BlogXS,5,2,5,technical test,Air,12200,6058,308
+97170,Iran,Wordify,5,3,9,combat fitness,Artillery,27100,6059,300
+97171,Syria,Jazzy,5,4,10,knowledge test,Technology and Maintenance,12900,6060,31
+97172,Iran,Meembee,5,4,6,combat fitness,Air,6400,6061,176
+97173,Lebanon,Divavu,1,3,7,knowledge test,Military Police,7800,6062,384
+97174,Gaza,Mycat,5,1,10,technical test,Medical,12300,6063,114
+97175,Egypt,Zoovu,4,1,4,technical test,Technology and Maintenance,4500,6064,12
+97176,Gaza,Twitterlist,4,5,3,knowledge test,Air,10400,6065,425
+97177,Gaza,Nlounge,4,1,2,knowledge test,Military Police,5300,6066,140
+97178,Iran,Flipbug,5,3,10,knowledge test,Military Police,5900,6067,331
+97179,Lebanon,Flashpoint,4,3,4,combat fitness,Infantry,12600,6068,418
+97180,West Bank,Skivee,1,4,2,knowledge test,Navy,9300,6069,52
+97181,Lebanon,Feedspan,3,5,8,combat fitness,Armored,13200,6070,112
+97182,Egypt,Rhyloo,5,1,1,cognitive test,C4I,23100,6071,143
+97183,Depth,Topiczoom,4,4,7,cognitive test,Technology and Maintenance,29800,6072,337
+97184,West Bank,Livetube,3,3,2,combat fitness,Military Police,10300,6073,279
+97185,Iran,Rhyzio,4,4,6,interview,Navy,23300,6074,28
+97186,Iran,Dabfeed,2,1,2,technical test,Logistics,27800,6075,236
+97187,Lebanon,Yodoo,4,4,10,knowledge test,Armored,25100,6076,293
+97188,Gaza,Shufflebeat,3,4,8,combat fitness,Technology and Maintenance,19300,6077,423
+97189,Lebanon,Jaxworks,1,1,3,combat fitness,Logistics,27600,6078,135
+97190,Egypt,Izio,4,2,4,technical test,Medical,16800,6079,96
+97191,Syria,Realblab,1,5,10,knowledge test,Military Police,23300,6080,60
+97192,Egypt,Ozu,5,3,6,combat fitness,Intelligence,28800,6081,454
+97193,Syria,Skidoo,2,1,1,technical test,Infantry,29200,6082,361
+97194,Iran,Yodoo,4,3,10,technical test,Medical,9200,6083,500
+97195,West Bank,Wordware,3,5,3,technical test,Logistics,17800,6084,332
+97196,Jordan,Kaymbo,4,2,2,interview,Education,9800,6085,441
+97197,Gaza,Flipbug,5,2,1,knowledge test,Navy,21000,6086,428
+97198,Gaza,Skibox,3,3,10,cognitive test,Armored,7800,6087,289
+97199,Egypt,Tagtune,1,2,1,cognitive test,Education,11400,6088,132
+97200,Egypt,Skivee,3,3,5,interview,Infantry,25900,6089,358
+97201,Egypt,Meeveo,1,3,5,knowledge test,Navy,24000,6090,216
+97202,West Bank,Youspan,1,2,2,knowledge test,Infantry,8400,6091,381
+97203,Egypt,Rhyzio,3,3,5,combat fitness,Education,17600,6092,453
+97204,Egypt,Brainbox,5,4,4,cognitive test,Artillery,9200,6093,235
+97205,West Bank,Fanoodle,3,4,7,combat fitness,C4I,800,6094,81
+97206,Syria,Quatz,1,4,2,interview,Navy,5700,6095,474
+97207,Gaza,Thoughtbeat,2,3,10,technical test,Infantry,24200,6096,150
+97208,Gaza,Linktype,2,2,4,technical test,Logistics,23100,6097,298
+97209,Syria,Trilith,1,1,7,technical test,Infantry,22000,6098,58
+97210,Egypt,Fiveclub,2,1,1,knowledge test,Infantry,15500,6099,140
+97211,Gaza,Zoomlounge,5,1,5,technical test,Infantry,22700,6100,324
+97212,Egypt,Blogpad,2,2,6,technical test,Technology and Maintenance,21800,6101,41
+97213,Depth,Midel,5,3,7,combat fitness,Military Police,19000,6102,424
+97214,Syria,Devcast,3,1,4,cognitive test,Logistics,20100,6103,356
+97215,West Bank,Youspan,2,1,5,interview,Technology and Maintenance,8600,6104,483
+97216,Lebanon,Wordware,4,5,4,knowledge test,Intelligence,500,6105,112
+97217,Iran,Quinu,1,5,6,knowledge test,Military Police,600,6106,479
+97218,Iran,Buzzster,3,1,6,combat fitness,Intelligence,24900,6107,80
+97219,Syria,Centidel,5,4,3,interview,Navy,12700,6108,327
+97220,Syria,Skipstorm,3,3,1,cognitive test,Artillery,27600,6109,146
+97221,Lebanon,Jazzy,3,4,7,interview,Navy,10700,6110,437
+97222,Iran,Ooba,3,1,10,interview,Logistics,14200,6111,457
+97223,West Bank,Dazzlesphere,2,1,8,technical test,Technology and Maintenance,29900,6112,98
+97224,Syria,Ntag,1,1,8,knowledge test,Logistics,4500,6113,500
+97225,West Bank,Lajo,3,5,6,cognitive test,Infantry,10300,6114,40
+97226,Iran,Yakijo,3,4,2,interview,Education,27100,6115,391
+97227,Depth,Npath,3,1,9,technical test,Air,11400,6116,176
+97228,Gaza,Feednation,3,5,7,interview,Technology and Maintenance,10600,6117,231
+97229,Syria,Fanoodle,5,2,4,knowledge test,Navy,9600,6118,456
+97230,Egypt,Topdrive,1,5,3,knowledge test,Infantry,3900,6119,283
+97231,Egypt,Ntags,4,1,6,cognitive test,Artillery,7200,6120,362
+97232,Egypt,Kanoodle,3,4,9,cognitive test,Intelligence,25300,6121,145
+97233,Lebanon,Lazzy,3,4,1,technical test,C4I,13300,6122,363
+97234,Syria,Topicware,3,5,7,interview,Air,9100,6123,57
+97235,Lebanon,Fivespan,2,3,3,combat fitness,Logistics,8800,6124,148
+97236,West Bank,Kazio,4,1,9,technical test,Armored,26200,6125,32
+97237,Syria,Jayo,3,1,5,combat fitness,Armored,25700,6126,430
+97238,Depth,Voomm,2,5,6,combat fitness,Artillery,20500,6127,393
+97239,Depth,Livepath,3,1,4,combat fitness,Navy,19900,6128,33
+97240,Syria,Trilia,2,5,10,interview,Military Police,6200,6129,255
+97241,Egypt,Innojam,1,1,1,interview,Technology and Maintenance,300,6130,160
+97242,Egypt,Twiyo,5,4,10,interview,Military Police,1900,6131,493
+97243,West Bank,Eabox,3,5,3,technical test,Artillery,2400,6132,143
+97244,Depth,Tagopia,4,4,1,interview,Infantry,14900,6133,402
+97245,Iran,Centimia,3,1,1,knowledge test,Artillery,23800,6134,107
+97246,Lebanon,Jabbertype,4,4,3,knowledge test,C4I,15400,6135,322
+97247,Egypt,Wikizz,5,1,2,cognitive test,Education,14800,6136,499
+97248,Gaza,Kazu,2,3,3,knowledge test,Logistics,3000,6137,59
+97249,West Bank,Buzzster,5,5,10,technical test,C4I,4700,6138,491
+97250,Egypt,Edgepulse,3,1,2,knowledge test,Air,23600,6139,388
+97251,Syria,Layo,5,4,9,cognitive test,Infantry,11100,6140,262
+97252,Depth,Buzzster,4,4,6,combat fitness,Technology and Maintenance,28400,6141,224
+97253,Lebanon,Dabshots,4,3,9,interview,Military Police,19500,6142,63
+97254,Egypt,Skivee,1,1,9,cognitive test,Artillery,7700,6143,246
+97255,West Bank,Linklinks,5,4,8,combat fitness,Intelligence,20500,6144,418
+97256,Depth,Janyx,2,1,4,combat fitness,Intelligence,14900,6145,139
+97257,Iran,Livepath,2,1,3,combat fitness,Logistics,2900,6146,210
+97258,Lebanon,Vimbo,3,2,10,knowledge test,Medical,29600,6147,321
+97259,Gaza,Thoughtsphere,2,2,9,technical test,Education,27100,6148,85
+97260,Syria,Tazz,1,2,10,knowledge test,C4I,10700,6149,134
+97261,Jordan,Divavu,5,3,1,knowledge test,Military Police,17500,6150,250
+97262,Depth,Edgewire,1,4,4,knowledge test,Technology and Maintenance,2400,6151,386
+97263,Egypt,Yotz,2,4,10,technical test,Navy,20500,6152,170
+97264,Jordan,Bubblebox,1,2,1,interview,Armored,8500,6153,421
+97265,Jordan,Eayo,4,1,9,cognitive test,Artillery,2000,6154,102
+97266,Gaza,Cogibox,3,3,2,knowledge test,Intelligence,10300,6155,452
+97267,Depth,Linkbuzz,2,4,1,interview,Technology and Maintenance,21300,6156,434
+97268,Jordan,Midel,4,5,2,cognitive test,Infantry,13600,6157,301
+97269,Gaza,Eazzy,3,1,9,combat fitness,Logistics,27900,6158,28
+97270,Iran,Quatz,1,3,6,cognitive test,Military Police,3900,6159,338
+97271,West Bank,Agimba,2,1,3,technical test,Military Police,2000,6160,258
+97272,Egypt,Izio,2,2,8,interview,Medical,1700,6161,285
+97273,Jordan,Skalith,5,2,5,knowledge test,Armored,26700,6162,242
+97274,Egypt,Trupe,4,2,5,technical test,Technology and Maintenance,4100,6163,465
+97275,Lebanon,Yodoo,3,4,9,interview,Artillery,12100,6164,403
+97276,Gaza,Thoughtmix,5,2,5,combat fitness,Armored,28900,6165,217
+97277,West Bank,Divape,1,2,10,interview,Technology and Maintenance,4400,6166,206
+97278,Lebanon,Gigazoom,5,5,1,combat fitness,Artillery,4600,6167,255
+97279,West Bank,Omba,1,1,3,interview,Intelligence,6000,6168,388
+97280,Syria,Zoomzone,4,3,10,knowledge test,Armored,9100,6169,385
+97281,Lebanon,Demizz,3,2,8,knowledge test,Medical,23400,6170,132
+97282,Iran,Eidel,2,1,7,cognitive test,Artillery,15700,6171,18
+97283,Lebanon,Skaboo,5,2,7,interview,Technology and Maintenance,12600,6172,429
+97284,Depth,Riffpath,1,5,2,cognitive test,C4I,4500,6173,76
+97285,Iran,Skidoo,2,3,2,knowledge test,Navy,8700,6174,245
+97286,Syria,Skiba,1,5,5,combat fitness,Infantry,5500,6175,395
+97287,Egypt,Dynabox,2,3,10,cognitive test,C4I,6100,6176,38
+97288,Egypt,Tambee,2,4,7,cognitive test,Infantry,11800,6177,131
+97289,Gaza,Quire,5,3,2,cognitive test,Infantry,2500,6178,398
+97290,West Bank,Dablist,4,2,4,technical test,Navy,22400,6179,72
+97291,West Bank,Thoughtmix,2,5,7,interview,C4I,5700,6180,104
+97292,Depth,Zoonder,2,1,2,cognitive test,Medical,600,6181,153
+97293,Gaza,Ozu,2,5,5,knowledge test,Artillery,18700,6182,451
+97294,Gaza,Twiyo,4,4,10,interview,Infantry,5600,6183,303
+97295,Iran,Rooxo,2,2,2,cognitive test,Navy,1400,6184,43
+97296,Iran,Kazu,4,4,8,technical test,Military Police,25400,6185,33
+97297,Jordan,Mycat,3,1,9,technical test,Intelligence,9600,6186,76
+97298,Jordan,Yoveo,5,3,2,interview,Air,12800,6187,309
+97299,Egypt,Pixoboo,4,2,3,knowledge test,Military Police,16700,6188,157
+97300,Jordan,Jaxnation,4,2,4,technical test,Infantry,17400,6189,439
+97301,Depth,Dablist,5,2,4,knowledge test,Navy,12400,6190,262
+97302,Jordan,Mybuzz,1,2,5,interview,Intelligence,1000,6191,133
+97303,Lebanon,Tagchat,4,2,8,interview,Infantry,19800,6192,209
+97304,Egypt,Lajo,5,5,2,cognitive test,Military Police,13000,6193,380
+97305,Iran,Jamia,2,2,8,cognitive test,Artillery,11600,6194,349
+97306,Syria,Plambee,2,5,7,knowledge test,Education,1900,6195,282
+97307,Depth,Ailane,3,3,5,combat fitness,Technology and Maintenance,14100,6196,103
+97308,Lebanon,Agivu,1,1,4,knowledge test,Military Police,18900,6197,276
+97309,West Bank,Gabtype,3,3,3,technical test,Infantry,9900,6198,312
+97310,Syria,Realpoint,3,3,7,knowledge test,Education,11100,6199,351
+97311,Depth,Oloo,1,2,6,knowledge test,Technology and Maintenance,22900,6200,20
+97312,Syria,Brightdog,2,1,1,knowledge test,Education,16100,6201,179
+97313,Iran,Dynazzy,5,1,9,technical test,Navy,5400,6202,228
+97314,Iran,Mydo,2,5,6,knowledge test,Navy,4800,6203,470
+97315,Gaza,Jatri,3,3,6,cognitive test,Intelligence,8100,6204,16
+97316,Gaza,Rhycero,4,2,10,technical test,C4I,19900,6205,413
+97317,Lebanon,Voomm,4,2,3,cognitive test,Navy,19000,6206,49
+97318,Gaza,Flipstorm,3,2,9,knowledge test,Artillery,7300,6207,176
+97319,Iran,Brainverse,5,3,5,knowledge test,Education,1500,6208,366
+97320,Gaza,Photojam,4,1,7,interview,Navy,1100,6209,34
+97321,Lebanon,Twitterworks,4,1,1,cognitive test,Artillery,9900,6210,464
+97322,Egypt,Photobug,3,4,7,interview,Navy,26800,6211,363
+97323,Lebanon,Youspan,4,2,4,combat fitness,Artillery,25500,6212,137
+97324,Syria,Vitz,4,1,5,technical test,Artillery,8600,6213,351
+97325,Lebanon,Zoonoodle,4,4,4,interview,Technology and Maintenance,13600,6214,294
+97326,Iran,Zoomlounge,3,5,8,technical test,Education,22400,6215,155
+97327,Egypt,Yombu,1,4,6,cognitive test,Navy,26600,6216,29
+97328,West Bank,Miboo,4,3,9,cognitive test,Intelligence,8900,6217,2
+97329,Depth,Linkbuzz,4,2,1,cognitive test,C4I,10400,6218,88
+97330,Depth,Gigazoom,5,3,1,cognitive test,Technology and Maintenance,21300,6219,248
+97331,Syria,Mymm,3,5,8,combat fitness,Armored,5600,6220,473
+97332,Egypt,Layo,5,5,3,technical test,Infantry,8400,6221,445
+97333,West Bank,Plajo,4,5,10,knowledge test,Logistics,26100,6222,418
+97334,West Bank,Jabbersphere,1,3,3,cognitive test,Armored,23900,6223,88
+97335,Lebanon,Photolist,3,3,5,combat fitness,Infantry,25700,6224,287
+97336,Iran,Yamia,3,3,6,technical test,Education,7900,6225,375
+97337,Syria,Jaxnation,4,1,10,combat fitness,Technology and Maintenance,11200,6226,92
+97338,Syria,Roodel,1,1,8,knowledge test,Technology and Maintenance,15800,6227,385
+97339,Iran,Youspan,3,1,8,cognitive test,Air,22100,6228,357
+97340,Gaza,Meezzy,5,1,5,technical test,Armored,3700,6229,73
+97341,Lebanon,Aimbu,5,5,7,combat fitness,Air,7200,6230,56
+97342,West Bank,Jaxbean,1,4,2,combat fitness,Technology and Maintenance,18200,6231,212
+97343,Syria,Twimbo,5,1,1,combat fitness,Artillery,14000,6232,277
+97344,Iran,Photofeed,3,3,9,knowledge test,Intelligence,19500,6233,57
+97345,Depth,Skiptube,4,4,6,knowledge test,Intelligence,10700,6234,51
+97346,Depth,Yamia,1,3,5,technical test,Medical,2200,6235,249
+97347,Egypt,Trudeo,1,2,4,combat fitness,Artillery,4400,6236,414
+97348,Syria,Realcube,3,3,10,interview,C4I,28700,6237,148
+97349,Depth,Buzzster,4,4,1,interview,Air,3300,6238,70
+97350,Jordan,Mycat,1,5,8,technical test,Armored,5000,6239,317
+97351,Gaza,Centizu,4,2,2,interview,Armored,600,6240,16
+97352,Jordan,Einti,5,2,1,combat fitness,Medical,7100,6241,258
+97353,Jordan,Eimbee,2,1,6,technical test,Navy,12900,6242,142
+97354,West Bank,Livetube,1,1,9,knowledge test,Air,12600,6243,261
+97355,Syria,Tekfly,2,1,5,interview,Logistics,10200,6244,280
+97356,Egypt,Skyba,3,4,7,cognitive test,Intelligence,9100,6245,152
+97357,Lebanon,Jetwire,1,2,9,interview,Logistics,25300,6246,463
+97358,Egypt,Agimba,2,2,4,interview,Armored,3900,6247,168
+97359,West Bank,Trilith,2,3,7,technical test,Medical,14200,6248,232
+97360,Depth,Jaxworks,1,2,5,cognitive test,Education,5700,6249,131
+97361,Gaza,Photobug,3,5,4,technical test,Technology and Maintenance,3700,6250,334
+97362,Egypt,Eayo,4,4,4,knowledge test,Medical,22900,6251,413
+97363,Syria,BlogXS,2,3,9,interview,Air,11600,6252,355
+97364,Syria,Avamba,2,3,5,cognitive test,Technology and Maintenance,14700,6253,266
+97365,Lebanon,Livetube,1,1,5,combat fitness,Intelligence,20600,6254,489
+97366,Depth,Wordware,5,2,4,combat fitness,Air,13600,6255,258
+97367,Lebanon,Buzzbean,5,2,9,technical test,Education,10100,6256,52
+97368,West Bank,Meeveo,2,4,6,technical test,Air,300,6257,92
+97369,Lebanon,Kwideo,3,4,3,combat fitness,Infantry,22400,6258,41
+97370,Iran,Babbleset,5,1,9,knowledge test,Intelligence,8700,6259,143
+97371,Lebanon,Lajo,5,5,7,cognitive test,Navy,16400,6260,319
+97372,West Bank,Demivee,2,5,9,combat fitness,Logistics,23800,6261,72
+97373,Iran,Mita,1,5,6,technical test,Navy,4400,6262,222
+97374,West Bank,Lazz,3,3,9,combat fitness,Infantry,1900,6263,421
+97375,Iran,Youopia,1,3,2,cognitive test,Navy,30000,6264,280
+97376,Syria,Photojam,4,4,4,interview,Intelligence,24400,6265,137
+97377,West Bank,Livetube,3,4,5,knowledge test,Technology and Maintenance,27400,6266,414
+97378,Iran,Voonix,3,1,10,knowledge test,Armored,29600,6267,242
+97379,Gaza,Voolith,4,4,1,knowledge test,Technology and Maintenance,21800,6268,226
+97380,Depth,Myworks,3,4,4,combat fitness,Education,24700,6269,269
+97381,Iran,Browsedrive,2,2,2,combat fitness,Medical,8500,6270,484
+97382,Jordan,Realbuzz,2,2,6,interview,Air,11100,6271,22
+97383,West Bank,Livetube,4,5,3,interview,Armored,2300,6272,40
+97384,Lebanon,Viva,4,2,2,combat fitness,Technology and Maintenance,3300,6273,420
+97385,Lebanon,Janyx,3,3,10,technical test,Armored,15500,6274,49
+97386,Jordan,Livetube,5,2,8,cognitive test,Navy,6500,6275,196
+97387,Lebanon,Twitterwire,1,3,2,knowledge test,Armored,27700,6276,268
+97388,Syria,Yabox,3,5,8,combat fitness,Technology and Maintenance,26700,6277,417
+97389,Jordan,Tazzy,3,3,1,interview,Intelligence,8000,6278,249
+97390,Jordan,Ntags,2,4,5,combat fitness,Logistics,29300,6279,246
+97391,Syria,Realpoint,5,2,10,knowledge test,Medical,23100,6280,27
+97392,Jordan,Skyvu,2,3,5,technical test,Medical,18600,6281,358
+97393,Jordan,Mynte,4,5,7,cognitive test,Infantry,25000,6282,435
+97394,Lebanon,Youbridge,2,2,6,technical test,Air,11100,6283,102
+97395,Depth,Jaxnation,4,4,6,technical test,Logistics,28100,6284,127
+97396,Iran,Brightbean,1,1,5,interview,Logistics,12200,6285,326
+97397,Syria,Dablist,4,3,10,knowledge test,Artillery,22700,6286,343
+97398,Jordan,Brainsphere,3,4,3,interview,Technology and Maintenance,27900,6287,264
+97399,Gaza,Buzzdog,1,5,4,combat fitness,Technology and Maintenance,2000,6288,350
+97400,Gaza,Skidoo,3,4,4,technical test,Technology and Maintenance,30000,6289,262
+97401,Egypt,Gigazoom,3,4,10,cognitive test,Technology and Maintenance,5400,6290,392
+97402,Iran,Cogilith,2,5,2,cognitive test,Artillery,13300,6291,2
+97403,Jordan,Divanoodle,4,3,3,knowledge test,Infantry,5100,6292,464
+97404,Syria,Roomm,5,4,5,interview,Military Police,2500,6293,22
+97405,West Bank,Oyondu,2,4,10,combat fitness,Infantry,1300,6294,33
+97406,Depth,Wikizz,2,4,10,cognitive test,Intelligence,20000,6295,52
+97407,Gaza,Jayo,3,3,3,technical test,Armored,19500,6296,180
+97408,West Bank,Lazz,3,1,2,knowledge test,Air,12800,6297,261
+97409,Jordan,Lazz,2,4,4,cognitive test,Military Police,8600,6298,366
+97410,Jordan,Gabtype,5,5,3,knowledge test,Technology and Maintenance,29600,6299,249
+97411,Syria,Rhybox,3,3,9,knowledge test,Armored,29700,6300,279
+97412,Depth,Agimba,1,4,7,technical test,Education,18300,6301,214
+97413,Gaza,Jatri,3,5,6,combat fitness,Air,22500,6302,28
+97414,Jordan,Dabshots,3,5,8,technical test,Navy,22700,6303,122
+97415,Gaza,Dablist,2,5,3,cognitive test,C4I,12700,6304,486
+97416,Depth,Yamia,2,5,4,technical test,Medical,2400,6305,14
+97417,West Bank,Jabberbean,2,2,4,technical test,Armored,24100,6306,235
+97418,Gaza,Gabcube,2,4,10,combat fitness,Air,10300,6307,250
+97419,West Bank,Gabcube,4,4,10,knowledge test,Intelligence,11400,6308,464
+97420,Jordan,Photospace,2,4,4,combat fitness,Technology and Maintenance,26800,6309,256
+97421,Egypt,Yambee,4,3,4,cognitive test,Intelligence,19200,6310,4
+97422,West Bank,Viva,3,4,4,interview,Logistics,12300,6311,298
+97423,Gaza,Rhyloo,2,3,1,interview,Air,19900,6312,259
+97424,Lebanon,Eazzy,1,4,10,technical test,Infantry,100,6313,61
+97425,Egypt,Youspan,3,2,4,interview,Logistics,6100,6314,341
+97426,Gaza,Aibox,1,2,1,combat fitness,Artillery,9800,6315,366
+97427,Iran,Jayo,3,4,7,combat fitness,Logistics,23200,6316,258
+97428,Depth,Babbleset,4,2,8,combat fitness,C4I,1400,6317,303
+97429,Lebanon,Blogtags,2,1,3,technical test,Intelligence,12200,6318,1
+97430,Lebanon,Chatterpoint,4,5,10,technical test,Technology and Maintenance,28400,6319,76
+97431,Iran,Jabbersphere,3,3,10,knowledge test,Air,11800,6320,109
+97432,Syria,Dabshots,1,4,7,combat fitness,Military Police,14600,6321,77
+97433,Iran,Feedbug,2,3,8,interview,C4I,5400,6322,210
+97434,West Bank,Rhynyx,1,3,4,interview,Logistics,15500,6323,40
+97435,Egypt,Jamia,1,5,7,knowledge test,Education,6200,6324,99
+97436,Lebanon,Dazzlesphere,5,4,10,interview,Navy,5600,6325,111
+97437,Gaza,Wordtune,4,1,9,cognitive test,Navy,2200,6326,309
+97438,West Bank,Jabberbean,1,5,4,combat fitness,Logistics,10600,6327,154
+97439,Egypt,Eazzy,4,5,3,combat fitness,Logistics,6700,6328,475
+97440,West Bank,Divavu,2,4,6,knowledge test,Artillery,5100,6329,261
+97441,Egypt,Skyble,3,3,4,cognitive test,Navy,8600,6330,230
+97442,Jordan,Jaloo,1,4,4,combat fitness,Navy,8800,6331,424
+97443,Lebanon,Jabberbean,1,4,8,cognitive test,Infantry,8500,6332,36
+97444,Depth,Leexo,5,3,7,knowledge test,Artillery,20800,6333,437
+97445,Gaza,Gigabox,5,1,4,interview,Navy,24500,6334,229
+97446,Lebanon,Skimia,1,3,2,technical test,C4I,16100,6335,499
+97447,Jordan,Mydeo,5,2,9,combat fitness,Medical,25000,6336,156
+97448,Depth,Reallinks,2,3,3,cognitive test,C4I,22100,6337,473
+97449,Gaza,Rhyloo,4,2,10,interview,Artillery,3000,6338,261
+97450,Lebanon,Plajo,2,3,10,knowledge test,Armored,26500,6339,267
+97451,Depth,Pixonyx,3,4,6,cognitive test,Logistics,10200,6340,439
+97452,Iran,Bubblemix,5,4,9,cognitive test,Technology and Maintenance,1300,6341,480
+97453,Syria,Layo,3,5,5,combat fitness,C4I,15500,6342,298
+97454,West Bank,Plambee,1,4,4,technical test,Military Police,5800,6343,161
+97455,West Bank,Wikizz,2,5,10,technical test,Medical,21700,6344,244
+97456,Lebanon,Zooveo,2,1,8,interview,Logistics,16000,6345,302
+97457,Egypt,Trudoo,5,2,4,combat fitness,Infantry,19700,6346,384
+97458,Lebanon,Jayo,1,3,7,cognitive test,C4I,13100,6347,58
+97459,Syria,Jaloo,1,2,5,technical test,C4I,18800,6348,228
+97460,Gaza,Livetube,5,4,7,interview,Navy,14600,6349,388
+97461,Syria,Skyvu,1,5,7,knowledge test,Military Police,12400,6350,204
+97462,Iran,Fiveclub,2,3,6,knowledge test,Technology and Maintenance,18200,6351,149
+97463,Syria,Shuffletag,3,3,7,interview,Logistics,9400,6352,95
+97464,Lebanon,Mydo,4,5,7,knowledge test,Intelligence,7800,6353,173
+97465,West Bank,Edgewire,5,3,9,technical test,Intelligence,8700,6354,27
+97466,West Bank,Skalith,1,1,3,interview,Medical,29700,6355,486
+97467,Iran,Oyoyo,4,3,4,interview,Infantry,28600,6356,443
+97468,Depth,Jayo,3,4,8,knowledge test,C4I,24200,6357,360
+97469,Gaza,Skimia,4,1,7,cognitive test,Logistics,20100,6358,224
+97470,Depth,Devify,4,2,10,interview,Logistics,9400,6359,2
+97471,Syria,Trilith,3,4,2,combat fitness,Medical,18100,6360,142
+97472,Iran,Centimia,3,1,2,interview,Infantry,27600,6361,383
+97473,Lebanon,Voomm,4,2,9,technical test,Military Police,14100,6362,80
+97474,Gaza,Rhycero,2,4,8,interview,Technology and Maintenance,29900,6363,91
+97475,Lebanon,Roomm,1,2,6,knowledge test,Education,6700,6364,418
+97476,Gaza,Kwimbee,4,1,6,cognitive test,Armored,19700,6365,332
+97477,Gaza,Tekfly,5,5,5,interview,Artillery,2000,6366,32
+97478,Syria,Tavu,3,3,7,combat fitness,Education,14700,6367,470
+97479,Egypt,Roomm,3,2,1,combat fitness,Education,3500,6368,58
+97480,Depth,Eare,3,3,5,interview,Intelligence,4700,6369,120
+97481,Jordan,Vimbo,1,3,6,knowledge test,Medical,3300,6370,114
+97482,Iran,Yakitri,3,3,5,interview,Medical,1300,6371,373
+97483,Lebanon,Midel,5,5,1,knowledge test,Technology and Maintenance,7600,6372,132
+97484,Lebanon,Yotz,3,3,10,interview,Medical,27700,6373,4
+97485,Gaza,Browsecat,1,4,10,interview,Technology and Maintenance,6100,6374,330
+97486,Jordan,Pixoboo,3,1,3,combat fitness,Technology and Maintenance,3500,6375,94
+97487,Egypt,Kimia,2,3,9,technical test,C4I,28600,6376,112
+97488,Depth,Jaloo,2,4,7,interview,Infantry,22000,6377,119
+97489,Gaza,Roomm,4,3,1,combat fitness,Navy,25300,6378,361
+97490,Jordan,Oyonder,3,2,3,technical test,Education,19400,6379,477
+97491,Lebanon,Skinte,5,2,4,cognitive test,C4I,24300,6380,314
+97492,Syria,Linkbridge,2,2,7,technical test,Armored,5800,6381,366
+97493,Jordan,Feedfish,2,4,6,knowledge test,C4I,20900,6382,182
+97494,Egypt,Edgeify,3,1,6,technical test,Intelligence,5100,6383,281
+97495,Iran,Browsezoom,4,4,1,combat fitness,Infantry,26000,6384,470
+97496,Egypt,Livepath,4,4,7,interview,Medical,29900,6385,398
+97497,Lebanon,Abatz,5,1,9,interview,Armored,3100,6386,100
+97498,Gaza,Browsedrive,3,2,7,technical test,Military Police,17700,6387,256
+97499,Egypt,Oyoyo,4,5,1,cognitive test,Technology and Maintenance,16700,6388,21
+97500,Jordan,Avaveo,4,1,2,knowledge test,Navy,9900,6389,23
+97501,Lebanon,Flipopia,1,1,4,technical test,Armored,14300,6390,350
+97502,Syria,Roomm,4,4,5,combat fitness,Education,28600,6391,25
+97503,Lebanon,Abatz,5,3,7,combat fitness,Artillery,11500,6392,161
+97504,Jordan,Quinu,4,1,7,combat fitness,Navy,21300,6393,151
+97505,Jordan,Leexo,4,2,5,interview,Air,7000,6394,66
+97506,Gaza,Gabcube,3,4,1,interview,Logistics,16600,6395,68
+97507,Lebanon,Mycat,2,1,2,technical test,Armored,8900,6396,61
+97508,West Bank,Fivebridge,5,5,8,interview,C4I,16300,6397,273
+97509,Depth,DabZ,1,1,10,technical test,Navy,11100,6398,116
+97510,Iran,Agimba,5,2,3,cognitive test,Technology and Maintenance,3500,6399,81
+97511,Syria,Kare,5,2,8,technical test,Artillery,23400,6400,318
+97512,Egypt,Dynabox,4,3,10,knowledge test,Military Police,7000,6401,71
+97513,Iran,Youspan,4,4,9,technical test,C4I,10900,6402,117
+97514,Depth,Centidel,1,1,6,interview,Armored,13000,6403,472
+97515,Jordan,Eimbee,5,3,8,technical test,Logistics,10900,6404,305
+97516,West Bank,Mita,4,4,5,technical test,Air,20400,6405,132
+97517,Iran,Tazz,5,4,7,combat fitness,Infantry,2300,6406,435
+97518,Iran,Oozz,2,1,5,technical test,Artillery,16400,6407,331
+97519,West Bank,Topicstorm,1,3,4,interview,Artillery,18600,6408,309
+97520,West Bank,Flashpoint,4,1,7,interview,Education,5900,6409,414
+97521,Jordan,Voonix,3,3,7,interview,Logistics,23500,6410,455
+97522,Iran,Meezzy,5,4,10,cognitive test,Navy,26800,6411,58
+97523,Iran,Photofeed,2,1,4,interview,Medical,19200,6412,5
+97524,Gaza,Mydeo,3,5,10,knowledge test,Artillery,11600,6413,25
+97525,Depth,Skalith,1,3,9,combat fitness,Armored,14100,6414,248
+97526,Lebanon,Zoomcast,4,2,9,interview,Intelligence,8700,6415,143
+97527,Iran,Jamia,5,4,1,cognitive test,Technology and Maintenance,21300,6416,29
+97528,Gaza,Cogilith,1,4,1,knowledge test,Air,11500,6417,283
+97529,Depth,Livefish,3,5,4,combat fitness,Military Police,26000,6418,35
+97530,Lebanon,Yambee,5,4,5,cognitive test,Logistics,21700,6419,278
+97531,Iran,Eazzy,4,4,3,interview,C4I,10700,6420,318
+97532,Gaza,Edgewire,1,1,6,interview,Air,26300,6421,295
+97533,Jordan,Tavu,3,1,7,technical test,Technology and Maintenance,4900,6422,161
+97534,Gaza,Kwinu,1,5,2,combat fitness,Logistics,26800,6423,322
+97535,Syria,Abata,1,5,3,cognitive test,Education,10300,6424,291
+97536,Gaza,Dynabox,4,3,8,combat fitness,Intelligence,2500,6425,93
+97537,Syria,Zoombeat,2,1,8,interview,C4I,12100,6426,345
+97538,Jordan,Yodo,1,3,2,combat fitness,Technology and Maintenance,23100,6427,38
+97539,West Bank,Cogibox,4,5,9,cognitive test,Infantry,20800,6428,37
+97540,Jordan,Photojam,3,1,5,interview,Air,28400,6429,281
+97541,Lebanon,Wikivu,2,2,9,knowledge test,Education,21100,6430,384
+97542,Gaza,Flashset,1,5,5,knowledge test,Air,23100,6431,405
+97543,West Bank,Linktype,5,2,2,technical test,Medical,21000,6432,96
+97544,Egypt,Miboo,1,4,9,knowledge test,Infantry,15800,6433,196
+97545,Egypt,Voomm,4,2,2,interview,Armored,29800,6434,425
+97546,Jordan,Kazio,3,3,2,knowledge test,Armored,2000,6435,41
+97547,Egypt,Rhyzio,3,4,2,combat fitness,Education,13900,6436,22
+97548,West Bank,Yodel,4,2,4,cognitive test,Artillery,8400,6437,156
+97549,Egypt,Babbleopia,3,5,7,knowledge test,Intelligence,4000,6438,134
+97550,Lebanon,Devpulse,3,4,10,technical test,Technology and Maintenance,13900,6439,456
+97551,West Bank,Skippad,2,5,7,combat fitness,Armored,25700,6440,97
+97552,Jordan,Skiptube,5,1,8,technical test,Air,28800,6441,422
+97553,Iran,Quinu,2,3,8,knowledge test,Intelligence,10700,6442,276
+97554,Egypt,Gigazoom,5,5,4,knowledge test,Navy,2300,6443,425
+97555,Jordan,Voomm,2,3,1,knowledge test,Navy,29400,6444,121
+97556,West Bank,Realmix,1,1,1,combat fitness,Technology and Maintenance,20900,6445,482
+97557,Gaza,Dabvine,1,4,6,knowledge test,Intelligence,26500,6446,197
+97558,Syria,Rhyzio,4,5,10,cognitive test,Technology and Maintenance,24000,6447,166
+97559,Lebanon,Digitube,2,5,5,interview,Technology and Maintenance,6400,6448,27
+97560,Gaza,Zoomlounge,4,2,9,technical test,Navy,2300,6449,221
+97561,Gaza,Voomm,4,2,3,technical test,Infantry,29700,6450,327
+97562,Depth,Skibox,4,2,7,interview,Navy,28000,6451,158
+97563,Syria,Oyoloo,4,3,1,technical test,Artillery,18700,6452,112
+97564,Jordan,Photobean,2,3,1,technical test,Armored,5300,6453,159
+97565,Egypt,Kazu,5,5,5,technical test,Navy,27700,6454,182
+97566,West Bank,Mymm,3,4,4,combat fitness,Logistics,17600,6455,454
+97567,West Bank,Zoozzy,1,4,10,cognitive test,Military Police,28200,6456,94
+97568,Iran,Flashset,3,4,5,cognitive test,Medical,6300,6457,274
+97569,Syria,Zooxo,2,3,4,interview,Air,28900,6458,131
+97570,Jordan,Roomm,2,1,6,combat fitness,Armored,10400,6459,407
+97571,Lebanon,Nlounge,1,3,4,cognitive test,Air,3800,6460,148
+97572,Gaza,Jabbersphere,5,3,7,combat fitness,Education,6900,6461,473
+97573,Lebanon,Yata,1,4,4,knowledge test,C4I,22700,6462,213
+97574,Egypt,Dabtype,5,5,4,knowledge test,Medical,25500,6463,442
+97575,Lebanon,Yambee,2,2,3,combat fitness,Navy,400,6464,385
+97576,West Bank,Wordtune,3,4,9,technical test,Navy,16600,6465,114
+97577,Depth,Riffpath,3,4,2,combat fitness,Armored,400,6466,177
+97578,Iran,Thoughtmix,2,4,2,technical test,Navy,26600,6467,54
+97579,Iran,Flashdog,1,5,7,technical test,Artillery,28900,6468,423
+97580,Gaza,Devshare,2,3,7,cognitive test,Artillery,500,6469,380
+97581,Depth,Zazio,4,1,5,knowledge test,Medical,19700,6470,500
+97582,Jordan,Mydeo,2,1,2,knowledge test,Medical,22400,6471,444
+97583,Lebanon,Browsetype,3,1,3,cognitive test,Military Police,4100,6472,185
+97584,Iran,Browsezoom,5,4,6,cognitive test,Military Police,10500,6473,335
+97585,Jordan,Innotype,1,1,2,interview,Navy,8700,6474,283
+97586,Gaza,Geba,3,5,6,interview,Infantry,25600,6475,477
+97587,Syria,Rhynoodle,3,1,5,knowledge test,Navy,13400,6476,106
+97588,Gaza,Thoughtstorm,5,1,1,combat fitness,Intelligence,700,6477,465
+97589,Egypt,Realfire,2,3,8,combat fitness,C4I,9100,6478,338
+97590,Lebanon,Vinder,2,2,8,cognitive test,Education,9800,6479,147
+97591,Depth,Zoonoodle,4,5,4,knowledge test,Logistics,18000,6480,157
+97592,Jordan,Trudoo,1,5,3,interview,Logistics,24500,6481,19
+97593,Syria,Centimia,1,4,5,interview,Logistics,9100,6482,12
+97594,Iran,Oozz,1,5,6,knowledge test,Armored,16000,6483,11
+97595,Depth,Mita,2,2,10,interview,Technology and Maintenance,3100,6484,64
+97596,Syria,Browsecat,1,3,10,interview,Education,10000,6485,270
+97597,Iran,Shuffledrive,5,5,10,interview,Artillery,27600,6486,75
+97598,Jordan,Centidel,1,2,10,interview,Air,23600,6487,479
+97599,Jordan,Teklist,2,3,9,cognitive test,C4I,25800,6488,213
+97600,Depth,Myworks,2,4,3,cognitive test,Artillery,13200,6489,108
+97601,Lebanon,Rhyzio,1,4,3,combat fitness,Intelligence,28700,6490,290
+97602,Egypt,Skimia,1,3,2,cognitive test,Education,25000,6491,451
+97603,Iran,Youspan,1,1,1,cognitive test,Intelligence,24900,6492,95
+97604,Gaza,Flashset,5,4,9,knowledge test,Technology and Maintenance,7300,6493,158
+97605,Egypt,Vinder,5,4,2,combat fitness,Military Police,21600,6494,358
+97606,Jordan,Meedoo,2,2,5,cognitive test,Medical,3000,6495,116
+97607,Jordan,Quatz,2,1,2,combat fitness,Intelligence,27700,6496,433
+97608,Egypt,Edgepulse,2,3,2,knowledge test,Intelligence,5000,6497,465
+97609,Egypt,Shuffledrive,5,3,3,interview,Technology and Maintenance,11100,6498,186
+97610,Gaza,Vitz,2,1,2,interview,Education,7200,6499,419
+97611,Depth,Roomm,2,1,3,combat fitness,C4I,13700,6500,95
+97612,Jordan,Skynoodle,2,4,8,knowledge test,C4I,26900,6501,53
+97613,West Bank,Dabvine,3,1,8,cognitive test,Artillery,24500,6502,286
+97614,Jordan,Minyx,2,5,7,knowledge test,Artillery,15800,6503,54
+97615,Depth,Yombu,1,4,6,cognitive test,Artillery,14300,6504,392
+97616,West Bank,Topicware,5,4,3,combat fitness,Navy,15700,6505,418
+97617,Egypt,Tagopia,4,4,5,interview,Infantry,24400,6506,29
+97618,Jordan,Muxo,1,3,9,technical test,Air,19500,6507,230
+97619,Egypt,Trupe,1,3,10,cognitive test,Intelligence,9000,6508,268
+97620,Gaza,Gabspot,1,1,3,technical test,Logistics,9600,6509,332
+97621,Lebanon,Gabtype,3,2,9,knowledge test,Medical,20600,6510,169
+97622,Syria,Youtags,2,1,4,cognitive test,Air,10000,6511,260
+97623,Jordan,Zava,1,5,3,technical test,Education,28200,6512,247
+97624,Egypt,Livefish,1,4,6,cognitive test,C4I,17100,6513,132
+97625,Lebanon,Linktype,4,3,1,combat fitness,Technology and Maintenance,6800,6514,79
+97626,Jordan,Skipstorm,3,2,10,cognitive test,Infantry,20100,6515,171
+97627,Lebanon,Zoozzy,2,4,3,interview,Armored,26900,6516,104
+97628,Lebanon,Jayo,2,4,1,cognitive test,Intelligence,22700,6517,200
+97629,Gaza,Flashspan,3,1,1,technical test,Armored,20500,6518,349
+97630,Egypt,Janyx,3,5,5,knowledge test,Navy,9200,6519,123
+97631,Depth,Topicware,2,1,2,cognitive test,Navy,200,6520,103
+97632,Lebanon,Oyonder,3,5,9,combat fitness,Air,700,6521,241
+97633,Iran,Rhycero,4,4,3,knowledge test,Armored,4300,6522,387
+97634,Gaza,Demivee,4,2,2,knowledge test,C4I,2100,6523,90
+97635,Egypt,Pixoboo,3,1,3,combat fitness,Armored,29900,6524,5
+97636,Syria,Zoombox,4,5,2,knowledge test,Armored,14400,6525,278
+97637,Depth,Youspan,1,4,4,interview,Medical,11200,6526,29
+97638,Iran,Layo,1,3,3,technical test,Armored,18000,6527,203
+97639,Iran,Youfeed,4,2,4,combat fitness,Logistics,13600,6528,52
+97640,Egypt,Myworks,5,2,7,cognitive test,C4I,10100,6529,476
+97641,Jordan,Jaxworks,4,2,9,interview,Air,8600,6530,303
+97642,Syria,Oyoyo,4,3,8,combat fitness,Education,19300,6531,346
+97643,Egypt,Twitterbridge,3,5,6,technical test,Medical,26600,6532,100
+97644,Gaza,Mudo,1,5,1,interview,Infantry,5200,6533,266
+97645,West Bank,Browsedrive,3,2,5,knowledge test,Education,10100,6534,208
+97646,Syria,JumpXS,1,2,5,technical test,Logistics,16700,6535,230
+97647,West Bank,Shuffletag,3,1,2,cognitive test,Medical,17500,6536,355
+97648,West Bank,Dablist,5,4,8,knowledge test,C4I,10100,6537,216
+97649,Iran,Fanoodle,3,1,1,combat fitness,Intelligence,28300,6538,392
+97650,Lebanon,Eire,1,1,9,interview,C4I,9300,6539,33
+97651,Egypt,Divanoodle,5,5,3,knowledge test,Infantry,15000,6540,413
+97652,Iran,Edgetag,5,2,10,technical test,Artillery,19500,6541,497
+97653,Syria,Bubblebox,1,1,2,interview,Medical,1200,6542,393
+97654,Gaza,Linklinks,3,4,6,technical test,Infantry,10900,6543,357
+97655,Syria,Photobug,4,1,7,cognitive test,Logistics,11000,6544,480
+97656,Gaza,Cogidoo,2,4,3,technical test,C4I,13000,6545,131
+97657,Depth,Trudeo,5,3,2,interview,Technology and Maintenance,700,6546,468
+97658,West Bank,Reallinks,4,1,6,knowledge test,Medical,7000,6547,220
+97659,West Bank,Zoomdog,3,2,9,technical test,Medical,28300,6548,414
+97660,Syria,Youtags,5,4,7,technical test,Logistics,11600,6549,100
+97661,Syria,Babblestorm,1,1,1,cognitive test,Artillery,2000,6550,100
+97662,Egypt,Youspan,4,5,9,knowledge test,Logistics,4300,6551,367
+97663,West Bank,Demivee,3,1,8,cognitive test,Armored,2100,6552,490
+97664,Jordan,Layo,3,5,5,knowledge test,C4I,6700,6553,460
+97665,Gaza,Trudoo,5,5,7,interview,Military Police,25700,6554,69
+97666,Syria,Jamia,2,5,3,knowledge test,Medical,17600,6555,252
+97667,Egypt,Aimbo,1,5,5,knowledge test,Logistics,20900,6556,121
+97668,Lebanon,Yakitri,3,2,3,technical test,Education,18800,6557,59
+97669,Gaza,Jayo,4,5,1,knowledge test,Intelligence,10600,6558,53
+97670,Depth,Zoomzone,4,2,10,interview,Technology and Maintenance,16400,6559,446
+97671,Gaza,Myworks,4,4,9,combat fitness,Navy,7800,6560,160
+97672,Iran,Twinte,2,5,7,cognitive test,Military Police,14000,6561,68
+97673,Jordan,Wikido,4,1,4,knowledge test,Medical,12100,6562,478
+97674,Depth,Voolia,1,2,1,technical test,Air,20200,6563,231
+97675,Jordan,Kazio,3,4,5,combat fitness,Education,14000,6564,117
+97676,Depth,Wikibox,1,4,4,knowledge test,C4I,18200,6565,116
+97677,Lebanon,DabZ,2,3,1,knowledge test,Logistics,10300,6566,257
+97678,Iran,Browsezoom,2,2,9,knowledge test,Infantry,23500,6567,163
+97679,Egypt,Yakitri,3,2,8,knowledge test,Medical,7600,6568,64
+97680,Syria,Buzzdog,4,4,10,interview,Medical,30000,6569,60
+97681,Iran,Linklinks,3,1,1,interview,Air,6100,6570,213
+97682,Gaza,Cogibox,4,2,4,technical test,Air,6100,6571,453
+97683,Jordan,Dabtype,3,5,9,knowledge test,Intelligence,10700,6572,482
+97684,West Bank,Skimia,5,3,7,interview,Infantry,25600,6573,447
+97685,Iran,Flashset,5,3,5,technical test,Technology and Maintenance,15400,6574,265
+97686,Egypt,Voolia,5,3,10,technical test,Intelligence,14000,6575,82
+97687,Lebanon,Zazio,5,1,8,knowledge test,Artillery,25800,6576,230
+97688,Depth,Bluezoom,4,2,2,knowledge test,Infantry,17700,6577,294
+97689,Depth,Trudeo,3,3,6,knowledge test,Infantry,1800,6578,313
+97690,Syria,Centidel,5,1,8,cognitive test,Air,13400,6579,310
+97691,Gaza,Riffwire,4,3,4,knowledge test,Education,16200,6580,48
+97692,Iran,Livepath,2,2,6,interview,Infantry,15400,6581,408
+97693,Lebanon,Wordify,3,5,9,interview,Technology and Maintenance,13100,6582,107
+97694,Depth,Zava,3,4,8,knowledge test,Artillery,18500,6583,137
+97695,Iran,Eayo,5,2,10,interview,Logistics,15300,6584,260
+97696,Iran,Kayveo,4,2,3,combat fitness,Education,17000,6585,187
+97697,Lebanon,Brainverse,4,5,10,knowledge test,Education,20200,6586,265
+97698,Syria,Photofeed,5,3,4,knowledge test,Intelligence,14500,6587,169
+97699,Egypt,Photojam,4,1,5,cognitive test,Armored,25100,6588,363
+97700,Depth,Photospace,1,4,4,combat fitness,Intelligence,25700,6589,102
+97701,Gaza,Eimbee,4,5,4,knowledge test,Technology and Maintenance,4600,6590,109
+97702,Depth,Gabtune,5,2,5,knowledge test,Armored,26900,6591,231
+97703,Lebanon,Jaxworks,4,2,9,knowledge test,Education,26300,6592,197
+97704,Iran,Talane,2,3,6,technical test,C4I,2000,6593,175
+97705,Lebanon,Myworks,1,4,9,knowledge test,Navy,16600,6594,150
+97706,Iran,LiveZ,3,4,6,cognitive test,Intelligence,11800,6595,89
+97707,Depth,Jaxnation,2,5,3,knowledge test,Artillery,17600,6596,288
+97708,Egypt,Photobug,4,2,8,cognitive test,Logistics,20200,6597,393
+97709,Lebanon,Flashpoint,1,4,10,technical test,Medical,17300,6598,231
+97710,West Bank,Ntag,1,4,2,knowledge test,Education,23300,6599,460
+97711,West Bank,Youopia,4,5,8,cognitive test,Medical,17700,6600,1
+97712,Jordan,Mybuzz,3,3,8,technical test,Infantry,8800,6601,409
+97713,Gaza,Bluejam,3,2,3,combat fitness,C4I,9200,6602,328
+97714,Jordan,Skilith,1,1,1,combat fitness,Artillery,17700,6603,288
+97715,Depth,Twitterwire,3,4,7,cognitive test,Air,4500,6604,150
+97716,Gaza,Quinu,2,5,5,combat fitness,Technology and Maintenance,11700,6605,213
+97717,Lebanon,Devbug,3,1,2,technical test,Air,28500,6606,465
+97718,Egypt,Camido,5,2,7,knowledge test,Technology and Maintenance,2700,6607,220
+97719,Lebanon,Livetube,4,3,3,interview,Infantry,5400,6608,393
+97720,Gaza,Dabvine,4,3,4,technical test,Artillery,29600,6609,211
+97721,Egypt,Gevee,4,1,1,combat fitness,Technology and Maintenance,29200,6610,248
+97722,Iran,Buzzdog,3,4,10,technical test,Infantry,12000,6611,201
+97723,West Bank,Ailane,2,4,10,interview,Technology and Maintenance,17200,6612,473
+97724,Gaza,Lazzy,3,5,4,knowledge test,Intelligence,16900,6613,55
+97725,Gaza,Centizu,5,1,9,combat fitness,Military Police,13600,6614,334
+97726,Lebanon,Livepath,4,1,6,knowledge test,C4I,25100,6615,316
+97727,Syria,Digitube,5,4,1,combat fitness,Artillery,12500,6616,296
+97728,Gaza,Cogilith,4,2,1,cognitive test,Navy,10400,6617,407
+97729,Lebanon,Feedbug,2,2,8,cognitive test,Military Police,26000,6618,168
+97730,Lebanon,Buzzster,4,1,10,technical test,Air,8000,6619,97
+97731,Syria,Thoughtbridge,3,3,1,combat fitness,Air,13500,6620,368
+97732,Iran,Yata,1,1,8,interview,Medical,1200,6621,201
+97733,Depth,Zazio,4,2,5,technical test,Medical,6000,6622,270
+97734,Syria,Camido,4,1,7,technical test,Logistics,29200,6623,400
+97735,Iran,Skynoodle,3,2,4,technical test,Military Police,8700,6624,116
+97736,West Bank,Meetz,1,3,7,combat fitness,Logistics,18800,6625,88
+97737,Depth,Plambee,4,2,5,technical test,Infantry,24200,6626,447
+97738,Egypt,Camimbo,5,5,5,combat fitness,Artillery,300,6627,184
+97739,Iran,Trupe,4,1,8,combat fitness,Artillery,20000,6628,230
+97740,Lebanon,Bubblemix,3,4,3,interview,Technology and Maintenance,26100,6629,108
+97741,Syria,Myworks,3,2,4,technical test,Armored,5700,6630,123
+97742,Lebanon,Fivechat,4,1,4,knowledge test,Education,16800,6631,66
+97743,Jordan,Meedoo,4,1,10,interview,Air,500,6632,321
+97744,Egypt,Dabvine,2,4,6,combat fitness,Air,22900,6633,88
+97745,Jordan,Zoomlounge,2,2,2,technical test,Armored,28800,6634,476
+97746,West Bank,Devshare,2,2,3,knowledge test,Technology and Maintenance,14800,6635,125
+97747,West Bank,Voonyx,3,3,6,technical test,Medical,2900,6636,391
+97748,Syria,Kimia,2,2,1,combat fitness,Military Police,7500,6637,91
+97749,Gaza,Babblestorm,5,5,6,combat fitness,C4I,800,6638,305
+97750,Gaza,Zoomlounge,5,2,1,technical test,C4I,20200,6639,332
+97751,Syria,Feedspan,3,3,9,knowledge test,Education,900,6640,89
+97752,Jordan,Cogibox,1,4,5,combat fitness,Medical,27600,6641,241
+97753,Depth,Fiveclub,1,3,8,cognitive test,Artillery,27300,6642,182
+97754,Egypt,Izio,1,5,5,combat fitness,Intelligence,5500,6643,292
+97755,Gaza,Yodel,4,4,5,combat fitness,C4I,23900,6644,84
+97756,Syria,Vinte,1,3,10,technical test,Navy,1900,6645,177
+97757,Egypt,Oozz,2,5,4,knowledge test,Education,12800,6646,34
+97758,Egypt,Plajo,3,3,2,combat fitness,Intelligence,14100,6647,187
+97759,Syria,Oyondu,1,2,5,interview,Intelligence,18800,6648,393
+97760,Gaza,Zazio,2,2,3,technical test,Technology and Maintenance,24900,6649,494
+97761,Gaza,Meevee,3,2,1,cognitive test,Navy,9300,6650,360
+97762,Gaza,Chatterbridge,4,1,10,interview,Medical,18700,6651,25
+97763,Jordan,Zoombeat,2,5,9,cognitive test,Armored,13000,6652,202
+97764,Depth,Jabbercube,2,3,4,knowledge test,Infantry,15800,6653,353
+97765,Gaza,Agivu,4,2,4,knowledge test,Military Police,2800,6654,144
+97766,West Bank,Eadel,4,3,9,combat fitness,C4I,10900,6655,281
+97767,Depth,Zoovu,5,3,9,interview,Intelligence,17100,6656,322
+97768,Gaza,Yacero,2,5,8,knowledge test,Logistics,3900,6657,144
+97769,Jordan,Chatterpoint,1,1,3,interview,Military Police,5000,6658,438
+97770,Iran,Dablist,1,3,9,technical test,Intelligence,2100,6659,368
+97771,Gaza,Livepath,2,2,2,combat fitness,Intelligence,23800,6660,253
+97772,Iran,Jatri,1,2,7,knowledge test,Intelligence,26200,6661,415
+97773,West Bank,Zoonoodle,3,4,7,interview,C4I,28000,6662,64
+97774,Gaza,Lajo,1,2,3,technical test,Military Police,24700,6663,235
+97775,West Bank,Pixoboo,3,5,3,combat fitness,C4I,26600,6664,368
+97776,Iran,Thoughtmix,2,3,8,combat fitness,Medical,23500,6665,471
+97777,Iran,Demivee,1,5,4,technical test,Navy,1400,6666,193
+97778,Iran,Twitterlist,4,2,6,technical test,Education,1900,6667,119
+97779,Egypt,Fadeo,4,1,5,interview,Navy,15000,6668,12
+97780,Iran,Jetpulse,4,4,2,cognitive test,Military Police,8000,6669,194
+97781,Iran,Viva,3,2,3,interview,C4I,27900,6670,149
+97782,Lebanon,Feedspan,4,2,7,interview,C4I,12900,6671,20
+97783,West Bank,Quamba,3,1,1,technical test,Medical,27700,6672,74
+97784,Iran,Demizz,4,2,1,combat fitness,Air,3100,6673,449
+97785,Gaza,Rooxo,2,5,6,knowledge test,Artillery,18200,6674,335
+97786,Gaza,Dynabox,5,4,2,combat fitness,Logistics,11200,6675,49
+97787,Iran,Tanoodle,1,4,10,knowledge test,Infantry,18600,6676,168
+97788,Depth,Topiczoom,4,1,1,cognitive test,Military Police,9100,6677,287
+97789,Egypt,Tazz,4,5,10,knowledge test,Intelligence,3500,6678,479
+97790,Depth,Jamia,2,1,4,cognitive test,Intelligence,25400,6679,448
+97791,Depth,Wikibox,5,4,4,cognitive test,Logistics,19700,6680,202
+97792,Gaza,Flashspan,2,1,10,interview,Air,2800,6681,120
+97793,Depth,Blognation,1,4,4,combat fitness,Armored,15300,6682,308
+97794,Iran,Brainlounge,5,1,5,interview,C4I,8300,6683,304
+97795,Depth,Realcube,4,2,4,technical test,Education,17900,6684,51
+97796,Depth,Pixope,4,2,8,interview,Education,23900,6685,279
+97797,Gaza,Dabshots,4,2,6,combat fitness,Education,13700,6686,90
+97798,Syria,Oyoba,3,5,8,interview,Infantry,29600,6687,416
+97799,Jordan,Youfeed,1,3,3,cognitive test,Air,2300,6688,89
+97800,Iran,Jatri,3,2,2,interview,Military Police,27000,6689,291
+97801,Gaza,Brightdog,5,4,6,knowledge test,Military Police,18000,6690,36
+97802,Egypt,Realbridge,3,2,1,combat fitness,Intelligence,15500,6691,419
+97803,Depth,Talane,5,3,5,technical test,Intelligence,14800,6692,180
+97804,Gaza,Roomm,1,3,6,cognitive test,Logistics,25900,6693,424
+97805,Syria,Linktype,1,5,6,interview,Artillery,11200,6694,283
+97806,Depth,Jaxworks,1,4,7,technical test,Navy,29000,6695,118
+97807,Iran,Kazu,2,2,3,combat fitness,Infantry,200,6696,316
+97808,Iran,Plambee,3,2,6,interview,Technology and Maintenance,24100,6697,432
+97809,Depth,Layo,5,2,10,combat fitness,Logistics,26300,6698,400
+97810,Egypt,Yabox,2,2,2,technical test,Technology and Maintenance,100,6699,481
+97811,Syria,Yodoo,5,1,10,combat fitness,Education,22600,6700,225
+97812,Egypt,Ozu,3,3,4,combat fitness,Infantry,16700,6701,446
+97813,Depth,Blogspan,2,4,1,interview,Technology and Maintenance,3000,6702,416
+97814,Gaza,Gevee,5,1,7,technical test,Medical,24800,6703,51
+97815,Lebanon,Realblab,4,4,1,cognitive test,Intelligence,11500,6704,118
+97816,Iran,Zooxo,3,5,7,interview,Logistics,6600,6705,13
+97817,Iran,Jaloo,3,3,3,combat fitness,Education,4200,6706,468
+97818,Iran,Meejo,3,5,2,interview,Intelligence,28300,6707,354
+97819,Lebanon,Tagcat,5,3,10,interview,Technology and Maintenance,13100,6708,261
+97820,Lebanon,Twitterwire,1,2,8,interview,Military Police,23300,6709,158
+97821,West Bank,Gabtype,1,2,8,combat fitness,Technology and Maintenance,22400,6710,68
+97822,Egypt,Rooxo,5,5,2,cognitive test,Navy,28700,6711,152
+97823,Iran,Twitterlist,1,5,2,interview,C4I,19700,6712,91
+97824,West Bank,Quire,2,5,4,interview,Technology and Maintenance,21700,6713,471
+97825,Jordan,Topicshots,2,4,3,interview,Infantry,8800,6714,22
+97826,West Bank,Ailane,1,2,3,cognitive test,C4I,15800,6715,298
+97827,Syria,Realbridge,3,5,2,combat fitness,Intelligence,13500,6716,318
+97828,West Bank,Bubblemix,3,4,5,cognitive test,Technology and Maintenance,12500,6717,462
+97829,Iran,Browsebug,4,4,9,combat fitness,C4I,8700,6718,447
+97830,Lebanon,Zoomlounge,3,3,7,technical test,Air,25200,6719,24
+97831,Lebanon,Realcube,4,3,3,interview,Air,5700,6720,430
+97832,Egypt,Shuffledrive,4,2,2,interview,Air,22700,6721,80
+97833,Egypt,Feedfish,1,2,1,interview,Military Police,27100,6722,373
+97834,Iran,Voolith,1,5,6,interview,Artillery,21200,6723,418
+97835,Iran,Realcube,1,3,3,cognitive test,Technology and Maintenance,15300,6724,460
+97836,Syria,Layo,5,4,8,interview,Air,18500,6725,389
+97837,Lebanon,Photobug,5,2,7,technical test,Education,2300,6726,283
+97838,Gaza,Brainsphere,3,2,10,technical test,Technology and Maintenance,23500,6727,269
+97839,Syria,Tagopia,3,2,6,knowledge test,Education,13900,6728,179
+97840,West Bank,Linkbridge,2,2,1,cognitive test,Technology and Maintenance,16500,6729,166
+97841,Gaza,Edgeblab,1,4,2,technical test,Technology and Maintenance,26300,6730,174
+97842,Lebanon,Avaveo,2,5,5,knowledge test,Technology and Maintenance,8400,6731,167
+97843,Egypt,Gabtune,4,2,7,technical test,Medical,25100,6732,87
+97844,Gaza,Twiyo,1,2,6,cognitive test,Navy,2300,6733,495
+97845,Lebanon,Jaloo,2,3,5,combat fitness,Medical,13200,6734,379
+97846,West Bank,Skinder,3,5,2,technical test,Artillery,17500,6735,246
+97847,West Bank,Jaloo,1,5,9,cognitive test,C4I,3400,6736,225
+97848,Lebanon,Zoonder,5,4,2,cognitive test,Education,4900,6737,400
+97849,Depth,Skiba,4,4,5,combat fitness,Military Police,16600,6738,112
+97850,Egypt,Ntag,3,4,10,cognitive test,Logistics,18700,6739,205
+97851,Egypt,DabZ,1,3,8,knowledge test,Medical,26200,6740,356
+97852,Egypt,Kwideo,5,4,3,knowledge test,Armored,27000,6741,278
+97853,Syria,Pixope,5,3,9,interview,Armored,19500,6742,450
+97854,Gaza,Twitterwire,5,5,3,interview,Education,6500,6743,332
+97855,Egypt,Plajo,4,3,7,technical test,Infantry,17900,6744,293
+97856,Jordan,Digitube,1,5,8,technical test,Education,18600,6745,375
+97857,Syria,Midel,5,4,7,combat fitness,Education,5100,6746,207
+97858,Iran,Rhycero,5,3,7,interview,Military Police,2600,6747,469
+97859,West Bank,Quinu,3,2,10,cognitive test,Air,4200,6748,102
+97860,Egypt,Fadeo,3,5,3,combat fitness,Air,3500,6749,169
+97861,Iran,Wordpedia,5,5,2,cognitive test,Armored,4700,6750,458
+97862,Iran,Skiba,5,2,7,knowledge test,Medical,28700,6751,198
+97863,Jordan,Blognation,1,2,3,knowledge test,Intelligence,25200,6752,187
+97864,Jordan,DabZ,2,5,7,cognitive test,Artillery,18000,6753,334
+97865,Depth,Zoomzone,4,5,4,interview,Logistics,14100,6754,103
+97866,Gaza,Oozz,4,3,6,knowledge test,Infantry,26400,6755,238
+97867,Lebanon,Edgeify,2,5,7,knowledge test,Intelligence,23600,6756,189
+97868,West Bank,Devify,1,4,10,interview,Logistics,2300,6757,393
+97869,Depth,Skippad,3,1,3,technical test,Education,23700,6758,75
+97870,Egypt,Katz,2,2,7,knowledge test,Infantry,1900,6759,199
+97871,Iran,Roodel,3,1,8,technical test,Logistics,23000,6760,88
+97872,Iran,Voomm,4,1,8,interview,Infantry,400,6761,424
+97873,Jordan,Twitterbridge,4,2,7,cognitive test,Navy,11000,6762,339
+97874,Depth,Kwideo,3,1,7,interview,Armored,19400,6763,298
+97875,Lebanon,Flipopia,5,1,7,technical test,Artillery,900,6764,313
+97876,Gaza,Twitternation,5,1,7,cognitive test,Armored,16100,6765,485
+97877,Gaza,Aivee,4,5,4,combat fitness,Infantry,21600,6766,278
+97878,Depth,Topiczoom,3,1,3,knowledge test,Technology and Maintenance,11300,6767,39
+97879,Depth,Yodo,3,2,9,knowledge test,Air,15600,6768,401
+97880,Gaza,Fanoodle,1,4,7,technical test,Military Police,2100,6769,299
+97881,Iran,Demizz,4,4,6,interview,Armored,28800,6770,137
+97882,West Bank,Roodel,3,4,7,combat fitness,Air,24100,6771,319
+97883,Depth,Mita,1,1,5,technical test,Infantry,29500,6772,69
+97884,Egypt,Browsetype,4,1,1,interview,Medical,9400,6773,263
+97885,Syria,Fanoodle,2,4,8,knowledge test,Air,27900,6774,271
+97886,Iran,Youopia,2,1,4,interview,Armored,29100,6775,355
+97887,Syria,Centizu,3,2,7,technical test,Armored,27300,6776,399
+97888,Syria,Mybuzz,2,2,9,interview,C4I,20700,6777,140
+97889,Lebanon,Kanoodle,5,1,4,cognitive test,Logistics,8300,6778,431
+97890,Syria,Centimia,1,1,7,cognitive test,Navy,27500,6779,366
+97891,Depth,Yoveo,2,3,5,cognitive test,Navy,21200,6780,379
+97892,Depth,Reallinks,3,4,8,technical test,Infantry,3000,6781,230
+97893,Syria,Twinte,2,5,1,technical test,Infantry,23500,6782,468
+97894,Depth,Skipstorm,1,4,6,cognitive test,Medical,28700,6783,393
+97895,Jordan,Jaxbean,5,5,1,combat fitness,Artillery,6100,6784,52
+97896,Jordan,Jabbersphere,5,2,8,knowledge test,Artillery,6500,6785,477
+97897,West Bank,Meemm,2,4,10,knowledge test,Military Police,1100,6786,284
+97898,Lebanon,Geba,5,2,1,combat fitness,Military Police,11800,6787,262
+97899,Syria,Mudo,4,4,5,technical test,Medical,24400,6788,443
+97900,Lebanon,Quinu,2,4,9,technical test,C4I,3200,6789,317
+97901,Syria,Realcube,2,3,5,interview,Technology and Maintenance,2800,6790,118
+97902,Jordan,Roomm,3,3,8,interview,Logistics,24900,6791,204
+97903,Gaza,Yacero,1,2,9,knowledge test,Infantry,3600,6792,153
+97904,Iran,Jabbercube,3,4,5,technical test,Air,13400,6793,482
+97905,West Bank,Yotz,4,1,1,cognitive test,C4I,26400,6794,318
+97906,Depth,Blogtag,5,5,7,interview,Artillery,4500,6795,296
+97907,Depth,Thoughtstorm,4,2,5,technical test,Technology and Maintenance,16300,6796,308
+97908,Egypt,Fivebridge,3,3,8,technical test,Technology and Maintenance,20600,6797,337
+97909,Syria,Chatterbridge,1,5,6,interview,Intelligence,13400,6798,77
+97910,Lebanon,Aivee,5,3,4,interview,Artillery,7300,6799,85
+97911,Gaza,Quaxo,2,3,8,interview,Medical,10200,6800,461
+97912,Syria,Layo,4,3,5,technical test,Education,15000,6801,287
+97913,Iran,Livetube,5,4,6,knowledge test,Intelligence,22500,6802,466
+97914,Gaza,Centidel,2,5,10,cognitive test,Navy,11200,6803,424
+97915,Egypt,Twimm,2,3,4,combat fitness,Air,18900,6804,461
+97916,Iran,Wikizz,2,2,6,combat fitness,C4I,2700,6805,144
+97917,Lebanon,Layo,4,1,9,technical test,Logistics,11400,6806,341
+97918,Gaza,Centimia,3,2,3,technical test,Navy,27300,6807,301
+97919,Iran,Twimbo,4,1,3,knowledge test,Intelligence,1600,6808,353
+97920,Depth,Jaxworks,3,1,9,interview,C4I,17600,6809,289
+97921,Lebanon,Jayo,4,5,9,interview,Military Police,6600,6810,246
+97922,Jordan,Tambee,5,5,5,combat fitness,Logistics,28100,6811,202
+97923,Gaza,Tazzy,1,2,6,technical test,Infantry,29300,6812,500
+97924,Lebanon,Wordpedia,3,5,8,combat fitness,Air,4900,6813,108
+97925,West Bank,Kanoodle,5,5,4,knowledge test,Artillery,22200,6814,64
+97926,Iran,Camido,4,3,4,knowledge test,Technology and Maintenance,15100,6815,2
+97927,Syria,Trilith,5,1,3,technical test,C4I,2400,6816,131
+97928,Lebanon,Fadeo,4,2,9,technical test,Education,29000,6817,81
+97929,Egypt,Brainsphere,3,3,10,knowledge test,Military Police,23800,6818,288
+97930,Egypt,Geba,3,2,6,combat fitness,Artillery,5100,6819,285
+97931,Iran,Divavu,4,3,1,knowledge test,C4I,1200,6820,273
+97932,Iran,Roodel,1,4,10,combat fitness,Air,19300,6821,112
+97933,Depth,Kayveo,1,3,10,cognitive test,Military Police,20500,6822,398
+97934,West Bank,Blogtag,3,2,9,combat fitness,Air,18100,6823,32
+97935,Iran,Mycat,5,4,8,interview,Artillery,18200,6824,6
+97936,West Bank,Yakidoo,2,5,8,knowledge test,Artillery,17900,6825,145
+97937,Gaza,Oyoba,1,5,9,technical test,Education,18600,6826,279
+97938,Gaza,Avamba,3,5,8,knowledge test,Education,6400,6827,107
+97939,West Bank,Rhycero,2,3,8,cognitive test,Military Police,27900,6828,218
+97940,Syria,Oyope,4,4,5,cognitive test,Artillery,14500,6829,231
+97941,Lebanon,Eadel,5,3,6,interview,Logistics,4600,6830,209
+97942,Egypt,Camimbo,4,5,6,interview,Infantry,5600,6831,373
+97943,Gaza,Fliptune,3,2,8,combat fitness,Technology and Maintenance,1600,6832,219
+97944,West Bank,Skidoo,4,5,2,technical test,Armored,14200,6833,23
+97945,Jordan,Skaboo,3,2,8,technical test,Logistics,13700,6834,447
+97946,West Bank,Babbleset,2,3,6,combat fitness,Armored,9500,6835,84
+97947,West Bank,Dabshots,3,3,1,interview,Education,14500,6836,422
+97948,Depth,Tagcat,5,3,7,knowledge test,Medical,26600,6837,292
+97949,Jordan,Skidoo,2,1,5,technical test,Technology and Maintenance,18900,6838,321
+97950,Egypt,Chatterpoint,4,3,10,technical test,Navy,1600,6839,213
+97951,West Bank,Gigabox,3,4,7,technical test,Intelligence,22300,6840,149
+97952,Lebanon,Blognation,3,1,8,interview,Artillery,7900,6841,208
+97953,Jordan,Realfire,1,4,5,combat fitness,Navy,17700,6842,286
+97954,Lebanon,Jabberstorm,2,3,3,technical test,Artillery,4100,6843,404
+97955,Iran,Yombu,5,3,9,knowledge test,C4I,6500,6844,123
+97956,Gaza,Vimbo,2,4,1,interview,Air,23700,6845,150
+97957,West Bank,Zoombox,5,2,10,cognitive test,Medical,3600,6846,200
+97958,Jordan,Latz,3,1,6,technical test,Education,18300,6847,172
+97959,Gaza,Fadeo,4,1,9,knowledge test,Infantry,5600,6848,367
+97960,Lebanon,Gabtype,3,3,9,technical test,C4I,29300,6849,128
+97961,Gaza,Zoomlounge,2,5,3,technical test,Education,11200,6850,220
+97962,Jordan,Jabbercube,4,2,4,technical test,Air,15400,6851,440
+97963,Egypt,Midel,4,2,3,knowledge test,Intelligence,7100,6852,384
+97964,Jordan,Realbridge,4,2,10,combat fitness,Education,4100,6853,4
+97965,Jordan,InnoZ,1,4,6,interview,Logistics,7400,6854,268
+97966,Gaza,Voomm,3,1,6,cognitive test,Air,25500,6855,107
+97967,Iran,Trilith,2,2,3,cognitive test,Medical,20300,6856,16
+97968,Iran,Voonte,5,4,5,cognitive test,Navy,9600,6857,172
+97969,Egypt,Riffwire,5,5,3,knowledge test,C4I,24100,6858,66
+97970,Gaza,Yotz,5,3,1,cognitive test,Armored,3700,6859,145
+97971,Jordan,Demivee,4,2,7,interview,Technology and Maintenance,22200,6860,272
+97972,Lebanon,Tagfeed,2,4,5,knowledge test,Navy,25500,6861,39
+97973,Jordan,Brainlounge,1,5,9,technical test,Medical,16200,6862,195
+97974,Syria,Avavee,4,3,5,technical test,Logistics,15100,6863,179
+97975,Lebanon,Mydo,4,3,6,knowledge test,C4I,10000,6864,10
+97976,Iran,Realblab,1,1,3,interview,C4I,4700,6865,477
+97977,Egypt,Topiczoom,4,2,8,cognitive test,Logistics,2600,6866,459
+97978,Iran,Eimbee,1,2,4,interview,Technology and Maintenance,22700,6867,64
+97979,Jordan,Talane,1,4,2,knowledge test,Logistics,28800,6868,444
+97980,Lebanon,LiveZ,1,1,8,combat fitness,C4I,24600,6869,104
+97981,Jordan,Buzzdog,3,2,5,knowledge test,Navy,15900,6870,472
+97982,Egypt,Voonix,5,1,5,cognitive test,Air,15600,6871,62
+97983,Depth,Gabspot,2,2,6,interview,Artillery,25800,6872,169
+97984,Egypt,Tazz,1,3,1,interview,Infantry,8200,6873,103
+97985,Depth,Jabbersphere,1,4,4,interview,Infantry,15000,6874,184
+97986,Lebanon,Tagtune,5,3,8,interview,Military Police,22100,6875,270
+97987,Lebanon,Zazio,1,5,6,interview,Armored,27400,6876,308
+97988,Iran,Bubblemix,5,5,6,knowledge test,Logistics,26700,6877,152
+97989,Jordan,Trudoo,2,4,4,combat fitness,Medical,13500,6878,448
+97990,Egypt,Jaxworks,3,4,6,technical test,Logistics,300,6879,222
+97991,Syria,Oyope,4,4,3,technical test,C4I,27700,6880,269
+97992,Lebanon,Thoughtbridge,2,2,10,technical test,Medical,18000,6881,498
+97993,Depth,Innotype,2,2,3,technical test,Medical,28600,6882,305
+97994,West Bank,Thoughtstorm,3,1,10,combat fitness,Intelligence,5600,6883,24
+97995,Gaza,Photojam,1,3,4,knowledge test,Infantry,21400,6884,276
+97996,Iran,Jaxspan,3,5,7,interview,Air,10100,6885,372
+97997,Syria,Browsedrive,2,4,2,knowledge test,Armored,2200,6886,416
+97998,Egypt,Oba,4,3,2,interview,Intelligence,17700,6887,479
+97999,Iran,InnoZ,3,1,7,combat fitness,Air,25700,6888,317
+98000,Gaza,Brightdog,5,2,5,knowledge test,C4I,21600,6889,480
+98001,Iran,Gigaclub,3,4,1,knowledge test,Armored,30000,6890,102
+98002,Jordan,Linktype,4,3,1,knowledge test,Military Police,9000,6891,431
+98003,Depth,Ozu,3,3,7,cognitive test,Logistics,13800,6892,24
+98004,Syria,Zooveo,2,1,8,cognitive test,Medical,10300,6893,138
+98005,Depth,Skyble,3,1,2,interview,Intelligence,29700,6894,174
+98006,Egypt,Youbridge,5,1,10,interview,Armored,10100,6895,329
+98007,Gaza,Topiclounge,1,3,9,technical test,Infantry,10100,6896,129
+98008,Egypt,Kazu,3,5,6,technical test,Education,15300,6897,478
+98009,Egypt,Kaymbo,2,2,1,combat fitness,Logistics,2000,6898,347
+98010,Jordan,Flashpoint,2,5,3,technical test,Infantry,24000,6899,104
+98011,West Bank,Digitube,3,3,9,knowledge test,Air,26800,6900,76
+98012,Iran,Cogibox,2,2,2,combat fitness,Intelligence,17400,6901,402
+98013,Lebanon,Gabtype,1,4,8,interview,Logistics,26800,6902,418
+98014,Egypt,Lajo,5,5,3,cognitive test,Armored,22700,6903,372
+98015,Syria,Centidel,3,4,10,technical test,Armored,18100,6904,127
+98016,West Bank,Demizz,3,4,8,cognitive test,Intelligence,14500,6905,273
+98017,Iran,Mita,3,1,2,knowledge test,Intelligence,27000,6906,343
+98018,Depth,Cogilith,5,4,5,interview,Medical,18700,6907,328
+98019,Egypt,Quimba,4,2,6,knowledge test,Navy,20100,6908,85
+98020,Lebanon,Yakitri,2,4,6,cognitive test,Artillery,13800,6909,441
+98021,Syria,Skinder,1,3,10,knowledge test,Armored,13900,6910,479
+98022,Jordan,Jabbertype,3,1,8,combat fitness,Infantry,18900,6911,260
+98023,West Bank,Linkbridge,1,5,7,technical test,Air,9400,6912,176
+98024,Jordan,Brainbox,4,5,6,knowledge test,Education,5700,6913,360
+98025,Iran,Roodel,3,1,7,technical test,Logistics,19700,6914,305
+98026,Depth,Kayveo,2,2,3,knowledge test,Infantry,26300,6915,381
+98027,West Bank,Edgetag,3,3,1,knowledge test,Navy,23600,6916,478
+98028,West Bank,Oloo,2,5,2,knowledge test,Armored,23400,6917,158
+98029,Egypt,Yakidoo,2,1,9,interview,Air,7000,6918,44
+98030,Syria,Eazzy,2,2,5,interview,Medical,26300,6919,260
+98031,Jordan,Kazio,2,2,7,technical test,Navy,20100,6920,229
+98032,West Bank,Edgewire,4,5,8,cognitive test,Armored,10000,6921,253
+98033,Jordan,Babbleblab,1,5,1,technical test,Artillery,9000,6922,434
+98034,Egypt,Janyx,4,1,8,interview,Intelligence,16900,6923,199
+98035,West Bank,Jamia,2,3,3,combat fitness,Intelligence,16000,6924,282
+98036,Syria,Skilith,1,5,7,combat fitness,Logistics,24600,6925,126
+98037,Jordan,Buzzdog,1,4,5,interview,Education,1800,6926,356
+98038,Gaza,Gigaclub,2,4,3,knowledge test,C4I,22400,6927,122
+98039,Iran,Mybuzz,1,2,7,cognitive test,Air,14700,6928,40
+98040,Gaza,Dazzlesphere,5,2,2,technical test,Technology and Maintenance,28900,6929,365
+98041,Iran,Bubblemix,5,5,6,technical test,Medical,21100,6930,92
+98042,West Bank,Gigazoom,1,2,9,cognitive test,C4I,14600,6931,448
+98043,Egypt,Innojam,2,3,5,cognitive test,Navy,12800,6932,54
+98044,Iran,Skipstorm,2,4,2,interview,Air,26200,6933,374
+98045,Egypt,Trunyx,2,5,7,combat fitness,Logistics,21400,6934,195
+98046,Gaza,Photolist,4,1,5,interview,Infantry,8400,6935,40
+98047,Jordan,Meejo,1,2,5,interview,Artillery,2100,6936,377
+98048,Jordan,Devcast,2,3,1,technical test,Infantry,23000,6937,184
+98049,Jordan,Devcast,4,4,9,technical test,C4I,400,6938,99
+98050,Depth,Divanoodle,5,2,4,knowledge test,C4I,17900,6939,35
+98051,Syria,Blogpad,3,5,7,interview,Navy,1100,6940,398
+98052,Iran,Zoomlounge,4,3,6,knowledge test,Navy,6500,6941,362
+98053,Egypt,Blognation,3,1,7,knowledge test,Air,10900,6942,356
+98054,Egypt,Photobug,4,5,1,cognitive test,Air,700,6943,42
+98055,Depth,Tagpad,2,5,5,technical test,Intelligence,28700,6944,80
+98056,Lebanon,Thoughtmix,3,5,9,combat fitness,Education,27400,6945,414
+98057,Egypt,JumpXS,5,3,2,interview,Armored,29400,6946,320
+98058,Syria,Skajo,3,2,3,technical test,Medical,22100,6947,70
+98059,Depth,Topicshots,1,2,10,interview,Technology and Maintenance,20600,6948,75
+98060,Depth,Tagpad,5,1,4,knowledge test,Armored,13200,6949,252
+98061,Syria,Agimba,1,1,6,combat fitness,Education,14800,6950,302
+98062,Iran,Demimbu,5,5,10,knowledge test,Logistics,14900,6951,320
+98063,Egypt,Eimbee,1,4,9,interview,Navy,7200,6952,400
+98064,Iran,Meeveo,5,5,4,knowledge test,Logistics,1100,6953,190
+98065,West Bank,Devpoint,3,5,8,interview,Intelligence,800,6954,229
+98066,Lebanon,Twinte,2,2,9,knowledge test,Military Police,10900,6955,22
+98067,Lebanon,Voonyx,3,2,8,cognitive test,Medical,18500,6956,103
+98068,Gaza,Vitz,2,2,3,technical test,Intelligence,25800,6957,236
+98069,Syria,Yodo,3,2,1,combat fitness,Artillery,28400,6958,461
+98070,West Bank,Zooveo,5,2,9,interview,Artillery,7800,6959,434
+98071,Egypt,Bubblebox,5,4,3,combat fitness,Navy,7300,6960,307
+98072,Egypt,Ailane,1,3,1,interview,Military Police,17900,6961,498
+98073,Syria,Blogtag,5,5,3,interview,Logistics,7300,6962,27
+98074,Lebanon,Twitterlist,1,4,6,knowledge test,C4I,11800,6963,414
+98075,Egypt,Zoozzy,3,1,5,combat fitness,Navy,16900,6964,54
+98076,Gaza,Bubbletube,2,3,8,knowledge test,Air,19800,6965,315
+98077,Syria,Ainyx,4,5,4,interview,Medical,21000,6966,30
+98078,Depth,Realcube,4,3,9,interview,C4I,25900,6967,134
+98079,Depth,Fivespan,5,3,9,cognitive test,Technology and Maintenance,8500,6968,264
+98080,West Bank,Skyndu,1,4,8,knowledge test,Intelligence,15100,6969,211
+98081,Jordan,Dynabox,4,5,9,cognitive test,Technology and Maintenance,13600,6970,32
+98082,Jordan,Oyope,5,3,1,interview,Air,23900,6971,423
+98083,Jordan,Mita,3,5,8,interview,Armored,20100,6972,81
+98084,Egypt,Skinix,4,5,3,combat fitness,Infantry,18200,6973,318
+98085,Lebanon,Yadel,2,5,3,technical test,Infantry,19100,6974,406
+98086,Syria,Photolist,3,4,3,cognitive test,Navy,14500,6975,114
+98087,Jordan,Trudoo,1,1,3,knowledge test,Armored,9300,6976,36
+98088,Jordan,Tagfeed,4,3,4,knowledge test,Artillery,12400,6977,485
+98089,West Bank,Ooba,4,1,8,interview,Military Police,13600,6978,10
+98090,Lebanon,Brightbean,1,2,3,combat fitness,Armored,25600,6979,227
+98091,Jordan,Jaxbean,5,5,10,technical test,Medical,8600,6980,479
+98092,Egypt,Mybuzz,1,3,3,cognitive test,Navy,27000,6981,164
+98093,Syria,Quinu,4,2,8,technical test,Air,14200,6982,91
+98094,West Bank,Meedoo,3,2,2,cognitive test,Military Police,25700,6983,57
+98095,Egypt,Rhyloo,2,1,2,cognitive test,Armored,23700,6984,483
+98096,Syria,Rhynoodle,2,3,4,combat fitness,Air,29800,6985,17
+98097,Syria,Mydo,2,2,8,technical test,Armored,19500,6986,1
+98098,Egypt,Vipe,3,2,9,knowledge test,Intelligence,8200,6987,393
+98099,Jordan,Divanoodle,2,1,2,cognitive test,Intelligence,2200,6988,62
+98100,Egypt,Quimm,4,1,4,knowledge test,Armored,18800,6989,139
+98101,West Bank,Blognation,1,2,7,interview,Military Police,4000,6990,348
+98102,Depth,Edgepulse,4,4,5,technical test,Air,4500,6991,450
+98103,Jordan,Avavee,3,1,9,cognitive test,Artillery,13100,6992,15
+98104,Depth,Skivee,2,4,4,interview,Logistics,28700,6993,117
+98105,Egypt,Skipstorm,1,4,7,knowledge test,Air,18600,6994,293
+98106,West Bank,Avavee,3,5,6,knowledge test,Education,5400,6995,303
+98107,Syria,Meedoo,4,3,4,interview,Navy,19800,6996,346
+98108,Jordan,Viva,3,3,2,interview,Armored,8300,6997,247
+98109,West Bank,Abatz,5,2,7,combat fitness,Education,26500,6998,57
+98110,Depth,Fadeo,3,4,9,knowledge test,Medical,20100,6999,135
+98111,Depth,Minyx,2,3,10,cognitive test,Medical,26900,7000,441

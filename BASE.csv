@@ -1,0 +1,1001 @@
+base_id,base_name,location,budget,classification,domain,commander_id
+1,ldeener0,Kamárai,2328165,2,middle,20001
+2,akaesmakers1,Noailles,5900368,2,big,20002
+3,lcomazzo2,Mudon,7159671,1,big,20003
+4,ajanas3,Pindorama,7687924,5,middle,20004
+5,sfrere4,Handegate,1486842,3,big,20005
+6,sfeldmesser5,Shuinanxu,7274729,3,middle,20006
+7,jantoney6,Calanogas,4581796,1,big,20007
+8,icristofano7,Taunggyi,7395015,5,small,20008
+9,ygreenstock8,Gaoshan,3363768,4,big,20009
+10,hhalms9,Karangpeton,9700697,2,big,20010
+11,dteesdalea,Strzelce,3956262,5,big,20011
+12,sbarkeb,Sandefjord,7705729,3,middle,20012
+13,tscrinagec,Głubczyce,6405992,3,middle,20013
+14,cpughsleyd,Mosar,6001445,3,small,20014
+15,rcallame,Ulashan,8294076,2,middle,20015
+16,gduignanf,Sanjiang,7374002,3,big,20016
+17,phadkinsg,Verkhoshizhem’ye,9349377,4,big,20017
+18,jwhifenh,"Villa Presidente Frei, Ñuñoa, Santiago, Chile",6797214,5,small,20018
+19,bvockinsi,Sanpai,1569328,4,big,20019
+20,cscoynej,Kertamukti,4589096,3,big,20020
+21,rbouchk,Jargalant,3878228,3,middle,20021
+22,pclayfieldl,Sacramento,1200387,4,small,20022
+23,imcgourtym,Nizhniye Vyazovyye,4704363,3,small,20023
+24,caldrinn,Barras,7961233,1,big,20024
+25,asimeolio,Tambo,626514,3,big,20025
+26,dbenedickp,Brak,8602007,4,big,20026
+27,abayneq,Golomunta,3596113,5,middle,20027
+28,efynnr,'Ali Sabieh,952543,2,middle,20028
+29,tscorrers,Huanggangshan,8284321,3,middle,20029
+30,fgrimmettt,San Jose,4236484,2,big,20030
+31,eberkleyu,Komyshnya,6490915,1,big,20031
+32,lcowernv,Karolino-Buhaz,5416682,5,small,20032
+33,sboulgerw,Canaman,8933658,5,small,20033
+34,kpotex,Monte Agudo,5557428,1,big,20034
+35,ghoggettsy,Ullulluco,1073185,5,small,20035
+36,ejaegarz,Oebobo,4071915,3,big,20036
+37,jgiggs10,Boucinha,5782418,3,middle,20037
+38,fbartel11,Yangwei,1881993,3,middle,20038
+39,elayzell12,Miaotou,8177055,2,big,20039
+40,astandbrook13,Nadezhda,3778906,5,small,20040
+41,hleckie14,Vyshhorod,5474651,1,big,20041
+42,rlenoir15,Kolambugan,4908151,4,small,20042
+43,nhearnshaw16,Ash Shuyūkh,6040258,4,middle,20043
+44,wmcilraith17,Santa Ana,6019060,1,big,20044
+45,jvedenyapin18,Dubrava,5114721,2,middle,20045
+46,cmatieu19,Tsingoni,4765216,2,small,20046
+47,kmacgruer1a,城郊,6146829,3,middle,20047
+48,apidduck1b,Sanhu,4470223,3,big,20048
+49,cjee1c,Mutoko,2638905,5,small,20049
+50,adonlon1d,Toshloq,8682272,3,big,20050
+51,vpepye1e,Johanneshov,2279366,3,big,20051
+52,bwoollends1f,Lisboa,8336157,5,small,20052
+53,jsidworth1g,Liuche,1916792,3,middle,20053
+54,hescalera1h,Bingawan,6536167,1,middle,20054
+55,bstable1i,Mogoditshane,5434170,4,middle,20055
+56,lhuyhton1j,Liangnong,8982977,3,small,20056
+57,emachostie1k,Taganrog,9539709,2,small,20057
+58,sdeery1l,Göteborg,505886,5,big,20058
+59,lpepperd1m,Cafarnaum,5660862,2,middle,20059
+60,pcraighead1n,Kribi,4954245,4,middle,20060
+61,edumphry1o,Kinsealy-Drinan,5805717,5,big,20061
+62,blacrouts1p,Działdowo,3445787,4,big,20062
+63,gverity1q,Sangari,8000933,1,small,20063
+64,graspison1r,Hartford,6379012,1,small,20064
+65,sheeran1s,Drumcondra,9944001,2,big,20065
+66,wdowman1t,Pampa Hermosa,3135616,3,small,20066
+67,tringe1u,Tišina,1445726,3,big,20067
+68,kdilliway1v,Cipari,7601284,2,middle,20068
+69,dfoddy1w,Puncakmanis,9292046,5,small,20069
+70,mmartini1x,Jaraguá do Sul,7654309,2,big,20070
+71,ralldis1y,Jabinyānah,7421447,3,big,20071
+72,cboerder1z,Burirao,1366955,1,big,20072
+73,ealbasini20,Songnan,1398081,1,small,20073
+74,ekinghorne21,Xinan,9235886,1,small,20074
+75,btramel22,Tangxing,9022473,2,small,20075
+76,mbarreau23,Sredniy,8673977,4,middle,20076
+77,ederwin24,Saint-Brieuc,5115464,2,small,20077
+78,wkabsch25,Kolkhozobod,2720910,1,middle,20078
+79,gwhiteoak26,Puno,2339207,2,middle,20079
+80,cbront27,Budapest,441900,4,middle,20080
+81,lcharette28,San Agustin,6101241,4,big,20081
+82,ygergher29,Gijon,7885668,3,small,20082
+83,fmcconnulty2a,Volochys’k,697280,5,middle,20083
+84,ofleckno2b,Hà Tĩnh,7464627,3,big,20084
+85,rdomm2c,Khovd,4571667,4,small,20085
+86,ghancorn2d,Siekierczyn,4397137,5,big,20086
+87,mbertot2e,La Loma,5246179,3,middle,20087
+88,dokynsillaghe2f,Joaquín Suárez,5027678,1,small,20088
+89,pinge2g,Czarna Białostocka,9449544,5,middle,20089
+90,cvern2h,Balung Barat,8264627,2,small,20090
+91,tfoxwell2i,Simo,8618814,4,small,20091
+92,aordemann2j,Aix-en-Provence,1985492,5,big,20092
+93,cabbotts2k,Sula,701616,4,big,20093
+94,jdelafeld2l,Toyonaka,4292349,2,middle,20094
+95,bgoodman2m,Kansas City,2056448,2,big,20095
+96,mwherrett2n,Fontvieille,2273753,5,big,20096
+97,rbranigan2o,Haruai,9910062,5,big,20097
+98,crogan2p,Kiupo,6496982,2,small,20098
+99,jmcginley2q,Ansongo,5849310,4,small,20099
+100,yvaillant2r,Phra Phutthabat,2719641,2,middle,20100
+101,bshapiro2s,Shashūbay,8796779,1,small,20101
+102,bwyre2t,Charyshskoye,2102945,3,middle,20102
+103,dpatise2u,Severnyy,8435920,3,middle,20103
+104,elongega2v,Tajike’abati,9228328,5,middle,20104
+105,dmcqueen2w,Aoshi,6460326,1,middle,20105
+106,twildbore2x,Huzhuang,6386143,5,middle,20106
+107,mpaoloni2y,Fengqiao,8156036,5,middle,20107
+108,vdamsell2z,Bajina Bašta,5490303,5,small,20108
+109,tvoas30,Sangba,362884,4,middle,20109
+110,bnorwell31,Kongsvinger,6689185,4,small,20110
+111,ddayton32,Fartura,6778181,4,middle,20111
+112,lchichgar33,Tipitapa,4520281,2,small,20112
+113,kdominguez34,San Isidro,6127592,1,middle,20113
+114,cwoollons35,Noramarg,9381363,4,big,20114
+115,sgonin36,Kushchëvskaya,163998,3,small,20115
+116,htimcke37,Panggung,6915929,4,big,20116
+117,jivanyukov38,Sucha,8431149,2,middle,20117
+118,tkinver39,Keffi,9143381,3,big,20118
+119,vgligori3a,Lamam,5630208,3,big,20119
+120,wholde3b,San Agustin,2350424,4,small,20120
+121,rpavlasek3c,Corga,3335999,5,middle,20121
+122,gglaysher3d,Karangsari,5629858,5,middle,20122
+123,kdougherty3e,Poręba Spytkowska,3760308,1,middle,20123
+124,rlebbern3f,San Jose,4254522,3,middle,20124
+125,pferronier3g,Pawitan,8440092,3,middle,20125
+126,jbiasi3h,Mamoudzou,2607845,2,middle,20126
+127,dbrantl3i,Saskatoon,6616656,2,big,20127
+128,ascholtis3j,Jamaica,6821980,3,middle,20128
+129,mmeffin3k,Kinna,4734146,5,middle,20129
+130,jrayment3l,Ipiales,4411208,1,middle,20130
+131,wstory3m,Los Angeles,3137276,4,small,20131
+132,noven3n,Dalheim,4625113,2,small,20132
+133,mbarwell3o,Purral,8460720,1,middle,20133
+134,cchancelier3p,Vostochnoe Degunino,9817156,5,middle,20134
+135,gcolleford3q,Postmasburg,4666216,3,big,20135
+136,khardwidge3r,Kizema,7549227,1,small,20136
+137,fsmythe3s,Hanban,6737684,2,small,20137
+138,fdeville3t,Dawei,9720392,1,big,20138
+139,bcassie3u,Shaozhai,1796838,4,middle,20139
+140,scansdall3v,Yangzhou,8668543,4,middle,20140
+141,tjunifer3w,Batan,9774266,1,small,20141
+142,spulman3x,Xiaopingba,3340708,3,big,20142
+143,lpesak3y,Ravne,2658805,1,middle,20143
+144,oprice3z,Magisterial,3549366,4,big,20144
+145,rmcbratney40,Kambove,106237,4,big,20145
+146,jburnage41,Moreira de Geraz do Lima,2174731,2,big,20146
+147,mhunnywell42,Brusyanka,7651557,5,small,20147
+148,gphayre43,Sanchang,3042053,3,middle,20148
+149,jaccomb44,Voloka,667971,3,big,20149
+150,lharsant45,Doāba,7514341,2,small,20150
+151,epoge46,L-Iklin,4391021,3,middle,20151
+152,twestgate47,Jungkat Selatan,410993,4,big,20152
+153,jyarnold48,Wonorejo,6168768,4,big,20153
+154,ywaudby49,Bafang,9898184,4,small,20154
+155,qmedcalfe4a,Huaikan,5570769,1,big,20155
+156,mlamberto4b,Wa,2052522,4,middle,20156
+157,lcrusham4c,Miguel Hidalgo,1696211,4,big,20157
+158,sclabburn4d,Jihlava,3588749,4,big,20158
+159,pgaler4e,Seremban,4094896,3,middle,20159
+160,broper4f,Ibagué,9001907,2,middle,20160
+161,ccousins4g,Skalánion,2042887,4,small,20161
+162,hdepport4h,Cayur,3763251,2,middle,20162
+163,ipardew4i,Jiannan,5231076,4,small,20163
+164,ajoppich4j,Villach,7891241,3,small,20164
+165,tosbaldeston4k,Watubura,9412438,1,big,20165
+166,hmacnalley4l,Mingzhong,2388779,2,middle,20166
+167,dleggon4m,Leshan,3682979,1,big,20167
+168,mvevers4n,Totora,1866818,4,middle,20168
+169,shillam4o,Paris 13,4441887,3,big,20169
+170,jwilmott4p,Jungutbatu Kaja Dua,9926231,2,big,20170
+171,ageorgeson4q,Pierzchnica,260504,4,small,20171
+172,fdoumerc4r,Nanlu,4081038,3,middle,20172
+173,istenhouse4s,Tegalgede Kulon,9991998,3,big,20173
+174,pludlam4t,Requena,4726335,3,big,20174
+175,thovell4u,Bojongsari,7275438,4,middle,20175
+176,gcapes4v,Magdalena,379729,3,middle,20176
+177,tsattin4w,Huixian Chengguanzhen,720823,1,middle,20177
+178,fstodart4x,Granada,2839392,3,big,20178
+179,mlamcken4y,Zalţan,9646588,2,middle,20179
+180,jbogace4z,Los Patios,965681,2,big,20180
+181,dstanley50,Dafundo,5379112,3,small,20181
+182,olouche51,Samanco,2342912,4,small,20182
+183,mclail52,Campraksanta,1190498,3,middle,20183
+184,kgamet53,Fengchuan,3084683,3,small,20184
+185,isiemandl54,Korenovsk,3770363,3,big,20185
+186,amoulton55,Dhamār,5773193,2,small,20186
+187,liacovo56,Zwolle,2911902,5,middle,20187
+188,ered57,Negreiros,2218613,1,small,20188
+189,tvowdon58,Wasior,5264118,5,middle,20189
+190,mtrehearne59,Al Qaţn,1555384,3,small,20190
+191,gluna5a,Tama,6607807,1,big,20191
+192,cmaccarroll5b,Huixing,3267102,1,big,20192
+193,hcarse5c,Sidrolândia,6223435,3,middle,20193
+194,randries5d,Iogach,214923,5,small,20194
+195,hsautter5e,Primošten,2320535,5,big,20195
+196,jcarrabott5f,Tonglin,8311612,3,small,20196
+197,ccarnachen5g,Jinhe,6665761,1,middle,20197
+198,ecourage5h,Shijiazhai,9803501,4,middle,20198
+199,vreeman5i,Surup,4430931,1,small,20199
+200,ckimble5j,Djambala,6422565,4,big,20200
+201,hcorselles5k,Cawayan,7301084,3,small,20201
+202,aswadden5l,Union,2755118,3,big,20202
+203,kdeverson5m,Majdal Banī Fāḑil,8189063,4,small,20203
+204,stort5n,Shitan,8441832,5,big,20204
+205,bbahike5o,Tierra y Libertad,8720263,5,big,20205
+206,pattwell5p,Shangyi,7955005,2,big,20206
+207,akilrow5q,Rongai,7189807,2,big,20207
+208,brotge5r,Posse,7678293,4,small,20208
+209,jgourley5s,Kainan,3345302,3,big,20209
+210,kdullaghan5t,Pryvol’ny,969487,5,small,20210
+211,dmosedale5u,Zhouling,8828918,2,big,20211
+212,deustanch5v,Manūjān,6959691,3,small,20212
+213,ksallows5w,Bratislava,8938387,4,big,20213
+214,zmines5x,Kista,5997839,4,small,20214
+215,cdevries5y,Fifi,4694417,1,middle,20215
+216,narnaud5z,Marcara,7527310,4,middle,20216
+217,tkernock60,Al Khafjī,484157,4,middle,20217
+218,ssimons61,Achada,9488331,2,small,20218
+219,umayer62,Chigorodó,4219013,2,middle,20219
+220,jtedder63,Racławice,3804919,1,big,20220
+221,bdautry64,Kota Bharu,6195132,3,small,20221
+222,kdumbare65,Playas,6859198,1,small,20222
+223,mbruneau66,Shanga,3665070,4,middle,20223
+224,cinglesant67,Panalanoy,6964012,3,big,20224
+225,mablewhite68,Longhua,4790138,5,small,20225
+226,atooze69,Succha,3093229,4,small,20226
+227,nbonicelli6a,Beit Jann,7457745,1,middle,20227
+228,farbor6b,Šentilj v Slov. Goricah,6648607,3,small,20228
+229,jgammie6c,Guaymango,4285675,5,small,20229
+230,qhanscome6d,Sedatiagung,3041292,5,small,20230
+231,abaudet6e,Limboto,8302673,1,big,20231
+232,bgunning6f,Strellc i Ulët,5440632,1,middle,20232
+233,rgaines6g,Marcovia,5458187,4,middle,20233
+234,cpaolillo6h,Waigete,1552901,1,middle,20234
+235,jsainter6i,Purral,2487831,2,middle,20235
+236,sstode6j,Quşrah,3283582,3,middle,20236
+237,bjacop6k,Santo Domingo,2502719,5,middle,20237
+238,cdarrigone6l,Pumai,8780203,2,big,20238
+239,cperks6m,Albanel,8347731,3,big,20239
+240,aeilhart6n,Huanggong,4751004,4,small,20240
+241,kgozard6o,Şabāḩ as Sālim,4781073,5,middle,20241
+242,csaenz6p,Kfar NaOranim,8432104,5,big,20242
+243,awoollaston6q,Zhongchuan,755265,5,big,20243
+244,dhordell6r,Bluri,1460041,2,middle,20244
+245,edwelley6s,Ngozi,9226869,3,big,20245
+246,dsturzaker6t,Grebenskaya,8232248,1,big,20246
+247,gtregent6u,Amirdzhan,6710371,3,middle,20247
+248,gmanvelle6v,Lianhe,2941413,3,middle,20248
+249,cjosifovitz6w,Riangkroko,9284842,4,big,20249
+250,akenyam6x,Arneiro,1045686,4,middle,20250
+251,apople6y,Welchman Hall,3731782,3,small,20251
+252,lclampton6z,Pasarkuok,8200339,5,big,20252
+253,pmatic70,Anzihao,3475117,3,middle,20253
+254,mschultes71,Butel,6507822,5,middle,20254
+255,gcaswill72,Glinka,5008272,3,small,20255
+256,lgaitley73,Sepanjang,3969060,4,small,20256
+257,aawdry74,Luozhou,6532501,4,big,20257
+258,tbartke75,Porto Seguro,2844945,4,middle,20258
+259,cjowsey76,Los Dos Caminos,396044,3,big,20259
+260,tboraston77,Sepanjang,571904,4,small,20260
+261,wspittall78,Komorniki,3066309,2,middle,20261
+262,ltowsey79,Saint-Louis,3423764,4,big,20262
+263,ddurbann7a,Darungan Lor,9374202,1,big,20263
+264,aikringill7b,Banjar Brahmanabukit,8041141,3,middle,20264
+265,cdollard7c,Daliu,6269767,3,small,20265
+266,gfransinelli7d,Jalatrang,8401341,4,big,20266
+267,cdutnall7e,Changshou,1896066,5,small,20267
+268,jfarn7f,Houndé,400487,2,small,20268
+269,ebandey7g,Zheleznovodsk,8419586,1,small,20269
+270,pdikels7h,Lendangara Satu,454308,2,big,20270
+271,tdebrett7i,Greenland,3310650,5,small,20271
+272,anashe7j,Shanjeev Home,9737804,1,middle,20272
+273,ebrislane7k,Ust’-Kut,432293,1,small,20273
+274,jcattle7l,Montecristi,2829854,1,big,20274
+275,ugreenhouse7m,Lendan,6689066,1,big,20275
+276,smoyne7n,Chesapeake,9225521,5,middle,20276
+277,mremirez7o,Zhenxing,7745326,4,middle,20277
+278,agayther7p,Brok,5405043,2,big,20278
+279,rkleynermans7q,Pyskowice,1020835,4,small,20279
+280,fpetris7r,Tanjungbalai,4213230,5,middle,20280
+281,tleffek7s,Suresnes,1497463,1,small,20281
+282,reidler7t,Mont-de-Marsan,7047991,1,middle,20282
+283,grevington7u,Jeding,9344787,5,big,20283
+284,dmerrall7v,Si Satchanalai,9236117,4,small,20284
+285,twane7w,Maiorca,4078529,4,big,20285
+286,cskocroft7x,Pilluana,8740822,5,big,20286
+287,mkarel7y,Xinxu,8819623,4,small,20287
+288,igabbatt7z,Wujiayao,6750660,1,small,20288
+289,dtremble80,Basiao,2555714,1,small,20289
+290,smccrae81,Cinangka,4288739,1,small,20290
+291,rlovel82,Bothaville,2702874,3,big,20291
+292,skohlerman83,Kotabunan,9696109,5,small,20292
+293,pridett84,Koncang,3026360,3,small,20293
+294,wbleasby85,Simpanganduwet,532557,1,small,20294
+295,pbarthelmes86,Zhoujiaba,3138846,4,big,20295
+296,npernell87,Vynohradivka,8983937,3,middle,20296
+297,emayho88,Perístasi,2308746,4,big,20297
+298,dbynert89,Gongnong,3000303,4,big,20298
+299,dguerre8a,Huashan,8127707,3,small,20299
+300,jwiltshear8b,Buni Yadi,2928068,3,small,20300
+301,htoulamain8c,Lugovskoy,1260765,5,big,20301
+302,sfoucher8d,Canturay,5471327,3,middle,20302
+303,btunaclift8e,Cikiruh Wetan,957030,4,small,20303
+304,qtweedlie8f,Anzi,7901098,1,small,20304
+305,hgarralts8g,Spas,532892,4,small,20305
+306,woharney8h,Ereencav,9673872,2,big,20306
+307,abohills8i,Hushan,2127979,4,small,20307
+308,mlehr8j,Meilin,4859087,5,middle,20308
+309,mruddock8k,Muqui,8544510,5,big,20309
+310,kmintoft8l,Xinchengzi,8149454,3,big,20310
+311,ubonanno8m,Maniwaki,391643,1,big,20311
+312,ifarrand8n,Tcholliré,1513269,2,big,20312
+313,bbrearley8o,Mairiporã,7289285,3,small,20313
+314,abosomworth8p,Al Khārijah,6801468,5,big,20314
+315,hmarsy8q,Bankaw,8468322,3,small,20315
+316,ndalgliesh8r,Dourbali,5069518,4,small,20316
+317,rpawnsford8s,Srpska Crnja,6772721,2,middle,20317
+318,fllop8t,Kieta,6441253,1,small,20318
+319,deastby8u,Razgrad,9257645,4,big,20319
+320,ssamson8v,Mlalo,8604786,5,middle,20320
+321,sarnke8w,Skhodnya,8153305,3,middle,20321
+322,lcantrill8x,Budapest,3835457,5,middle,20322
+323,gpettegre8y,Torslanda,7082968,3,big,20323
+324,llovewell8z,Mingjing,827801,2,small,20324
+325,gcollcutt90,Songhae,7986583,4,middle,20325
+326,bgiacoboni91,Padangpanjang,4490571,1,big,20326
+327,sdunlop92,Itaquaquecetuba,4620623,5,big,20327
+328,odefont93,Majagual,5499452,3,middle,20328
+329,gchilvers94,Sindang,9794329,1,middle,20329
+330,asegar95,Châteaurenard,2978444,1,middle,20330
+331,ajoist96,João Pessoa,7454131,2,middle,20331
+332,mgirth97,Xinglong,1028393,1,middle,20332
+333,dcoxon98,Uście Gorlickie,3241693,4,big,20333
+334,otyrrell99,Shangshuai,8309105,3,big,20334
+335,gcornfield9a,Willowmore,2506487,2,middle,20335
+336,rmacadam9b,Syanno,1781154,2,small,20336
+337,mastupenas9c,Karis,2636676,2,middle,20337
+338,skausche9d,Arras,9570469,2,middle,20338
+339,meagar9e,Tagnanan,1277008,4,small,20339
+340,lbusswell9f,Čelopek,582888,4,big,20340
+341,wheddon9g,Tianxin,4999049,3,small,20341
+342,awormstone9h,Guadalupe,7287612,1,small,20342
+343,zloudiane9i,Wādī as Sīr,1959749,2,big,20343
+344,kchaize9j,Mełgiew,6529346,2,big,20344
+345,tbartelet9k,Tanahgrogot,4483529,2,middle,20345
+346,awardington9l,San Antonio,3338233,4,small,20346
+347,rmanis9m,Roissy Charles-de-Gaulle,7476003,5,small,20347
+348,hcarstairs9n,Kedungtuban,3026605,3,middle,20348
+349,jarndtsen9o,Molinos,5426761,2,middle,20349
+350,lthrelkeld9p,Zhelin,4597412,5,big,20350
+351,whaughan9q,Taekas,9686171,4,small,20351
+352,swootton9r,Shajia’ao,269056,3,middle,20352
+353,lumney9s,Alanga,5823054,1,middle,20353
+354,ebaston9t,Pantano do Sul,3538416,3,big,20354
+355,obyrkmyr9u,Donghai,985651,2,middle,20355
+356,kdilloway9v,Sumberjo,9585184,2,middle,20356
+357,trosbotham9w,Jasienica Rosielna,7805403,1,big,20357
+358,codom9x,Malita,3098249,3,small,20358
+359,glount9y,Laoxialu,6916468,4,small,20359
+360,badamo9z,Nanlü,8966614,1,middle,20360
+361,chorninga0,Antwerpen,726392,1,middle,20361
+362,gfeltoea1,Kiel,6370161,4,small,20362
+363,ehritzkoa2,Barobo,3301464,4,middle,20363
+364,maimsona3,Pucyura,8935499,3,small,20364
+365,atunaclifta4,Guisijan,3091390,5,small,20365
+366,bnansona5,Francisco Beltrão,6911422,3,middle,20366
+367,csoroa6,Khust,5043265,1,big,20367
+368,jgerretsena7,Georgetown,2839417,3,small,20368
+369,aphlippia8,Bongued,3084245,5,big,20369
+370,aandrusyaka9,Jiyang,5475594,5,middle,20370
+371,hchataignieraa,Tuusula,9514515,3,small,20371
+372,ekumarab,Tyachiv,9389735,5,small,20372
+373,lmatkovicac,Ganquan,3206030,4,middle,20373
+374,ablowfieldad,Tanggulangin,4186550,5,small,20374
+375,nflahyae,Yuanmen,848970,2,middle,20375
+376,ezanettiaf,Si Satchanalai,9438333,4,small,20376
+377,ssturdyag,Gexi,8197976,3,middle,20377
+378,aglayzerah,Angers,4559037,2,small,20378
+379,amcneilleyai,Bocana de Paiwas,702290,4,small,20379
+380,pkirkeaj,Kalininaul,1559441,2,middle,20380
+381,aoehmak,Manukaka,2397783,4,middle,20381
+382,mminnockal,Calgary,7475647,2,big,20382
+383,pideam,Uritsk,6643412,1,middle,20383
+384,cfaughnyan,Luzern,9311280,3,big,20384
+385,dumplebyao,Sindanghayu,2688821,2,small,20385
+386,fbrummellap,Jingling,5017281,2,big,20386
+387,mduigedaq,Falkenberg,2341999,5,middle,20387
+388,fwatsonar,Santa Catalina - Dique Lujan,6105030,4,middle,20388
+389,dalmackas,Ryki,4557228,1,big,20389
+390,kverricoat,Tanggu,6435008,2,middle,20390
+391,fgreenigau,Nay Pyi Taw,7636564,1,middle,20391
+392,ewellbeloveav,Senadan,7643719,4,big,20392
+393,dkrautaw,Xiaojing,3342899,4,small,20393
+394,grobilartax,Sibucao,8312744,5,middle,20394
+395,slambisay,Andarapa,2012463,3,small,20395
+396,bhilbourneaz,Quangang,1623760,4,big,20396
+397,falexanderb0,Xinmatou,439358,2,middle,20397
+398,trubartellib1,Guicheng,4808772,2,middle,20398
+399,wlumleyb2,Kashihara,4699127,3,middle,20399
+400,ncoenb3,Miaoxi,2142100,5,small,20400
+401,jwinderb4,Jajce,9498448,4,big,20401
+402,fsomersb5,Walenrang,6974755,3,middle,20402
+403,aimessonb6,Vanderbijlpark,7228800,5,small,20403
+404,lingledewb7,Lyubeshiv,6039323,2,middle,20404
+405,dgilstinb8,Perdões,7842619,1,middle,20405
+406,dkelshawb9,Bokor,4821821,2,small,20406
+407,vbelleba,Yamkino,1509408,3,middle,20407
+408,jmilnerbb,Dabao’anzhen,6590871,4,small,20408
+409,gmurrabc,Jepara,1309158,1,small,20409
+410,acollibearbd,Sitiarjo,7684873,5,middle,20410
+411,ehulattbe,Kissimmee,936511,2,middle,20411
+412,cchmielbf,Osekovo,4376708,3,small,20412
+413,aogbornbg,Bichura,9075524,4,small,20413
+414,hmillichapbh,Kamina,1549768,1,middle,20414
+415,tminithorpebi,Slavyanovo,8746229,2,small,20415
+416,lmaplesdenbj,Pandi,3493727,2,big,20416
+417,bthravesbk,Zengtian,3045436,3,small,20417
+418,ecobbbl,Krasnokumskoye,4469188,1,middle,20418
+419,ogronewaybm,Igcocolo,393898,5,middle,20419
+420,tfreenbn,Mayo,447428,3,small,20420
+421,jendacottbo,Guajiasi,8006723,1,small,20421
+422,mdewarbp,Babao,9320930,3,small,20422
+423,cmulhallbq,Aranđelovac,6444291,5,small,20423
+424,bkhoterbr,Arroyo Seco,5995112,4,big,20424
+425,mnorthagebs,Kizlyar,6082552,3,middle,20425
+426,osissonbt,Potou,9589388,5,middle,20426
+427,lsmyleybu,Ribeirão,485389,5,middle,20427
+428,jtirebv,Viesīte,5476226,5,small,20428
+429,alodinbw,Korop,6989809,3,middle,20429
+430,jgregolottibx,Nam Khun,1762653,5,big,20430
+431,pmcgrortyby,Chigasaki,4254792,3,big,20431
+432,wmccliffertybz,Weishanzhuang,4222323,4,big,20432
+433,sdominguesc0,Tabaquite,2213142,4,middle,20433
+434,bservisc1,Augsburg,6584906,4,big,20434
+435,mneggrinic2,Wensu,7872819,1,small,20435
+436,chuskinsonc3,Tungor,8038096,3,big,20436
+437,bguionc4,Huashixia,4727628,5,big,20437
+438,mkienlec5,Svetogorsk,5027622,1,big,20438
+439,banteckic6,Nurmo,5041301,4,small,20439
+440,wpetrikc7,Baiqi,7583458,1,middle,20440
+441,lbattertonc8,Saint-Louis du Sud,8735503,3,middle,20441
+442,hbridsonc9,Machachi,7789269,2,big,20442
+443,akenrightca,Põlva,726915,5,middle,20443
+444,fvanzoncb,Kuangyuan,3154901,4,big,20444
+445,aneathcc,Örebro,5919436,2,small,20445
+446,mjagercd,Plumbon,2752983,5,big,20446
+447,rservantce,Sentul,6347147,4,small,20447
+448,mbellascf,Guiglo,8037749,3,small,20448
+449,kbaumancg,Mīrwāh Gorchani,9158284,2,big,20449
+450,bwhetnellch,Jiangfang,1647334,5,small,20450
+451,imenchentonci,Talangnan,4772008,4,small,20451
+452,jprivettcj,Borkowice,7740406,3,middle,20452
+453,gstrainck,Thị Trấn Cao Lộc,8677810,2,big,20453
+454,tclellandcl,Gurlan,2582546,4,small,20454
+455,alaynecm,Cikiray,396523,2,small,20455
+456,jcamiescn,Pandakan,8464962,4,middle,20456
+457,hkohnemannco,Haridimun,6797652,1,small,20457
+458,tfeehilycp,Đắk Mil,4816108,3,small,20458
+459,dbirchallcq,Kisasa,1157094,5,big,20459
+460,adeddencr,Buang,2854860,1,big,20460
+461,tearwakercs,Haeju,6684380,4,big,20461
+462,obissetct,Nangakeo,7150424,2,big,20462
+463,egianneschicu,Matou,5059427,2,small,20463
+464,nzarbcv,Shahe,3105645,1,middle,20464
+465,rrasellcw,Grojec,526607,2,big,20465
+466,npetzoltcx,Bené Beraq,4715231,2,big,20466
+467,fdoolercy,Yvetot,1688194,4,big,20467
+468,nvintcz,Enjiang,5291923,2,middle,20468
+469,cbeched0,Cuijiamatou,566234,3,small,20469
+470,asteblesd1,New Orleans,5503869,2,small,20470
+471,gmalsterd2,Kyoto,7025516,2,big,20471
+472,whaxbyd3,Dërmënas,6798941,2,small,20472
+473,smattiazzid4,Ballymahon,7602812,4,small,20473
+474,aleftwichd5,Ţāqchah Khānah,8155841,4,small,20474
+475,mmoaksond6,Kashihara,6885038,5,big,20475
+476,kmackd7,Cibodas,2060081,5,small,20476
+477,tborrisd8,MacArthur,1368005,1,middle,20477
+478,dmcglued9,Wang Nam Yen,8442921,5,small,20478
+479,zdiamondda,Brongkalan,2158596,4,small,20479
+480,lluckdb,Campinho,738349,3,small,20480
+481,atrameldc,Bilhó,3301241,2,small,20481
+482,mjellarddd,Zhuyang,1940287,4,small,20482
+483,dcordende,Milicz,9799667,3,big,20483
+484,bcamousdf,Karangpaningal,1603949,2,small,20484
+485,breadwooddg,Soutocico,1155259,3,middle,20485
+486,eharknessdh,Bryan,9970422,1,middle,20486
+487,kgibbedi,Raksajaya,8852967,1,middle,20487
+488,jliversagedj,Dushang,8955316,5,small,20488
+489,hlabronedk,Nadrupe,8535855,2,middle,20489
+490,tvestydl,Metchosin,5826962,5,middle,20490
+491,bblackebydm,Tha Uthen,4179798,1,big,20491
+492,rmunforddn,Khanāşir,4298869,4,middle,20492
+493,lkitchingmando,Malamig,7292241,3,small,20493
+494,wdufairedp,Żabnica,8810056,1,middle,20494
+495,mclipsondq,Žemaičių Naumiestis,6632365,5,small,20495
+496,gwackettdr,Ddmashen,4691880,3,small,20496
+497,kberndtssends,Norrköping,7923676,4,small,20497
+498,jmottodt,Penha Longa,6127231,1,small,20498
+499,jcrosherdu,Tuanjie,8123812,4,middle,20499
+500,ttoulamaindv,Otllak,8326441,2,big,20500
+501,dzottodw,Bilhó,5927180,2,big,20501
+502,drembrandtdx,Fasi,1725741,3,middle,20502
+503,rodroughtdy,Nanjing,2520800,3,small,20503
+504,kmcquaidedz,Alegrete,9039998,1,small,20504
+505,zcameranae0,Daqian,4564664,2,big,20505
+506,dbauckhame1,Guarapuava,896689,5,big,20506
+507,nlabae2,Pasaje,3049427,3,small,20507
+508,rmayohe3,Ferdinandovac,2851087,1,big,20508
+509,calbutte4,Wucheng,8096806,1,small,20509
+510,smacconnelle5,Obiaruku Quarters,4864487,2,middle,20510
+511,mmossdalee6,Hengdian,8223035,4,big,20511
+512,mkrysztofowicze7,Oyem,1126354,1,small,20512
+513,bdumberelle8,Tashanta,8076580,1,big,20513
+514,dferrerse9,Putrajaya,6155442,3,middle,20514
+515,jscholteea,Luso,5237215,5,small,20515
+516,swilfingereb,Uzda,2159149,1,small,20516
+517,clevisonec,Lantian,1490356,3,small,20517
+518,mlongfielded,Arkhaía Kórinthos,6229102,4,big,20518
+519,nenrricoee,Taganskiy,3587211,1,middle,20519
+520,kcopemanef,Mulhouse,7515603,2,small,20520
+521,gainsleeeg,Ciparakan,1069334,2,small,20521
+522,achristeneeh,Bertelhe,2677916,3,small,20522
+523,epapachristophorouei,Semenivka,8847646,5,middle,20523
+524,drisdaleej,Lyon,9994855,4,big,20524
+525,sbunnerek,Menongue,1130694,1,middle,20525
+526,abostickel,Slatyne,9239959,3,big,20526
+527,jpockem,Yamoussoukro,9144163,4,middle,20527
+528,pholstonen,Bandar Seri Begawan,743796,5,middle,20528
+529,fgiorgiellieo,Lezhë,6371693,4,middle,20529
+530,bberefordep,Beni,1406841,5,small,20530
+531,cprimaroloeq,Tengqiao,9913110,4,small,20531
+532,pdrabbleer,Velký Újezd,6820728,4,big,20532
+533,fkryzhoves,Lokwabe,3469680,5,big,20533
+534,glittlefairet,Austin,4663253,2,small,20534
+535,gsamwayseu,Kinalaglagan,7116884,5,big,20535
+536,eubsdallev,Huixian Chengguanzhen,8776560,1,small,20536
+537,dhaytoew,Zaragoza,1594383,1,small,20537
+538,smariaex,Wilkes Barre,5962479,4,small,20538
+539,millingsworthey,Xinzhou,9451183,4,small,20539
+540,bgilloppez,Saint-Quentin-en-Yvelines,9774704,4,small,20540
+541,eclemf0,Vegreville,5064007,2,middle,20541
+542,lfearnehoughf1,Shamanka,4066779,5,big,20542
+543,hdmitrienkof2,Taywanak Ilaya,7021483,3,small,20543
+544,mfozzardf3,Karis,4738936,1,middle,20544
+545,cpenmanf4,Quiches,1670483,2,small,20545
+546,sraynerf5,Frederiksberg,8405178,2,small,20546
+547,gwatermanf6,Madrid,9032582,2,big,20547
+548,pheaffeyf7,Daxing,3920023,1,small,20548
+549,rtiliof8,Wangqu,151518,4,middle,20549
+550,lschleicherf9,Mosteirô,1114938,5,small,20550
+551,grotteryfa,Jiulong,5426711,1,big,20551
+552,mvannuccinifb,Sunfang,7794250,4,small,20552
+553,cfinbyfc,Brumadinho,3088745,1,middle,20553
+554,smaffuccifd,Oslo,8169194,4,small,20554
+555,mcradockfe,Hegeng,4274331,4,big,20555
+556,kbreukelmanff,Nakano,8729939,2,small,20556
+557,wfugefg,Yanmen,7840809,2,middle,20557
+558,dpallaskefh,Novyye Gorki,8802989,2,big,20558
+559,fglentonfi,Kiruna,2476940,1,big,20559
+560,wbradneckfj,Evansville,9003757,4,middle,20560
+561,chatjefk,Nam Khun,1069337,5,small,20561
+562,aknapperfl,San Pedro,7024307,1,small,20562
+563,pscotsonfm,Bitanjuan,2774821,1,middle,20563
+564,jeastbyfn,Twyford,4081091,4,big,20564
+565,fcrisfordfo,Rosetta,7479964,3,small,20565
+566,crodgersonfp,Carpentras,4969388,4,middle,20566
+567,bswannackfq,Sapang Buho,2306191,2,big,20567
+568,gcalderonfr,Tol’yatti,9040099,2,big,20568
+569,ewatsonfs,Dire Dawa,5635464,2,big,20569
+570,rkeddeyft,San Vicente de Bique,1279611,3,middle,20570
+571,eduguefu,København,7411257,3,middle,20571
+572,fswallowfv,Qujiang,3764002,2,big,20572
+573,jcarnegyfw,Ferraria,2094994,3,small,20573
+574,aschimekfx,Pasir Mas,5333794,3,middle,20574
+575,hanthiftlefy,Sumenep,5605832,3,small,20575
+576,bsmallpeicefz,Miki,6087571,3,middle,20576
+577,vpeniellog0,Banraeaba Village,5853938,3,big,20577
+578,llongfieldg1,Tuusniemi,4518217,1,big,20578
+579,ggaultg2,Beidu,1666207,4,middle,20579
+580,epembridgeg3,Gunungkendeng,8551107,5,middle,20580
+581,dhickeringillg4,Wutun,1036879,5,big,20581
+582,spentelog5,Guanay,2955606,5,middle,20582
+583,sstuchberyg6,Verkhniy Kurkuzhin,878919,4,big,20583
+584,styeg7,Polanica-Zdrój,5998688,5,middle,20584
+585,skiesselg8,Měnín,8990514,1,middle,20585
+586,bhawkeswoodg9,Neochóri,7597100,5,middle,20586
+587,whowlettga,Hedong,6812454,3,big,20587
+588,gmoultriegb,Dimitsána,6194574,4,middle,20588
+589,hdykasgc,Tân Châu,5079184,3,big,20589
+590,hmedgewickgd,Padangcermin,2144453,5,small,20590
+591,bbracknellge,Colcabamba,3637783,3,small,20591
+592,areangf,Bastos,6858766,3,middle,20592
+593,pbarnshawgg,Amman,9149073,2,small,20593
+594,ycollopygh,Wageningen,5305295,5,middle,20594
+595,sbortongi,Sfax,3004931,1,middle,20595
+596,bbooggj,Kyela,3076537,2,small,20596
+597,lrampleygk,Puzi,9934611,1,big,20597
+598,akyngegl,Chumphon Buri,2403184,4,small,20598
+599,aoakeygm,Lyubymivka,7319659,2,big,20599
+600,afranceygn,Sungai Iyu,9530231,5,big,20600
+601,dduttongo,Sho’rchi,5301521,3,small,20601
+602,rbatecokgp,Seseng,3716705,2,small,20602
+603,eraspingq,Conima,1964907,2,small,20603
+604,ncornishgr,Ivatsevichy,7327140,3,big,20604
+605,fsondongs,Polos,5533228,3,big,20605
+606,cdinapoligt,La Carlota,7256159,2,middle,20606
+607,ljossgu,Marseille,7116383,5,big,20607
+608,geldingv,Palikir - National Government Center,1527337,2,big,20608
+609,dvondrysgw,Chornorudka,3704896,5,small,20609
+610,bshatliffegx,Huilongshan,9634492,3,small,20610
+611,ebunworthgy,Mirny,1832127,4,small,20611
+612,lchudleighgz,Villaviciosa,5887664,4,middle,20612
+613,hseeleyh0,Wololele A,7871854,5,big,20613
+614,jbriarsh1,Juncalito Abajo,4856633,4,middle,20614
+615,twhitlowh2,Malasiqui,8428742,4,big,20615
+616,fwhilderh3,Puerto Madryn,5378999,3,big,20616
+617,gtarbatth4,Tawau,488918,2,middle,20617
+618,tdevineyh5,Malakwal City,5276877,3,middle,20618
+619,wpappinh6,Bretaña,214707,5,big,20619
+620,jthakeh7,Kawasaki,1665499,2,big,20620
+621,lkinverh8,Benjamin Constant,9771858,2,middle,20621
+622,sleipnikh9,Pidigan,7474013,3,big,20622
+623,cnealeyha,Shishan,7675463,1,middle,20623
+624,mwarringtonhb,Vostryakovo,5644724,4,small,20624
+625,rdowntonhc,Darungan,2834703,5,small,20625
+626,dpasekhd,Saari,290176,1,small,20626
+627,gbrosekehe,Schenectady,6160850,3,middle,20627
+628,clethibridgehf,Kao Liao,9583871,5,middle,20628
+629,otockhg,Geyuan,8442457,2,middle,20629
+630,mmacgebenayhh,Capacho Viejo,9383145,3,small,20630
+631,jgarratthi,Parobé,6209671,5,middle,20631
+632,mgreiswoodhj,Jaboticabal,732250,1,big,20632
+633,mleftwichhk,Jargalant,7066040,3,middle,20633
+634,jwilshinhl,Santa Catalina,7384334,1,small,20634
+635,vbuxtonhm,Quşrah,8952965,1,middle,20635
+636,mrenadhn,Chợ Mới,4731234,2,small,20636
+637,cdinsellho,Taiping,8994098,3,middle,20637
+638,mcolamhp,Wenfeng Zhen,7875714,4,big,20638
+639,wcannophq,Neftobod,891644,5,big,20639
+640,mclemmenhr,Rafaḩ,9248675,2,middle,20640
+641,cfiridolfihs,Yallahs,6242640,4,small,20641
+642,fbewickht,Sędziejowice,1062951,3,big,20642
+643,adashperhu,Dupi,565771,5,big,20643
+644,cembureyhv,Stari Grad,3485708,1,big,20644
+645,mardleyhw,Sumberingin Kulon,1661242,5,middle,20645
+646,cfawlteyhx,Bantay,9582973,2,middle,20646
+647,inegushy,Stockholm,9775723,5,big,20647
+648,mslynehz,Mianduhe,9570055,3,big,20648
+649,lriseboroughi0,Makoko,169362,3,middle,20649
+650,sstratherni1,Zlynka,4624496,2,middle,20650
+651,dantognazzii2,Ryki,6430654,2,middle,20651
+652,jalloti3,Nikol’sk,9377380,2,big,20652
+653,okermoni4,Loum,7555456,3,small,20653
+654,mbednelli5,Mulandoro,8352870,5,big,20654
+655,bmcamishi6,Liubo,4596404,3,middle,20655
+656,btripleti7,Ipuh,5154990,4,big,20656
+657,sslocombi8,Samsan,8741531,1,big,20657
+658,ywanderscheki9,Queimados,565046,4,big,20658
+659,aziemkeia,Zorgo,3531274,1,big,20659
+660,garrolib,Xinzhou,899963,4,big,20660
+661,stisunic,Mrągowo,2235810,3,small,20661
+662,etomikid,Tofol,5463804,5,small,20662
+663,ssayleie,Limoeiro de Anadia,2179675,4,big,20663
+664,jgaskalif,Nkwerre,6316436,5,middle,20664
+665,rlodekeig,Kadipaten,3389294,4,middle,20665
+666,achessumih,La Cocha,958914,3,big,20666
+667,ereddingsii,Badāmā,1674473,1,big,20667
+668,amusicoij,Suponevo,2346193,5,small,20668
+669,ctooheyik,Mabilang,4462936,3,middle,20669
+670,rmacgrueril,Sanhe,4589091,5,middle,20670
+671,lsarfatiim,Reshetikha,5548820,3,small,20671
+672,snortcliffein,Towa,3224763,2,small,20672
+673,rgrubeio,San Francisco,634685,3,small,20673
+674,chutsbyip,Pedro Santana,9748553,1,middle,20674
+675,caxeiq,Laguna,8026475,5,middle,20675
+676,beakensir,Harnoli,9475638,3,big,20676
+677,losanneis,Radzyń Chełmiński,8579745,5,middle,20677
+678,jduferieit,Mosal’sk,4506190,4,big,20678
+679,mmanvilleiu,Michałów,118652,3,big,20679
+680,labramzoniv,Dayuan,1292255,3,big,20680
+681,alorenziniiw,Insrom,423389,5,big,20681
+682,mmcparlinix,Shebunino,5540239,2,small,20682
+683,owinesiy,Bunisari,8147167,5,small,20683
+684,mhenrichsiz,Dingjiayao,2764504,2,big,20684
+685,cperesj0,Liulimiao,5783390,1,small,20685
+686,eclaasenj1,Grabovci,678313,2,middle,20686
+687,margravej2,Phanom Phrai,794140,5,big,20687
+688,rwilsonj3,Ostuncalco,3890873,3,small,20688
+689,edavioudj4,Kostelec nad Černými Lesy,711398,4,middle,20689
+690,lgianneschij5,Guéret,6231325,2,small,20690
+691,fjirucaj6,Haylaastay,6352565,3,big,20691
+692,adudingj7,Situsari,6924726,5,middle,20692
+693,jwalderaj8,Rufino,8288276,1,small,20693
+694,afollenj9,Saint-Paul,6142152,4,small,20694
+695,obrunija,Zaleszany,4305238,2,middle,20695
+696,cmatulajb,Chrysó,7618755,1,big,20696
+697,bscrowbyjc,Blon’,4345260,4,big,20697
+698,fbenjafieldjd,Kibiya,2283360,5,small,20698
+699,nallcroftje,Dayr Abū Ḑa‘īf,3510228,5,middle,20699
+700,sperrottetjf,Chaplygin,3657679,3,small,20700
+701,rsimonatojg,Dŭstí,9921905,4,middle,20701
+702,eorderjh,Ciparay,6620189,5,small,20702
+703,ipheasantji,Luchenza,5088213,1,small,20703
+704,dbogacejj,Bingawan,9981424,4,small,20704
+705,mcrosettojk,Otutara,2648496,2,middle,20705
+706,shamsonjl,Leran,7245952,2,middle,20706
+707,bwannopjm,Shuitou,8784221,1,middle,20707
+708,cjojicjn,Raduzhnyy,7065671,3,big,20708
+709,amilmoejo,São Vicente de Ferreira,3100761,4,big,20709
+710,mnorthropjp,Łużna,8981644,4,small,20710
+711,bsmidmoorjq,Puncakwangi,8829155,5,big,20711
+712,fveillardjr,Tabango,3170128,4,big,20712
+713,zfruenjs,Omoa,8751245,3,big,20713
+714,lpipkinjt,Chartres,6805912,4,big,20714
+715,jerdesju,Balzers,1603310,4,middle,20715
+716,dwhitworthjv,Caramuca,9454296,3,middle,20716
+717,jdespenserjw,Runsonglaozhai,739689,2,big,20717
+718,pbiasiojx,Yonghe,980437,5,small,20718
+719,rdelorenzojy,Mali Iđoš,3784319,2,middle,20719
+720,dchapejz,Chetian,5244484,1,middle,20720
+721,ptattersfieldk0,Morazán,4900311,2,small,20721
+722,ksutherank1,Krasnotorka,1758980,4,big,20722
+723,hkillockk2,Limbalod,8396253,3,middle,20723
+724,lrawlingk3,Buchach,9200604,1,big,20724
+725,dflattk4,Barapas,9998820,4,small,20725
+726,hhinderk5,Korets’,9169088,1,big,20726
+727,dsharmank6,Cajamar,3918841,2,small,20727
+728,abranfordk7,Bourg-lès-Valence,7429134,4,small,20728
+729,hticklek8,Suvorovskaya,7559932,1,small,20729
+730,bfarlambek9,Solnechnyy,5125836,1,big,20730
+731,gpottipharka,Gines-Patay,7186498,2,middle,20731
+732,mcathesyedkb,Jönköping,4097196,2,big,20732
+733,bboastkc,Pio Duran,751118,5,big,20733
+734,pzuponekd,Krajan Karanganyar,4423994,5,small,20734
+735,cverdeyke,Gzy,4115785,4,small,20735
+736,lrougierkf,Linköping,3897871,4,small,20736
+737,cpettifordkg,Guxi,1611108,2,small,20737
+738,jnanuccioikh,Charlotte Amalie,3094978,5,big,20738
+739,fearneyki,Krivodanovka,4504712,2,middle,20739
+740,hkilbykj,Petrovice u Karviné,7656860,1,middle,20740
+741,aastletkk,Sosnovka,7512884,4,middle,20741
+742,hcreamkl,Kiloloran,5392273,1,big,20742
+743,mduckfieldkm,Mae Lao,4086001,3,middle,20743
+744,aboynkn,Chervone,4334897,4,big,20744
+745,lsandalko,Kimméria,5496618,1,small,20745
+746,ccubittkp,Tílisos,9756077,5,small,20746
+747,mrevancekq,Älvsjö,9900579,2,middle,20747
+748,dperduekr,Awgu,4040202,5,small,20748
+749,acranstounks,Thạnh Phú,5565564,5,small,20749
+750,misgatekt,Mertani,9431521,5,big,20750
+751,rpierrepointku,Działdowo,4785215,3,small,20751
+752,svidlerkv,Saguenay,8096744,2,small,20752
+753,dbacklerkw,Malpique,9938725,3,middle,20753
+754,dvautrekx,Malesína,8509489,3,small,20754
+755,gminmaghky,Houston,9445699,4,middle,20755
+756,elimeburnerkz,Ribeira Seca,6512859,3,big,20756
+757,vhantonl0,Tierp,7036655,4,small,20757
+758,wburdel1,Victoria,474066,4,big,20758
+759,agoomsl2,Vose’,9602316,4,big,20759
+760,pbrandell3,Hendala,9189456,5,small,20760
+761,peasuml4,Kaskinen,6603444,3,small,20761
+762,vreinardl5,Wahang Dua,2635456,2,small,20762
+763,lstrelitzkil6,Libiąż,2031089,1,big,20763
+764,enelliganl7,Velenje,9073699,1,big,20764
+765,kfacerl8,Port-à-Piment,1705025,1,small,20765
+766,obatsonl9,Creighton,9235268,2,big,20766
+767,gshirilla,Ningchegu,4559832,2,middle,20767
+768,rashingdenlb,Solnechnogorsk,7165834,2,middle,20768
+769,jmoxsonlc,Oslo,7649363,3,middle,20769
+770,mmcallanld,Paraíso,8120626,2,big,20770
+771,jhuckele,Fredericton,2068605,3,small,20771
+772,blackielf,San Isidro,6142829,3,small,20772
+773,rflealg,Espera Feliz,8072354,5,middle,20773
+774,pcraydonlh,Sv. Anton,1136704,4,middle,20774
+775,cwaulkerli,Kleszczewo,7898752,3,small,20775
+776,aalibertilj,Baiyang,9585949,1,middle,20776
+777,wcasollk,Taojiahe,8558761,1,big,20777
+778,dkinderll,Osek nad Bečvou,5844275,1,middle,20778
+779,fjosupeitlm,Poligny,3089002,5,small,20779
+780,pmorseln,Pālang,2055361,3,middle,20780
+781,rbordonelo,Ngantru,7193290,2,big,20781
+782,bbramontlp,Karangan,6422092,4,big,20782
+783,gmcmichaellq,Banyuresmi,7337930,3,small,20783
+784,lheidenlr,Blois,9147773,4,big,20784
+785,cbosleyls,Anton,1245940,4,small,20785
+786,ceddisforthlt,Gaplokan,2388913,4,big,20786
+787,hweatherdonlu,Yushikalasu,9573227,5,middle,20787
+788,hodelllv,Sangmélima,1660937,3,middle,20788
+789,ajenkinslw,Lees Summit,9414194,5,middle,20789
+790,tduffittlx,Almafuerte,1995197,4,middle,20790
+791,lsidnellly,Zhujiang,8335549,2,middle,20791
+792,dfilipiclz,Kurovskoye,1726681,2,middle,20792
+793,slawtym0,Bao’an,6851304,4,middle,20793
+794,igrinvalm1,Butiama,7188562,2,middle,20794
+795,cpestellm2,Fāqūs,9765091,4,small,20795
+796,aabramsonm3,Cilimus Kulon,1129117,4,small,20796
+797,nhasterm4,Xinchengzi,3448235,3,big,20797
+798,abeekem5,Yangliu,4439103,3,small,20798
+799,ociricm6,Chengzhong,156819,2,middle,20799
+800,ycotterellm7,Nunguan,7448674,5,big,20800
+801,mkrollm8,Songlong,9612282,2,big,20801
+802,aillstonm9,Quba,3355528,4,big,20802
+803,gcreggma,Tyresö,8840138,5,small,20803
+804,gswansboroughmb,Kantharalak,3090145,3,middle,20804
+805,bminthorpemc,Richmond,7232334,5,big,20805
+806,switzmd,Khānpur,5120290,5,big,20806
+807,bpobjayme,Al Quţayfah,3795424,5,middle,20807
+808,zebbottsmf,Magang,8545057,1,big,20808
+809,snannmg,Xichang,6737050,4,middle,20809
+810,sclaypolemh,København,2592960,5,small,20810
+811,lstreetingmi,Machalí,800064,4,middle,20811
+812,vlittrellmj,Berón de Astrada,6237283,3,middle,20812
+813,gickowiczmk,Canton,8324058,3,middle,20813
+814,pfowlestoneml,Dalun,4706796,1,small,20814
+815,hklaaassenmm,Campo Verde,4892048,1,small,20815
+816,kloudenmn,Pandak,5163920,4,small,20816
+817,sorangemo,São Paio Merelim,1665516,3,middle,20817
+818,gdungemp,Igarra,7048716,5,small,20818
+819,nscrowstonmq,San Diego,4519338,2,middle,20819
+820,aadanmr,Aradac,7196959,3,big,20820
+821,mtathacottms,Si Satchanalai,5007626,3,big,20821
+822,sstaniforthmt,Shuiquan,5229618,3,big,20822
+823,kelliotmu,Ishurdi,6678577,2,middle,20823
+824,slashmarmv,Suḩayl Shibām,2216175,2,middle,20824
+825,bwitzmw,Krajan,4098351,1,small,20825
+826,ctomeimx,Zhenlai,6683459,4,middle,20826
+827,rfredimy,Baxiangshan,230044,4,middle,20827
+828,lfratsonmz,Energetik,5126073,2,middle,20828
+829,dcaudelln0,Setúbal,5430463,4,big,20829
+830,gmickann1,Chaplygin,2850130,4,middle,20830
+831,abowartn2,Daur,4336436,1,big,20831
+832,jhannyn3,Lunsar,1578525,4,big,20832
+833,jdeyen4,Jikamshi,8995431,2,small,20833
+834,cgoodalln5,Xiashan,803377,4,big,20834
+835,hcotgroven6,Hougong,1579496,2,big,20835
+836,ghilbournen7,Pirca,8021153,5,middle,20836
+837,tbeverstockn8,Goris,5351139,5,small,20837
+838,cosgodbyn9,Dededo Village,8546846,4,big,20838
+839,jsafontna,Boju,3758776,3,small,20839
+840,vgeavesnb,Mueang Suang,4390974,3,small,20840
+841,hthiesenc,Wangcheng,2894325,1,middle,20841
+842,ehartshornnd,Carregueira,7593433,5,middle,20842
+843,hrozne,Sindangrasa,3839923,4,big,20843
+844,theynelnf,Sarnaki,2340856,4,middle,20844
+845,ahalegarthng,Dmytrivka,8008144,3,middle,20845
+846,fgreswellnh,Sipirok,1342224,4,middle,20846
+847,sdalyellni,Leidian,1956085,4,small,20847
+848,ktrucenj,Varnávas,478152,1,small,20848
+849,tstorrynk,Odemira,8806037,5,big,20849
+850,dsecretannl,Ushiku,6785277,4,middle,20850
+851,rdeabillnm,Dakoutun,1264669,1,middle,20851
+852,echeshernn,Rincón,4724719,2,small,20852
+853,bfullwoodno,Diavatós,3648820,1,middle,20853
+854,kjuliffnp,Besuki Dua,1379040,4,big,20854
+855,clinturnnq,Kacangan Lor,7789995,1,small,20855
+856,rchownenr,Kijang,3080601,2,small,20856
+857,vbolinons,Gambaru,9630223,1,middle,20857
+858,emanskent,Shiyaogou,3763923,5,big,20858
+859,zjurkowskinu,Sayyān,7733940,2,middle,20859
+860,scrippillnv,Tonosí,6841802,4,small,20860
+861,grumneynw,Wasquehal,2077583,5,small,20861
+862,mfranzonellonx,Raciążek,8361493,1,big,20862
+863,psamartny,Mirosławiec,1038880,5,big,20863
+864,dhuittnz,Kamyanyets,8875709,5,small,20864
+865,boliffo0,Guangning,5780615,4,middle,20865
+866,hcypleso1,Hüremt,1467118,2,big,20866
+867,rmcdarmido2,Zhaigang,4979660,2,middle,20867
+868,ctolussio3,Kaiama,2570374,1,middle,20868
+869,pwitcombeo4,Viñac,797231,4,big,20869
+870,njarrello5,Prado,6874416,2,middle,20870
+871,cpannamano6,Zhangdu,103757,2,big,20871
+872,dosheeryneo7,São Vicente de Ferreira,1576658,5,middle,20872
+873,steasello8,Al Nashmah,9335573,3,middle,20873
+874,hchaffeno9,Kembangkerang Lauk Timur,5828646,2,middle,20874
+875,krannaldoa,Sorren Daya,2975498,1,small,20875
+876,mshippardob,Obita,8560119,3,small,20876
+877,lbarberaoc,Kaédi,9314693,2,big,20877
+878,rcrystalod,Būrkah,6534590,4,small,20878
+879,stumilityoe,Zijin,4313978,3,big,20879
+880,fmerfinof,Asbest,5954134,4,big,20880
+881,rcushellyog,Benešov nad Ploučnicí,5338653,3,small,20881
+882,zroderhamoh,Matagalpa,537397,5,middle,20882
+883,alillfordoi,Lisieux,5576811,3,middle,20883
+884,enelliganoj,Khon Buri,6351171,2,big,20884
+885,csteuhlmeyerok,Kista,6816378,5,middle,20885
+886,htoobyol,Dresden,8792685,3,middle,20886
+887,acornelsom,Élancourt,6309939,5,middle,20887
+888,dskeelson,Santa Rita,7884508,2,middle,20888
+889,cfilkovoo,Yōkaichiba,1268915,2,big,20889
+890,dgoodspeedop,Las Palmas,8992222,3,big,20890
+891,hseeborneoq,Bukal,7412712,1,small,20891
+892,vledesor,Rengo,8928430,4,small,20892
+893,truskeos,Las Heras,3378347,3,big,20893
+894,sbartaliot,Dusit,403519,4,small,20894
+895,acornboroughou,Bom Conselho,8740143,1,middle,20895
+896,arotheryov,Kwakoa,1845498,2,middle,20896
+897,bwestmerlandow,Oneop,3087802,2,middle,20897
+898,dpoxtonox,Omišalj,2283272,3,middle,20898
+899,ireefoy,Lukovë,3886544,2,big,20899
+900,nmershoz,Kauhan,6007314,5,big,20900
+901,gloftsp0,Jinchang,7415039,1,big,20901
+902,mthorringtonp1,Zengtian,3627522,5,big,20902
+903,chawkeridgep2,Tambobamba,3306294,1,middle,20903
+904,bfibbittsp3,Lokorae,877697,2,big,20904
+905,jgoedep4,Lühua,6361544,5,big,20905
+906,jmaffinip5,Karangtawar,3258609,2,big,20906
+907,etrumpeterp6,Toutuo,5189341,4,small,20907
+908,jmcnabbp7,Payxambabazar,5548225,3,big,20908
+909,isevinp8,Tongqian,2012116,1,big,20909
+910,mportlockp9,Gómez,5525008,1,small,20910
+911,mliefpa,El Zulia,4980838,2,big,20911
+912,pormespb,Pasarnangka,9672768,5,middle,20912
+913,mcoggingspc,Shazhouba,4514439,3,small,20913
+914,dperetpd,Westonaria,9217628,4,big,20914
+915,bcampanype,Kuliyapitiya,5016462,1,big,20915
+916,adewhirstpf,Las Yaras,2222696,5,big,20916
+917,tmcvitypg,San Gabriel,3121574,2,big,20917
+918,klambourneph,Yingjiang,2881743,1,small,20918
+919,akolakpi,Ar Ruţbah,2051322,5,small,20919
+920,ncastlepj,Rasshevatskaya,7899206,1,small,20920
+921,eassadpk,Shuinan,9592580,2,middle,20921
+922,aaffleckpl,Budapest,9898844,3,big,20922
+923,caspenlonpm,Katrineholm,3590756,4,middle,20923
+924,livanovicpn,Tân Sơn,3950996,5,big,20924
+925,syupo,Torre,991592,5,big,20925
+926,akuhwaldpp,Vatutine,7202910,5,small,20926
+927,uliebpq,Gamleby,6430262,1,middle,20927
+928,cdewispr,Rungis,2588587,5,big,20928
+929,cskynnerps,Shënmëri,1531529,3,middle,20929
+930,mgeistmannpt,Maardu,4560245,2,big,20930
+931,kmancepu,Yangsa,3878041,1,small,20931
+932,ckarppv,Émpa,1868081,2,big,20932
+933,tnafzigerpw,Leipzig,4594663,4,small,20933
+934,jvasinpx,Rates,4747643,3,small,20934
+935,gguinnanepy,Planaltina,1924831,3,small,20935
+936,sdilworthpz,Carleton-sur-Mer,6554125,2,small,20936
+937,rharrowingq0,Kilinochchi,5395872,1,middle,20937
+938,ssickamoreq1,Hedi,8685039,1,big,20938
+939,chearsonq2,Banqiao,5579374,5,big,20939
+940,lduffyq3,Caocun,765437,1,middle,20940
+941,gpauerq4,Sioux Falls,8746386,2,small,20941
+942,cgibbardq5,Nangalisan,7113196,3,big,20942
+943,awoolmerq6,Huangguan,7929627,3,middle,20943
+944,mjentzschq7,Umeå,4653383,4,big,20944
+945,sraratyq8,Longquan,4728285,3,middle,20945
+946,syeellq9,Plaeng Yao,3340241,4,middle,20946
+947,morvisqa,Kotabesi,5198172,1,middle,20947
+948,npreatorqb,Ulricehamn,6406331,2,big,20948
+949,dwigsellqc,Megalópoli,9160206,3,middle,20949
+950,hbramsenqd,Maquanzhen,2335580,1,big,20950
+951,gcalveleyqe,Xiangrong,9414915,4,small,20951
+952,lcestardqf,Douba,725545,2,small,20952
+953,gpaoliqg,Huochang,2588629,2,small,20953
+954,mrumpqh,Polkowice,8039863,5,small,20954
+955,hwelfairqi,Zhenwen,4341188,2,middle,20955
+956,klevinsqj,Lamakera Dua,1273534,5,big,20956
+957,nseefusqk,Rio de Janeiro,8616094,2,middle,20957
+958,gbidnallql,Peishe,7293550,3,middle,20958
+959,nbarbourqm,Mangulile,7305642,2,middle,20959
+960,dscoreyqn,Pilluana,1387990,5,small,20960
+961,alydonqo,Sukogunungkrajan,9824372,4,small,20961
+962,mbenbowqp,Balangkayan,3763459,5,small,20962
+963,kturbayneqq,Sakaidechō,1043828,4,big,20963
+964,gharrowqr,Linares,2044717,5,middle,20964
+965,clampbrechtqs,Sindangrasa,882164,5,middle,20965
+966,rphilpaultqt,Manicaragua,2229378,3,big,20966
+967,mhoolaghanqu,Genteng,5753289,1,small,20967
+968,kmccreaqv,Tlogosari,8293796,4,big,20968
+969,bnormandaleqw,Yélimané,5394157,3,middle,20969
+970,cbamseyqx,Ryazanskaya,8712455,4,small,20970
+971,bfeasleyqy,Tarrafal de São Nicolau,4797404,4,big,20971
+972,cwildinqz,Bojongsari,5819129,3,big,20972
+973,trawoodr0,Smiltene,8944746,5,small,20973
+974,zyeuletr1,Ashgabat,9075998,1,big,20974
+975,samesburyr2,Chupa,5389689,5,middle,20975
+976,sattewr3,Staroyur’yevo,8128364,3,big,20976
+977,abrowner4,Lingcheng,903094,1,small,20977
+978,lnorsisterr5,Indulang,8702765,2,big,20978
+979,cpitcaithlyr6,Saatlı,647464,1,small,20979
+980,plefevrer7,Santo Antônio de Pádua,603552,5,small,20980
+981,dskeldinger8,Xin’e,6523313,4,big,20981
+982,vgoulbourner9,Lauro de Freitas,4142019,1,big,20982
+983,caartsenra,Stan-Bekhtemir,7544548,2,small,20983
+984,lgoddardrb,Cibeureum,7051363,1,big,20984
+985,jbonnifacerc,Lianovérgi,1904963,2,big,20985
+986,bmarsdenrd,Cergy-Pontoise,4544999,3,small,20986
+987,rcolafatere,Karatau,6322389,1,big,20987
+988,fpicklesrf,Rathdrum,4342094,1,big,20988
+989,gclayillrg,Klagenfurt am Wörthersee,9629756,5,middle,20989
+990,kslowlyrh,Slovenske Konjice,3045629,4,middle,20990
+991,ddavetri,Chinhoyi,1543711,2,small,20991
+992,ffernleyrj,Paris 12,2319620,3,small,20992
+993,kschirakrk,Severomorsk,3060212,1,big,20993
+994,hhicksrl,Mae Sai,7555036,5,small,20994
+995,mrevillrm,Krebetkrajan,3024302,4,big,20995
+996,ecollabinern,Laranjeiras,4771111,2,small,20996
+997,sgrainero,Bundoran,2470861,3,middle,20997
+998,fbartolaccirp,Gaojialing,4225776,1,big,20998
+999,mdinsellrq,Pulupandan,3711748,5,small,20999
+1000,pfarndellrr,Yongjiu,6535339,5,middle,21000
