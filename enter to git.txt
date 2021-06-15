@@ -1,0 +1,167 @@
+begin
+update_number_of_soldiers(10000,420);
+end;
+
+update commander
+    set commander.number_of_soldiers = 2000000
+    where commander_id = 421;
+
+CREATE OR REPLACE PROCEDURE update_number_of_soldiers( new_number_of_soldiers IN NUMBER, update_commander_id IN NUMBER) IS
+BEGIN
+    update commander
+    set commander.number_of_soldiers = new_number_of_soldiers
+    where commander_id = update_commander_id;
+END;
+
+git clone https://github.com/shimonbalsam/150225-5781-Databases
+
+Z:\database\New folder\150225-5781-Databases>git add git clone https://github.com/shimonbalsam/150225-5781-Databases
+fatal: pathspec 'git' did not match any files
+
+Z:\database\New folder\150225-5781-Databases>git add .
+warning: LF will be replaced by CRLF in BASE (1).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BASE (2).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BASE.csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (1).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (11).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (12).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (13).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (14).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (15).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (2).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (3).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (4).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (5).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (6).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (7).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander (8).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in commander.csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (1).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (10).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (11).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (12).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (13).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (14).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (15).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (16).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (17).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (18).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (19).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (2).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (3).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (4).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (5).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (6).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (7).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (8).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit (9).csv.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in unit.csv.
+The file will have its original line endings in your working directory.
+
+Z:\database\New folder\150225-5781-Databases>git commit -m "fff"
+[main 7277bda] fff
+ Committer: שמעון בלזם <sbalsam@acad.jct.ac.il>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 39040 insertions(+)
+ create mode 100644 BASE (1).csv
+ create mode 100644 BASE (2).csv
+ create mode 100644 BASE.csv
+ create mode 100644 commander (1).csv
+ create mode 100644 commander (10).csv
+ create mode 100644 commander (11).csv
+ create mode 100644 commander (12).csv
+ create mode 100644 commander (13).csv
+ create mode 100644 commander (14).csv
+ create mode 100644 commander (15).csv
+ create mode 100644 commander (2).csv
+ create mode 100644 commander (3).csv
+ create mode 100644 commander (4).csv
+ create mode 100644 commander (5).csv
+ create mode 100644 commander (6).csv
+ create mode 100644 commander (7).csv
+ create mode 100644 commander (8).csv
+ create mode 100644 commander (9).csv
+ create mode 100644 commander.csv
+ create mode 100644 desktop.ini
+ create mode 100644 unit (1).csv
+ create mode 100644 unit (10).csv
+ create mode 100644 unit (11).csv
+ create mode 100644 unit (12).csv
+ create mode 100644 unit (13).csv
+ create mode 100644 unit (14).csv
+ create mode 100644 unit (15).csv
+ create mode 100644 unit (16).csv
+ create mode 100644 unit (17).csv
+ create mode 100644 unit (18).csv
+ create mode 100644 unit (19).csv
+ create mode 100644 unit (2).csv
+ create mode 100644 unit (3).csv
+ create mode 100644 unit (4).csv
+ create mode 100644 unit (5).csv
+ create mode 100644 unit (6).csv
+ create mode 100644 unit (7).csv
+ create mode 100644 unit (8).csv
+ create mode 100644 unit (9).csv
+ create mode 100644 unit.csv
+
+Z:\database\New folder\150225-5781-Databases>git push
+fatal: AggregateException encountered.
+   One or more errors occurred.
+Username for 'https://github.com': shimonbalsam
+Password for 'https://shimonbalsam@github.com':
+Counting objects: 42, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (42/42), done.
+Writing objects: 100% (42/42), 740.71 KiB | 1.12 MiB/s, done.
+Total 42 (delta 0), reused 0 (delta 0)
+To https://github.com/shimonbalsam/150225-5781-Databases
+   53b1c60..7277bda  main -> main
+
+Z:\database\New folder\150225-5781-Databases>
